@@ -1,0 +1,51 @@
+
+Donde:  
+**CONTESTADAS:** Llamadas contestadas en plazo.  
+**A:** Número de llamadas contestadas en un tiempo menor o igual a 10 segundos.  
+**B:** Número total de intentos.  
+**C:** Llamadas abandonadas en un tiempo menor o igual a 10 segundos.  
+
+Se excluirán aquellos periodos donde se tenga una elevación considerable del tráfico de llamadas, generadas a partir de eventos que no fuesen de responsabilidad del operador y/o proveedor, los cuales deberán ser reportados una vez concluido el evento con los descargos correspondientes, mismos que serán analizados por la Autoridad Reguladora dentro del proceso de evaluación.  
+
+**b)** **Valor Objetivo**  
+
+El valor objetivo del tiempo de respuesta del operador, es el siguiente:  
+
+**Porcentaje de llamadas contestadas hasta los 10 segundos, mayor o igual a 80,00%**  
+
+**II.** Para la meta _“Tiempo de Respuesta del Operador”_ considerar que será aplicable para todos los servicios de telecomunicaciones, conforme los respectivos Reglamentos de Calidad específicos para cada servicio emitidos.  
+
+### CAPÍTULO IV  
+#### PROCEDIMIENTO Y SANCIONES  
+
+**ARTÍCULO 14.- (PROCEDIMIENTO).**  
+**I.** El incumplimiento a los indicadores establecidos en el presente reglamento se sujetará al procedimiento dispuesto en el Capítulo III y IV del Título III del Reglamento de la Ley de Procedimiento Administrativo para el Sistema de Regulación Sectorial – SIRESE, aprobado por el Decreto Supremo N° 27172 de 15 de septiembre de 2003.  
+
+**II.** Los recursos administrativos contra las resoluciones de carácter definitivo o actos administrativos que tengan carácter equivalente, se sustanciaran de acuerdo a lo dispuesto en el Capítulo V del Título III de la Ley N° 2341 de Procedimiento Administrativo y al Título IV del Reglamento de la Ley de Procedimiento Administrativo para el Sistema de Regulación Sectorial – SIRESE”.  
+
+**ARTÍCULO 15. (CÁLCULO DE LA SANCIÓN).** Si al momento de establecer el valor de incumplimiento, este presenta valores decimales, la sanción será prorrateada en función del establecimiento de multa para el indicador en cuestión.  
+
+**ARTÍCULO 16. (INCUMPLIMIENTO A LOS INDICADORES).** Las sanciones por incumplimiento a los indicadores establecidos en el presente Reglamento son los siguientes:  
+
+a) El incumplimiento del valor objetivo por cada punto porcentual para el indicador de Porcentaje de Llamadas Completadas On Net, será sancionado con 20.000,00 UFVs.  
+
+b) El incumplimiento del valor objetivo por cada punto porcentual para el indicador de Porcentaje de Llamadas Caídas, será sancionado con 20.000,00 UFVs.  
+
+c) El incumplimiento del valor objetivo por cada segundo para el indicador de Tiempo de Establecimiento de Llamada, será sancionado con 20.000,00 UFVs.  
+
+d) El incumplimiento del valor objetivo por cada punto porcentual para el indicador de Disponibilidad de Radiobases, será sancionado con 20.000,00 UFVs.  
+
+e) El incumplimiento del valor objetivo por cada punto porcentual para el indicador de Tiempo de Respuesta del operador, será sancionado con 20.000,00 UFVs.  
+
+**ARTÍCULO 17.- (CONMUTACIÓN DE MULTAS).** Las multas impuestas por incumplimiento a los indicadores y planes de mejora del servicio móvil podrán ser conmutadas de la siguiente manera:  
+
+a) Al cincuenta por ciento (50%) del importe establecido, cuando el operador y/o proveedor dentro del plazo establecido para interponer recurso de revocatoria contra la resolución sancionatoria, consienta expresamente su ejecución mediante uno de los siguientes mecanismos:  
+
+1. Aceptación efectuada por medios digitales, en la plataforma de pagos de la ATT y la realización del pago a través de los mecanismos establecidos por esta;  
+2. Aceptación por escrito y adjuntando el comprobante de depósito del monto conmutado en la cuenta habilitada para efecto e identificada por la ATT.  
+
+b) La ATT a efectos de aprobar o rechazar la conmutación de sanciones, deberá dictar resolución administrativa;  
+
+c) El consentimiento expreso a la conmutación y su correspondiente pago, implica la ejecución de la resolución sancionatoria.  
+
+La presente es una versión imprimible de un documento firmado digitalmente en el Sistema de Gestión y Flujo Documental de la ATT.  
