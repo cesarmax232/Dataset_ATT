@@ -1,0 +1,437 @@
+# DECRETO SUPREMO N° 4326
+
+**JEANINE ÁÑEZ CHÁVEZ**  
+**PRESIDENTA CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA**
+
+## CONSIDERANDO:
+
+Que el Parágrafo I del Artículo 20 de la Constitución Política del Estado, determina que toda persona tiene derecho al acceso universal y equitativo a los servicios básicos de agua potable, alcantarillado, electricidad, gas domiciliario, postal y telecomunicaciones.
+
+Que el Parágrafo II del Artículo 20 del Texto Constitucional, establece que es responsabilidad del Estado, en todos sus niveles de gobierno, la provisión de los servicios básicos a través de entidades públicas, mixtas, cooperativas o comunitarias. En los casos de electricidad, gas domiciliario y telecomunicaciones se podrá prestar el servicio mediante contratos con la empresa privada. La provisión de servicios debe responder a los criterios de universalidad, responsabilidad, accesibilidad, continuidad, calidad, eficiencia, eficacia, tarifas equitativas y cobertura necesaria; con participación y control social.
+
+Que la Ley N° 164, de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación, tiene por objeto establecer el régimen general de telecomunicaciones y tecnologías de información y comunicación, del servicio postal y el sistema de regulación, en procura del vivir bien garantizando el derecho humano individual y colectivo a la comunicación, con respeto a la pluralidad económica, social, jurídica, política y cultural de la totalidad de las bolivianas y los bolivianos, las naciones y pueblos indígena originario campesinos, y las comunidades interculturales y afrobolivianas del Estado Plurinacional de Bolivia.
+
+Que el numeral 1 del Artículo 84 de la Ley N° 164, señala que el reglamento referido a firmas y certificados digitales, comprenderá, entre otros, las sanciones.
+
+Que el Artículo 92 de la Ley N° 164, dispone que se constituyen infracciones dentro el marco regulatorio las transgresiones a las disposiciones contenidas en la citada Ley y sus reglamentos, contratos y otras normas aplicables al sector de telecomunicaciones y tecnologías de información y comunicación.
+
+Que el Parágrafo V del Artículo 94 de la Ley N° 164, establece que la graduación, montos y forma de pago por las sanciones se establecerán en reglamento. El monto proveniente del pago de estas sanciones se depositará en la cuenta bancaria correspondiente al Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS.
+
+Que la Disposición Transitoria Sexta de la Ley N° 164, señala que todos los aspectos que se requieran para la aplicación de la citada Ley, serán reglamentados por el Órgano Ejecutivo y regulados por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes, en un plazo máximo de ciento veinte días hábiles a partir de la promulgación de la misma.
+
+Que el Reglamento General a la Ley N° 164, de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación, para el sector de Telecomunicaciones aprobado por Decreto Supremo N° 1391, de 24 de octubre de 2012, tiene por objeto reglamentar las actividades del sector de telecomunicaciones.
+
+Que el Reglamento para el Desarrollo de Tecnologías de Información y Comunicación, aprobado por Decreto Supremo N° 1793, de 13 de noviembre de 2013, tiene por objeto reglamentar el acceso, uso y desarrollo de las Tecnologías de Información y Comunicación.
+
+Que es necesario contar con la reglamentación al régimen de infracciones y sanciones, para aplicar y cumplir lo establecido en la Ley N° 164 y sus reglamentos generales.
+
+## EN CONSEJO DE MINISTROS,
+
+### DECRETA:
+
+**ARTÍCULO ÚNICO.** - Se aprueba el Reglamento de Infracciones y Sanciones para el sector de Telecomunicaciones, Tecnologías de Información y Comunicación, que en Anexo forma parte integrante del presente Decreto Supremo.
+
+## DISPOSICIONES ADICIONALES
+
+**DISPOSICIÓN ADICIONAL PRIMERA.** - La Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes – ATT emitirá los estándares de calidad para cada servicio a través de resoluciones administrativas, determinando los procedimientos, categorías, metas, índices, periodicidad, entre otros, para la evaluación del cumplimiento de dichos estándares, las sanciones o planes de mejora según corresponda por el incumplimiento a éstos serán establecidas por la ATT y se constituirán como parte de los respectivos contratos.
+
+**DISPOSICIÓN ADICIONAL SEGUNDA.** - La ATT realizará la devolución de importes depositados por bienes rematados derivados de la imposición del secuestro como sanción o de los importes de las multas derivadas de una sanción, cuando por efecto de una impugnación en la vía administrativa o por el control jurisdiccional, sean anuladas o dejadas sin efecto, para lo cual la ATT deberá aplicar la normativa vigente.
+
+## DISPOSICIONES TRANSITORIAS
+
+**DISPOSICIÓN TRANSITORIA PRIMERA.** - Los procesos sancionadores y los recursos de revocatoria y/o jerárquico, en los que se impugnen resoluciones emergentes de procesos sancionadores y que se hallen en trámite al momento de la publicación del presente Decreto Supremo, continuarán rigiéndose por la normativa aplicable al momento de la comisión de la infracción.
+
+**DISPOSICIÓN TRANSITORIA SEGUNDA.** - En un plazo máximo de tres (3) meses a partir de la publicación del presente Decreto Supremo, la ATT emitirá, a través de resolución administrativa, un instructivo de buenas prácticas para instalación y mantenimiento de redes de telecomunicaciones, para determinar entre otros, las causales atribuibles al operador o proveedor en los incidentes de interrupción del servicio.
+
+**DISPOSICIÓN TRANSITORIA TERCERA.** -  
+**I.** Los equipos secuestrados con carácter definitivo por la ATT con anterioridad a la publicación de la presente norma, serán dispuestos conforme a lo establecido en el Reglamento aprobado por el presente Decreto Supremo.  
+**II.** La ATT, en un plazo máximo de cinco (5) meses a partir de la publicación del presente Decreto Supremo, aprobará el procedimiento para:  
+a. Venta anticipada o subasta pública de los bienes secuestrados;  
+b. Sustitución de bienes secuestrados.  
+
+**DISPOSICIÓN TRANSITORIA CUARTA.** - En un plazo máximo de tres (3) meses a partir de la publicación del presente Decreto Supremo, la ATT emitirá través de una resolución administrativa, un instructivo técnico referido a interrupciones en la provisión de servicios, determinando la presentación de reportes, plazos de evaluación, procedimientos, entre otros.
+
+## DISPOSICIONES ABROGATORIAS Y DEROGATORIAS
+
+**DISPOSICIONES ABROGATORIAS.** - Se abroga el Decreto Supremo N° 25950, de 20 de octubre de 2000 y sus modificaciones.
+
+## DISPOSICIONES FINALES
+
+**DISPOSICIÓN FINAL PRIMERA.** - El Reglamento de Infracciones y Sanciones para el sector de Telecomunicaciones, Tecnologías de Información y Comunicación aprobado por el presente Decreto Supremo, entrará en vigencia a partir de la publicación de la presente norma.
+
+**DISPOSICIÓN FINAL SEGUNDA.** - La aplicación del presente Decreto Supremo y su Anexo no comprometerán recursos adicionales del Tesoro General de la Nación – TGN.
+
+El señor Ministro de Estado en el Despacho de Obras Públicas, Servicios y Vivienda, queda encargado de la ejecución y cumplimiento del presente Decreto Supremo.
+
+Es dado en la Casa Grande del Pueblo de la ciudad de La Paz, a los siete días del mes de septiembre del año dos mil veinte.
+
+**FDO. JEANINE ÁÑEZ CHÁVEZ, Karen Longaric Rodríguez, Yerko M. Núñez Negrette, Arturo Carlos Murillo Prijic, Luis Fernando López Julio, Branko Goran Marinkovic Jovicevic, Oscar Miguel Ortiz Antelo, Víctor Hugo Zamora Castedo, Álvaro Rodrigo Guzmán Collao, José Abel Martínez Mrden, Iván Arias Durán, Jorge Fernando Oropeza Teran, Álvaro Eduardo Coímbra Cornejo, Oscar Bruno Mercado Céspedes, María Eidy Roca de Sangüesa, María Elva Pinckert de Paz, Víctor Hugo Cárdenas Conde, Beatriz Eliane Capobianco Sandoval.**
+
+---
+
+# REGLAMENTO DE INFRACCIONES Y SANCIONES PARA EL SECTOR DE TELECOMUNICACIONES, TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
+
+## TÍTULO I  
+### PARTE GENERAL  
+
+#### CAPÍTULO I  
+##### GENERALIDADES  
+
+**ARTÍCULO 1.- (OBJETO).** El presente Reglamento tiene por objeto normar la aplicación a transgresiones a las disposiciones contenidas en la Ley N° 164, de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación, sus reglamentos y otras normas vigentes en telecomunicaciones, tecnologías de información y comunicación.  
+
+**ARTÍCULO 2.- (ÁMBITO DE APLICACIÓN).** El presente Reglamento es aplicable a personas naturales o jurídicas, públicas, estatales o privadas, nacionales o extranjeras, cooperativas y comunitarias que realicen actividades o presten servicios de telecomunicaciones, tecnologías de información y comunicación, en el territorio del Estado Plurinacional de Bolivia.  
+
+**ARTÍCULO 3.- (EXCLUSIÓN).** Se excluye del ámbito de aplicación del presente Reglamento, las conductas y hechos establecidos como causales de terminación de contrato y revocatoria de licencia señalados en el Artículo 40 de la Ley N° 164 y los respectivos contratos.  
+
+#### CAPÍTULO II  
+##### APLICACIÓN DE SANCIONES  
+
+**ARTÍCULO 4.- (SANCIONES).**  
+**I.** El cumplimiento de las sanciones impuestas, no convalida la actividad irregular que dio lugar a la sanción, debiendo el infractor cesar los actos irregulares en el plazo establecido por la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes – ATT.  
+**II.** La aplicación de las sanciones, no exime al operador y/o proveedor de servicios de la responsabilidad del cumplimiento de sus obligaciones en la prestación del servicio a la usuaria o usuario.  
+
+**ARTÍCULO 5.- (EXIMENTES DE RESPONSABILIDAD).**  
+**I.** Se excluye de responsabilidad al presunto infractor, cuando el hecho que configura la infracción administrativa ha sido determinado como una situación de caso fortuito o de fuerza mayor. Se entiende como caso fortuito al hecho humano imprevisible e inevitable a pesar de haber realizado una conducta diligente, este hecho exime de culpa y no habrá responsabilidad, salvo cuando el infractor provocó o contribuyó al caso fortuito. Se entiende como fuerza mayor al hecho de la naturaleza externo, que, aunque pudiera preverse es inevitable.  
+**II.** Quien pretenda hacer valer los eximentes de responsabilidad señalados en el Parágrafo anterior dentro del procedimiento sancionador, deberá presentar los elementos de prueba pertinentes que demuestren los mismos, para que sean considerados y determinados por la ATT al momento de dictar la resolución.  
+
+**ARTÍCULO 6.- (ATENUANTES).**  
+**I.** Para efectos de la aplicación de las sanciones del presente Reglamento, constituyen atenuantes las siguientes:  
+a. Primera infracción cometida del mismo tipo;  
+b. Allanamiento a la formulación de cargos;  
+c. Haber subsanado por iniciativa propia la situación ocasionada por la infracción hasta antes del vencimiento del plazo establecido para la contestación a la formulación de cargos.  
+**II.** Las sanciones de multa e inhabilitación temporal serán atenuadas en un tercio (1/3) de la cantidad de días multa o de días de inhabilitación, según corresponda, cuando exista algún atenuante.  
+**III.** El allanamiento implica la aceptación incondicional por parte del procesado a la formulación de cargos de manera integral e incondicionada, y debe ser comunicado a la ATT dentro del plazo establecido para la contestación de dicha formulación.  
+**IV.** Las atenuantes descritas anteriormente, no son acumulables.  
+**V.** Se permite la aplicación de atenuantes aun en caso de que se determine la existencia de agravantes.  
+
+**ARTÍCULO 7.- (AGRAVANTES).**  
+**I.** Constituyen agravantes para los efectos de la aplicación de las sanciones previstas por el presente Reglamento, las siguientes:  
+a. Reincidencia en la infracción del mismo tipo;  
+b. Existencia de concurso de infracciones.  
+**II.** Las sanciones se agravarán de acuerdo a lo siguiente:  
+a. Multa o inhabilitación temporal en un tercio (1/3) de la cantidad de días multa o de días de inhabilitación de su última cuantía o duración, según corresponda;  
+b. Apercibimiento se agrava con multa o inhabilitación temporal de acuerdo a lo previsto en el presente Reglamento.  
+**III.** En ningún caso las sanciones agravadas podrán exceder el máximo de quinientos (500) días multa o de trescientos sesenta (360) días de inhabilitación temporal.  
+
+**ARTÍCULO 8.- (REINCIDENCIA DE INFRACCIONES).** Constituye reincidencia cuando se incurre en la comisión de la misma infracción en dos o más veces por el mismo servicio dentro de los dos (2) años. Para este efecto, se tomarán en cuenta las resoluciones sancionatorias que hubieran causado estado o no admitan recurso ulterior en sede administrativa y estén consignadas en el registro de sanciones en los últimos dos (2) años.  
+
+**ARTÍCULO 9.- (CONCURSO IDEAL).** En caso de que varios tipos de infracciones concurran en el mismo hecho, se aplicará la sanción que corresponda a la infracción más grave determinada sobre la base de los criterios establecidos en el Artículo de agravantes de este Reglamento y agravada en un tercio (1/3) de su cuantía o duración.  
+
+**ARTÍCULO 10.- (CONCURSO REAL).** En caso de que varios tipos de infracciones concurran en varios hechos relacionados entre sí, se aplicará la sanción que corresponda a la infracción más grave determinada sobre la base de los criterios establecidos en el Artículo de agravantes de este Reglamento y agravada en un tercio (1/3) de su cuantía o duración.  
+
+**ARTÍCULO 11.- (MULTAS).**  
+**I.** El monto del día multa se determina en función a los ingresos brutos del infractor en la gestión anterior a la comisión de la infracción, dicho monto corresponderá a las trescientas sesentavas partes (1/360) del uno por ciento (1%) de los ingresos brutos del servicio respecto al cual se cometió la infracción, para los operadores de redes privadas, corresponderá el uno por ciento (1%) de la Tasa de Fiscalización y Regulación.  
+**II.** En caso que los infractores que por norma expresa no estén sujetos al pago de la Tasa de Fiscalización y Regulación, el monto del día multa a determinarse para la sanción será equivalente al dos por ciento (2%) del valor en libros de la última gestión de los equipos necesarios para realizar la prestación del servicio y/o actividades.  
+**III.** En caso de actividad ilegal prevista en los Parágrafos I y II del Artículo 18 del presente Reglamento, el monto del día multa equivaldrá a las trescientas sesentavas partes (1/360) del uno por ciento (1%) del promedio de los ingresos brutos de todos los operadores y/o proveedores del servicio involucrado en la gestión anterior a la comisión de la infracción.  
+**IV.** Para la infracción prevista en el Parágrafo III del Artículo 18 del presente Reglamento, el monto del día multa equivaldrá a las trescientas sesentavas partes (1/360) del uno por ciento (1%) de los ingresos brutos de la gestión anterior a la comisión de la infracción, con relación a lo siguiente:  
+a. Para personas naturales o jurídicas que presten servicios de forma ilegal, el promedio de los ingresos brutos de todos los operadores y/o proveedores del servicio involucrado;  
+b. Para los operadores o proveedores infractores que prestan servicios de telecomunicaciones, el día multa se determinará con relación al operador y/o proveedor con mayor ingreso bruto en el servicio involucrado.  
+En caso de que no exista un operador y/o proveedor con mayor ingreso bruto, el monto del día multa será calculado en base al promedio de sus propios ingresos brutos percibidos por el servicio de los tres (3) últimos años.  
+**V.** En caso de actividad ilegal en el servicio de radiodifusión, el monto del día multa equivaldrá a las trescientas sesentavas partes (1/360) del uno por ciento (1%) de los ingresos brutos de la gestión anterior a la comisión de la infracción del operador regulado con mayor ingreso bruto en la misma área de servicio.  
+**VI.** En caso de actividad ilegal prevista en el Artículo 35 del presente Reglamento, el monto del día multa equivaldrá a las trescientas sesentavas partes (1/360) del uno por ciento (1%) del promedio de los ingresos brutos en la gestión anterior a la comisión de la infracción, de todas las entidades certificadoras.  
+**VII.** En caso que el operador o proveedor no haya presentado la información de los ingresos brutos del servicio respecto al cual se cometió la infracción, el monto del día multa equivaldrá a las trescientas sesentavas partes (1/360) del uno por ciento (1%) del promedio de los ingresos brutos de la gestión anterior a la comisión de la infracción, de todos los operadores y/o proveedores del servicio involucrado.  
+**VIII.** El monto de la multa será expresado en Unidades de Fomento de Vivienda – UFV.  
+**IX.** En caso de que un hecho afecte a varios servicios, la multa se calculará sobre la base del servicio con mayores ingresos brutos.  
+**X.** El monto del día multa no podrá ser inferior al equivalente a UFV 35.- (TREINTA Y CINCO 00/100 UNIDADES DE FOMENTO DE VIVIENDA), ni superior a UFV 35.000.- (TREINTA Y CINCO MIL 00/100 UNIDADES DE FOMENTO DE VIVIENDA), de acuerdo al tipo de cambio vigente a la fecha del pago de la multa.  
+**XI.** Cuando la Resolución sancionatoria haya quedado firme en sede administrativa sin que el pago de la multa haya sido efectivo, la ATT iniciará el proceso de cobro coactivo.  
+
+**ARTÍCULO 12.- (REGISTRO DE SANCIONES).**  
+**I.** La ATT creará y administrará un registro de sanciones, consignando aquellas que causen estado en sede administrativa, en el que constarán, además, las agravantes, atenuantes y conmutación.  
+**II.** El mencionado registro contendrá, al menos, la siguiente información:  
+a. Datos del infractor;  
+b. Identificación de la infracción;  
+c. Tipo de sanción aplicada y cuando corresponda su cuantía y la aplicación de conmutación;  
+d. Número y fecha de Resolución Administrativa Sancionatoria;  
+e. Detallará si existió cumplimiento voluntario de la sanción y si fue en término, así como cuando haya existido cumplimiento forzoso;  
+f. Se registrará la existencia de agravantes y/o atenuantes;  
+g. Estado del proceso, cuando corresponda.  
+**III.** Este registro será actualizado de forma permanente por la ATT.  
+
+#### CAPÍTULO III  
+##### DE LA PRESCRIPCIÓN Y LA CONMUTACIÓN DE MULTAS  
+
+**ARTÍCULO 13.- (PRESCRIPCIÓN).**  
+**I.** La acción del Sector de Telecomunicaciones de Información y Comunicación para imponer infracciones y su procesamiento prescribirán en el término de dos (2) años y las sanciones en el término de un (1) año. Para las infracciones, el plazo de prescripción se computará a partir de la fecha en que se hubiese cometido la infracción, en caso de que su procesamiento haya iniciado, el cómputo iniciará nuevamente desde la última actuación administrativa. Para las sanciones, la prescripción se computará desde el día siguiente que la resolución administrativa sancionatoria que la imponga haya adquirido firmeza en sede administrativa.  
+**II.** La prescripción de las infracciones quedará interrumpida mediante la notificación con la iniciación del proceso sancionador correspondiente o actuación administrativa, para el caso de las sanciones quedará interrumpida mediante la iniciación del proceso de cobro.  
+
+**ARTÍCULO 14.- (CONMUTACIÓN DE MULTAS).** Las sanciones serán conmutadas de la siguiente manera:  
+a) Las sanciones de multa al cincuenta por ciento (50%) del importe establecido, cuando el responsable dentro del plazo establecido para interponer recurso de revocatoria contra la resolución sancionatoria, consienta expresamente su ejecución mediante uno de los siguientes mecanismos:  
+1. Aceptación efectuada por medios digitales, en la plataforma de pagos de la ATT y la realización del pago a través de los mecanismos establecidos por esta;  
+2. Aceptación por escrito y adjuntando el comprobante de depósito del monto conmutado en la cuenta habilitada para efecto e identificada por la ATT.  
+b) Las sanciones de inhabilitación temporal en la mitad del tiempo de la sanción cuando el responsable consienta expresamente por escrito la ejecución de la resolución sancionatoria dentro del plazo establecido para interponer recurso de revocatoria contra la resolución sancionatoria. En caso de que se deba dividir una cantidad impar de días, se redondeará al número inferior;  
+c) La ATT a efectos de aprobar o rechazar la conmutación de sanciones en multa o de inhabilitación, deberá dictar resolución administrativa;  
+d) El consentimiento expreso a la conmutación y su correspondiente pago, implica la ejecución de la resolución sancionatoria.  
+
+#### CAPÍTULO IV  
+##### SECUESTRO DE EQUIPOS, COMPONENTES, PIEZAS Y MATERIALES POR OPERACIONES NO LEGALES  
+
+**ARTÍCULO 15.- (SECUESTRO PREVENTIVO DE EQUIPOS, COMPONENTES, PIEZAS Y MATERIALES COMO MEDIDA PRECAUTORIA).**  
+**I.** En caso de iniciarse un proceso sancionador por infracciones correspondientes al Artículo 18 del presente Reglamento la ATT podrá aplicar el secuestro.  
+**II.** En caso de no consolidarse el secuestro preventivo como sanción mediante resolución sancionatoria, los bienes secuestrados deberán ser devueltos a su propietario dentro de los tres (3) meses siguientes a que dicha resolución haya adquirido firmeza en sede administrativa.  
+**III.** En caso de que los bienes secuestrados en la vía precautoria sean susceptibles de deterioro, perecimiento, obsolescencia o de difícil o gravosa custodia, podrán ser objeto de venta anticipada en subasta pública, de acuerdo a procedimiento establecido por la ATT.  
+**IV.** Los equipos, componentes, piezas y materiales secuestrados en calidad de medida precautoria quedarán bajo custodia de la ATT o alternativamente ésta podrá designar terceros depositarios para tal efecto, hasta que el secuestro sea determinado como sanción definitiva por resolución sancionatoria firme en sede administrativa, caso contrario se aplicará el Parágrafo II del presente Artículo.  
+
+**ARTÍCULO 16.- (DESTINO DE LOS BIENES SECUESTRADOS A EFECTO DE LA SANCIÓN).**  
+**I.** En caso de que los equipos, componentes, piezas y materiales producto de la acción de secuestro sean susceptibles de deterioro, perecimiento, obsolescencia o de difícil o gravosa custodia, podrán ser objeto de subasta pública, de acuerdo a procedimiento establecido por la ATT.  
+**II.** En caso de que la subasta prevista en el Parágrafo precedente sea declarada desierta, los bienes pasarán a ser propiedad de la ATT y podrán ser dispuestos en el marco de las Normas Básicas del Sistema de Administración de Bienes y Servicios.  
+**III.** En caso de que los equipos, componentes, piezas o materiales secuestrados ya se encuentren en estado de obsolescencia, deterioro, no tengan valor económico en el mercado o estando sujetos a homologación no se encuentren homologados, la ATT dispondrá su destrucción.  
+**IV.** La sustitución de lo secuestrado se dará conforme a lo previsto por el numeral 3 del Artículo 96 de la Ley Nº 164 cumpliendo el procedimiento de la ATT.  
+
+**ARTÍCULO 17.- (COOPERACIÓN).** En el marco de la coordinación y cooperación interinstitucional, el Ministerio Público, la Policía Nacional, el Órgano Judicial y cualquier otra institución hábil y no impedida por ley, deberá prestar su cooperación oportuna a la ATT cuando ésta solicite órdenes de allanamiento con las facultades suficientes y necesarias para el cumplimiento y ejecución de sus resoluciones o actos administrativos, respetando el contenido íntegro de estos.  
+
+---
+
+## TÍTULO II  
+### RÉGIMEN DE INFRACCIONES Y SANCIONES PARA EL SECTOR DE TELECOMUNICACIONES  
+
+#### CAPÍTULO I  
+##### PRESTACIÓN ILEGAL DEL SERVICIO, EJERCICIO ILEGAL DE ACTIVIDADES DE TELECOMUNICACIONES Y UTILIZACIÓN INDEBIDA DEL ESPECTRO RADIOELÉCTRICO  
+
+**ARTÍCULO 18.- (ACTIVIDAD O PRESTACIÓN ILEGAL).**  
+**I.** Constituye infracción la realización de actividades o prestación u ofrecimiento de servicios u operación de redes de telecomunicaciones, tecnologías de información y comunicación sin contar con la correspondiente licencia única, habilitación específica o autorizaciones del sector emitidos por la ATT.  
+**II.** Constituye infracción la utilización del espectro radioeléctrico sin contar con la correspondiente licencia para el uso de frecuencias u otras licencias o autorizaciones del sector emitidas por la ATT.  
+**III.** Constituye infracción el fraude establecido en la normativa sectorial vigente o conexión ilegal, independientemente de que el infractor cuente o no con licencia única, habilitación específica u otras licencias o autorizaciones del sector emitidas por la ATT.  
+
+**ARTÍCULO 19.- (SANCIONES PARA INFRACCIONES POR LA ACTIVIDAD O PRESTACIÓN ILEGAL).** Se impondrá la sanción de trescientos setenta y cinco (375) días multa o secuestro de equipos, componentes, piezas y materiales a quienes incurran en las infracciones previstas en el Artículo 18 del presente Reglamento.  
+
+#### CAPÍTULO II  
+##### INFRACCIONES CONTRA EL SISTEMA DE TELECOMUNICACIONES, TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN  
+
+**ARTÍCULO 20.- (INFRACCIONES GENERALES).**  
+**I.** Constituyen infracciones contra el sistema de telecomunicaciones, tecnologías de información y comunicación las siguientes:  
+a. Perturbar o dañar los equipos, redes o sistemas de telecomunicaciones;  
+b. Interconectar por parte de los radioaficionados sus sistemas a las Redes Públicas, salvo casos establecidos por norma;  
+c. No cooperar ni poner a disposición de las autoridades públicas legítima y legalmente constituidas, de manera gratuita y oportuna, las redes y servicios, así como la emisión, transmisión y recepción de las telecomunicaciones y tecnologías de información y comunicación que les sean requeridas, en casos de peligro para la seguridad del Estado, amenaza externa, conmoción interna o desastres;  
+d. Incurrir en las prohibiciones establecidas en el Artículo 61 de la Ley N° 164, y otras del Artículo 173 del Reglamento General a la Ley N° 164, de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación para el Sector de Telecomunicaciones, aprobado por Decreto Supremo N° 1391, de 24 de octubre de 2012;  
+e. Incurrir en prácticas anticompetitivas, abusivas o desleales establecidas en reglamento específico en el marco del Parágrafo II del Artículo 173 del Reglamento General a la Ley N° 164, de 8 de agosto de 2011, General de Telecomunicaciones, Tecnologías de Información y Comunicación para el Sector de Telecomunicaciones, aprobado por Decreto Supremo N° 1391;  
+f. Que la estructura tarifaria y precios no reflejen los costos que demande la provisión eficiente de cada servicio;  
+g. No incluir opciones tarifarias para usuarios o usuarias de menores ingresos;  
+h. Contar con una estructura tarifaria que no promueva el uso eficiente de los servicios y que contenga aspectos anticompetitivos;  
+i. Que las tarifas tengan subsidios cruzados entre servicios prestados en diferentes redes;  
+j. Incurrir en actos u omisiones contra la inviolabilidad y secreto de las telecomunicaciones.  
+**II.** Constituyen también infracciones contra el sistema de telecomunicaciones, tecnologías de información y comunicación, las siguientes:  
+a. Operar con características técnicas, distintas a las autorizadas en sus respectivas licencias o registradas de acuerdo a procedimiento establecido por la ATT;  
+b. Interrumpir la provisión del servicio por causales atribuibles al operador o proveedor por un tiempo superior a los treinta (30) minutos continuos, sin autorización de la ATT, salvo las causales establecidas por norma;  
+c. Producir interferencias no admisibles definidas en el Reglamento de Radiocomunicaciones de la Unión Internacional de Telecomunicaciones – UIT;  
+d. Incumplir las obligaciones establecidas en la reglamentación del sector de telecomunicaciones a proveedores y operadores dominantes, o las establecidas como medidas correctivas ante la falta de competencia efectiva para un servicio;  
+e. Emitir, reproducir, distribuir, transmitir, retransmitir o difundir contenidos cualquiera sea su naturaleza mediante el servicio de distribución de señales o valor agregado de distribución de señales sin la autorización expresa del titular de los derechos o del distribuidor.  
+**III.** Son también infracciones contra el sistema de telecomunicaciones, tecnologías de información y comunicación, las siguientes:  
+a. No adoptar medidas técnicas de seguridad que eviten interferencias y perturbaciones a los otros servicios de telecomunicaciones;  
+b. Utilizar y/o comercializar equipos de telecomunicaciones por parte de operadores y/o proveedores de servicios de telecomunicaciones que se encuentren sujetos a homologación y no cuenten con el correspondiente certificado;  
+c. Habilitar o activar un equipo terminal (Identidad Internacional de Equipo Móvil – IMEI) que se encuentre en las listas negras;  
+d. Proveer servicios condicionados a la adquisición por parte de la usuaria o usuario de acciones, equipos terminales, otros bienes o servicios u otro tipo de aportación o pago que no sea parte de la estructura tarifaria, ni exigir que sean socios o miembros de la organización;  
+e. Ofrecer, suscribir contratos o prestar servicios de telecomunicaciones sin contar con los contratos de adhesión o términos y condiciones de la provisión de servicio, aprobados por la ATT;  
+f. No reportar a la ATT los contratos con condiciones especiales suscritos con las usuarias o usuarios.  
+
+**ARTÍCULO 21.- (SANCIONES PARA INFRACCIONES CONTRA EL SISTEMA DE TELECOMUNICACIONES, TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN).**  
+**I.** Se impondrá la sanción de trescientos setenta y cinco (375) días multa, a quien cometa las infracciones previstas en el Parágrafo I del Artículo 20 del presente Reglamento.  
+**II.** Será sancionada con multa de ciento cincuenta (150) días multa, quien cometa las infracciones previstas en el Parágrafo II del Artículo 20 del presente Reglamento.  
+**III.** Será sancionada con multa de setenta y cinco (75) días multa, quien cometa las infracciones previstas en el Parágrafo III del Artículo 20 del presente Reglamento.  
+
+**ARTÍCULO 22.- (INFRACCIONES CONTRA LA INTERCONEXIÓN).**  
+**I.** Se constituyen infracciones contra la interconexión las siguientes:  
+a. Negar injustificadamente el establecimiento de la interconexión o a la ampliación de la misma;  
+b. No permitir o negar a la itinerancia o roaming en áreas rurales;  
+c. Interrumpir la interconexión, sin la debida autorización de la ATT;  
+d. Realizar la interconexión en términos y condiciones discriminatorias;  
+e. Realizar cobros superiores a las tarifas establecidas para itinerancia o roaming en áreas rurales;  
+f. Incumplir con las obligaciones establecidas para el Punto de Intercambio de Tráfico;  
+g. Incumplir la prestación del servicio de apoyo para la facturación, cobranza y corte conjunto;  
+h. Incumplir la prestación del servicio de apoyo para la facturación, cobranza y corte conjunto en itinerancia o roaming en áreas rurales;  
+i. Incumplir el plazo y condiciones establecidas en el mecanismo de interconexión aprobado por la ATT, por parte del operador solicitante o solicitado;  
+j. Establecer interconexiones sin cumplir con los Mecanismos de Interconexión;  
+k. Aplicar cargos de interconexión distintos a los determinados por la ATT.  
+**II.** Constituyen también infracciones las siguientes:  
+a. No presentar a la ATT en el término previsto, la oferta básica de interconexión para su aprobación;  
+b. No subsanar en plazo las observaciones de la ATT a la oferta básica de interconexión y/o su actualización;  
+c. No presentar, incumplir o demorar la notificación a los operadores interconectados, de cambios sustanciales en la configuración de su red o la alteración de características técnicas de equipos que afecten la interconexión;  
+d. Realizar por parte de los operadores solicitados, acciones de mercadeo y publicidad sobre las usuarias y usuarios del operador solicitante que se encuentren utilizando el servicio de itinerancia o roaming en áreas rurales;  
+e. Otorgar condiciones para la interconexión de menor calidad que la facilitada a sus propios servicios;  
+f. No solucionar los casos de fallas y problemas de la interconexión de acuerdo a lo establecido en los mecanismos de interconexión;  
+g. No hacer efectivas las transferencias por concepto de cobranza conjunta en el plazo establecido, salvo acuerdo entre partes;  
+h. Incumplir con obligaciones económicas establecidas en un mecanismo de interconexión por dos (2) o más meses continuos.  
+
+**ARTÍCULO 23.- (SANCIONES POR INFRACCIONES CONTRA LA INTERCONEXIÓN).**  
+**I.** Se impondrá la sanción de multa de ciento cincuenta (150) días multa, a quienes incurran en las infracciones previstas en el Parágrafo I del Artículo 22 del presente Reglamento.  
+**II.** Será sancionada con apercibimiento la primera ocasión en la que se cometa la infracción establecida en los incisos a) y b) del Parágrafo II del Artículo 22 del presente Reglamento y en caso de reincidencia se impondrá la multa de setenta y cinco (75) días multa.  
+**III.** Será sancionado con multa de setenta y cinco (75) días multa, quien cometa cualquiera de las infracciones establecidas en los incisos del c) al h) del Parágrafo II del Artículo 22 del presente Reglamento.  
+
+**ARTÍCULO 24.- (INFRACCIONES CONTRA LOS SERVICIOS DE RADIODIFUSIÓN).** Constituyen infracciones contra los servicios de radiodifusión las siguientes:  
+a. Formar monopolios u oligopolios de forma directa o indirecta que impliquen concentración de frecuencias del espectro radioeléctrico, en los servicios de radiodifusión en el Área de servicio autorizado;  
+b. Emitir, reproducir, distribuir, transmitir, retransmitir o difundir contenidos cualquiera sea su naturaleza mediante el servicio de radiodifusión o valor agregado para televisión digital terrestre sin la autorización expresa del titular de los derechos o del distribuidor;  
+c. Incumplir con la obligación de transmisión de mensajes presidenciales oficiales;  
+d. Modificar indebidamente la ubicación de las plantas de transmisión y/o características técnicas de operación autorizadas por la ATT;  
+e. Incumplir con la prestación del servicio de radiodifusión en la respectiva área de servicio y la cobertura según lo establecido en la normativa vigente;  
+f. Operar fuera de los parámetros técnicos autorizados en la licencia para uso de frecuencias, los instructivos técnicos que se establezcan y/o norma expresa;  
+g. Incumplir con los instructivos técnicos emitidos por la ATT en el marco de la normativa referida a la prestación del servicio de Radiodifusión;  
+h. Incumplir los plazos del apagón analógico establecidos en los Planes de Implementación de Radiodifusión con tecnología Digital;  
+i. Incumplir con el Pago de Transmisión y Multiplexación establecidos en los Planes de Implementación de Radiodifusión con tecnología Digital;  
+j. Incumplir con el porcentaje de producción nacional establecidos en los Planes de Implementación de Radiodifusión con tecnología Digital;  
+k. Suspender las emisiones o realizar corte del servicio sin contar con la Autorización de la ATT.  
+
+**ARTÍCULO 25.- (SANCIONES POR INFRACCIONES CONTRA LOS SERVICIOS DE RADIODIFUSIÓN).**  
+**I.** Se impondrá la sanción de multa de trescientos setenta y cinco (375) días multa, a quienes incurran en la infracción prevista en el inciso a) del Artículo 24 del presente Reglamento.  
+**II.** Se impondrá la sanción de multa de trescientos (300) días multa, a quienes incurran en las infracciones previstas en el inciso b) e i) del Artículo 24 del presente Reglamento.  
+**III.** Se impondrá la sanción de multa de doscientos veinticinco (225) días multa, a quienes incurran en las infracciones previstas en los incisos c), d), e), f), g), h) y k) del Artículo 24 del presente Reglamento.  
+**IV.** Se impondrá la sanción de multa de ciento cincuenta (150) días multa, a quienes incurran en la infracción prevista en el inciso j) del Artículo 24 del presente Reglamento.  
+
+#### CAPÍTULO III  
+##### INFRACCIONES CONTRA DERECHOS DE LAS USUARIAS Y USUARIOS DE TELECOMUNICACIONES Y TIC  
+
+**ARTÍCULO 26.- (INFRACCIONES CONTRA DERECHOS DE LAS USUARIAS Y USUARIOS DE TELECOMUNICACIONES Y TIC).**  
+**I.** Constituyen infracciones contra los derechos de las usuarias y usuarios, las siguientes:  
+a. Incumplir los plazos y procedimientos establecidos en la normativa sectorial vigente respecto a la atención de reclamaciones directas de usuarias y usuarios;  
+b. No contar con un sistema de registro y/o atención de reclamaciones directas;  
+c. Incumplir las condiciones especiales acordadas con las usuarias o usuarios, establecidas en contratos reportados a la ATT;  
+d. Cambiar el número asignado a la usuaria o usuario sin su autorización para la prestación de servicios de telecomunicaciones, o sin la aprobación de la ATT;  
+e. Migrar de una categoría tarifaria a otra, sin el consentimiento de la usuaria o usuario, salvo que represente mayores beneficios y sea aceptado por la usuaria o usuario;  
+f. No permitir a la usuaria o usuario dejar en cualquier momento el servicio o planes de acceso a los mismos, salvo condiciones pactadas en los contratos;  
+g. Negativa injustificada de la provisión del servicio.  
+**II.** Constituyen además infracciones contra derechos de las usuarias y usuarios, las siguientes:  
+a. No poner a disposición de la usuaria o usuario la información referida a los servicios que presta, mediante página web y puntos de atención al cliente;  
+b. Incumplir las condiciones establecidas en los contratos de adhesión y términos y condiciones de la provisión del servicio, aprobados por la ATT;  
+c. No poner a disposición de la usuaria o usuario la guía telefónica a través de un medio impreso o electrónico, de manera gratuita y anual;  
+d. No reintegrar o devolver los montos que resulten a favor de la usuaria o usuario por errores de facturación, deficiencias o corte del servicio;  
+e. No rehabilitar el servicio en el plazo establecido para el efecto;  
+f. No proporcionar o negar a las usuarias o usuarios el suministro de detalle de llamadas, volumen de datos consumidos y/o consumo de servicios, independientemente de la modalidad de pago, conforme a norma;  
+g. Incumplir con el contenido mínimo del detalle de llamadas, estado de cuenta y/o volumen de datos, de acuerdo a normativa vigente.  
+**III.** Son además infracciones contra derechos de las usuarias y usuarios, las siguientes:  
+a. Facturación y/o cobro indebido;  
+b. Incumplir los procedimientos de facturación y/o cobranza y/o corte, de acuerdo a normativa vigente;  
+c. Aplicar de manera discriminatoria tarifas a usuarias o usuarios que se encuentren en una misma categoría tarifaria o en condiciones similares del servicio;  
+d. No proporcionar información clara, precisa, cierta, completa, oportuna y/o gratuita a las usuarias y usuarios, respecto a los servicios que el operador presta.  
+
+**ARTÍCULO 27.- (SANCIONES POR INFRACCIONES CONTRA DERECHOS DE LAS USUARIAS Y LOS USUARIOS).** Sin perjuicio de la restitución, reposición o devolución que corresponda al derecho vulnerado de la usuaria o usuario, la ATT impondrá las siguientes sanciones a quienes incurran en las infracciones establecidas en el Artículo 26 del presente Reglamento, conforme a lo siguiente:  
+a) Cuando producto de un proceso de reclamación administrativa, la ATT determine la comisión de las infracciones previstas en el Artículo 26 del presente Reglamento con afectación a una usuaria o usuario, se impondrá la sanción de apercibimiento;  
+b) Cuando producto de una fiscalización la ATT determine la comisión de una de las infracciones previstas en el Artículo 26 del presente Reglamento, se impondrá las siguientes sanciones:  
+1. Diez (10) días multa a quienes incurran en las infracciones previstas en el Parágrafo I del Artículo 26 del presente Reglamento;  
+2. Cinco (5) días multa a quienes incurran en las infracciones previstas en el Parágrafo II del Artículo 26 del presente Reglamento;  
+3. Cinco (5) días multa a quienes incurran en las infracciones previstas en el Parágrafo III del Artículo 26 del presente Reglamento, afectando a un número mayor a mil (1.000) usuarias o usuarios.  
+
+#### CAPÍTULO IV  
+##### INFRACCIONES CONTRA LOS DERECHOS DE OPERADORES Y PROVEEDORES DE TELECOMUNICACIONES  
+
+**ARTÍCULO 28.- (INFRACCIONES CONTRA LOS DERECHOS DE OPERADORES Y PROVEEDORES DE TELECOMUNICACIONES).**  
+**I.** Constituyen infracción contra los derechos de operadores y proveedores la obstrucción de la transferencia de activos a un nuevo titular en caso de vencimiento o caducidad o revocatoria de la licencia.  
+**II.** Constituye también infracción contra los derechos de operadores y proveedores utilizar sin autorización de un operador su infraestructura o parte de ella.  
+**III.** Constituyen también infracciones contra los derechos de operadores y proveedores las siguientes:  
+a. Incumplir con los requisitos y procedimientos de corte conjunto y rehabilitación;  
+b. Incumplir con la restricción de un servicio específico a todos los operadores y/o proveedores del mismo servicio;  
+c. No permitir o negar el acceso y uso compartido de infraestructura, a otro proveedor u operador, salvo imposibilidad técnica verificada por la ATT.  
+
+**ARTÍCULO 29.- (SANCIONES POR INFRACCIONES CONTRA LOS DERECHOS DE LOS OPERADORES Y PROVEEDORES DE TELECOMUNICACIONES).**  
+**I.** Se impondrá la sanción de multa de trescientos (300) días multa, a quienes incurran en la infracción prevista en el Parágrafo I del Artículo 28 del presente Reglamento.  
+**II.** Se impondrá la sanción de multa de ciento cincuenta (150) días multa, a quienes incurran en la infracción prevista en el Parágrafo II del Artículo 28 del presente Reglamento.  
+**III.** Se impondrá la sanción de multa de setenta y cinco (75) días multa, a quienes incurran en las infracciones previstas en el Parágrafo III del Artículo 28 del presente Reglamento.  
+
+#### CAPÍTULO V  
+##### INFRACCIONES CONTRA LAS ATRIBUCIONES DE LA AUTORIDAD REGULADORA  
+
+**ARTÍCULO 30.- (INFRACCIONES CONTRA LAS ATRIBUCIONES DE LA AUTORIDAD REGULADORA).**  
+**I.** Constituyen infracciones contra las atribuciones de la ATT, las siguientes:  
+a. Negar, obstruir o resistir el ejercicio de las atribuciones de fiscalización o inspección administrativa o auditoría por parte de la ATT;  
+b. Incumplir total o parcialmente las resoluciones de carácter general emitidas por la ATT, u obstaculizar su cumplimiento;  
+c. No presentar información para el Sistema de Información Sectorial y Contabilidad Regulatoria – SIFCU.  
+**II.** También constituye infracción contra las atribuciones de la ATT presentar información calificada por ésta como falsa y/o engañosa, sin perjuicio de las acciones penales que correspondan.  
+**III.** También constituyen infracciones contra las atribuciones de la ATT las siguientes:  
+a. Incumplir total o parcialmente las resoluciones de carácter particular emitidas por la ATT, u obstaculizar su cumplimiento;  
+b. No mantener y/o preservar los documentos previstos por la normativa vigente dentro del plazo establecido al efecto, salvo imposibilidad verificada por la ATT;  
+c. Falta de presentación de reportes, datos o documentación de respaldo relativos a los estándares de calidad conforme a la normativa vigente;  
+d. Modificar y ocultar las marcas, etiquetas o signos de identificación de los equipos de telecomunicaciones, cuando con ello se obstaculicen las labores de inspección y fiscalización de la ATT;  
+e. Incumplir el estándar técnico sobre límites de exposición humana a campos electromagnéticos de radiofrecuencia;  
+f. No presentar mensualmente los resultados de la medición de las metas de calidad para cada servicio;  
+g. No proporcionar la información o documentación en los formatos y plazos requeridos por la ATT, salvo imposibilidad técnica verificada por la ATT.  
+
+**ARTÍCULO 31.- (SANCIONES PARA LAS INFRACCIONES CONTRA LA ATRIBUCIÓN DE LA AUTORIDAD REGULADORA).**  
+**I.** Se impondrá la sanción de multa de trescientos (300) días multa, a quienes incurran en la infracción prevista en el Parágrafo I del Artículo 30 del presente Reglamento.  
+**II.** Se impondrá la sanción de multa de ciento cincuenta (150) días multa, a quienes incurran en las infracciones previstas en el Parágrafo II del Artículo 30 del presente Reglamento.  
+**III.** Se impondrá la sanción de multa de setenta y cinco (75) días multa, a quienes incurran en las infracciones previstas en el Parágrafo III del Artículo 30 del presente Reglamento.  
+
+#### CAPÍTULO VI  
+##### OTRAS INFRACCIONES Y SANCIONES PARA EL SECTOR DE TELECOMUNICACIONES  
+
+**ARTÍCULO 32.- (OTRAS INFRACCIONES PARA EL SECTOR DE TELECOMUNICACIONES).** Se constituyen en otras infracciones para telecomunicaciones las siguientes:  
+a. La utilización de servicios o actividades ilegales, por un operador o proveedor legal de servicios de telecomunicaciones para la provisión de su servicio;  
+b. No permitir o negar el acceso y uso compartido de infraestructura beneficiada con recursos del Programa Nacional de Telecomunicaciones de Inclusión Social – PRONTIS, posterior a la vigencia del contrato de financiamiento, salvo imposibilidad técnica verificada por la ATT;  
+c. Comercializar equipos de telecomunicaciones y tecnologías de información y comunicación, incluidos los equipos de transmisión, y otros que utilicen frecuencias y bandas de frecuencias radioeléctricas de uso libre, que no cuenten con la homologación y/o registro de comercializador ante la ATT.  
+
+**ARTÍCULO 33.- (SANCIONES CONTRA OTRAS INFRACCIONES).** Se impondrá la sanción de multa de ciento cincuenta (150) días multa, a quienes incurran en las infracciones previstas en el Artículo 32 del presente Reglamento.  
+
+**ARTÍCULO 34.- (OBLIGACIONES CONTRACTUALES).**  
+**I.** El incumplimiento de cualquiera de las obligaciones establecidas en los contratos suscritos por operadores o proveedores con la ATT, será posible a la sanción prevista en el respectivo contrato y a la falta de ella, con la sanción que corresponde a dicho incumplimiento si el mismo está contemplado como una infracción en el presente Reglamento.  
+**II.** En caso de evidenciarse infracciones sancionadas tanto en el presente Reglamento como en el contrato, se aplicarán las sanciones señaladas en el contrato.  
+
+---
+
+## TÍTULO III  
+### RÉGIMEN DE INFRACCIONES Y SANCIONES DEL SERVICIO DE CERTIFICACIÓN DIGITAL  
+
+#### CAPÍTULO I  
+##### CONTRA LA PRESTACIÓN ILEGAL DEL SERVICIO DE CERTIFICACIÓN DIGITAL  
+
+**ARTÍCULO 35.- (PRESTACIÓN ILEGAL DEL SERVICIO DE CERTIFICACIÓN DIGITAL).** Se constituye en infracción la prestación u ofrecimiento de certificación digital cuyo fin sea el uso de la firma digital por parte del signatario, sin contar con la debida autorización de la ATT o con el reconocimiento de una entidad certificadora autorizada nacional.  
+
+**ARTÍCULO 36.- (SANCIÓN PARA INFRACCIONES CONTRA LA PRESTACIÓN ILEGAL DEL SERVICIO).** Se impondrá la sanción de multa de trescientos setenta y cinco (375) días multa o secuestro de equipos, componentes, piezas y materiales a quienes incurran en la infracción prevista en el Artículo 35 del presente Reglamento.  
+
+#### CAPÍTULO II  
+##### CONTRA LOS DERECHOS DE LAS USUARIAS O USUARIOS DEL SERVICIO DE CERTIFICACIÓN DIGITAL  
+
+**ARTÍCULO 37.- (CONTRA LOS DERECHOS DE LOS USUARIAS O USUARIOS DEL SERVICIO DE CERTIFICACIÓN DIGITAL).** Constituyen infracciones contra el derecho de una usuaria o de un usuario del servicio de Certificación Digital las siguientes:  
+a. No mantener la confidencialidad de la información proporcionada por los titulares de los certificados digitales, salvo orden judicial o solicitud del titular del certificado digital;  
+b. Copiar y/o almacenar la clave privada del signatario;  
+c. Procesar, bloquear, cancelar, transferir, consultar e interconectar los datos personales del titular sin su consentimiento;  
+d. El corte injustificado del servicio en línea de validación de certificados digitales;  
+e. No informar al signatario cuándo se ha vulnerado y/o comprometido la seguridad de su información;  
+f. Revocar el certificado digital sin justificación;  
+g. Negar injustificadamente la provisión del certificado digital;  
+h. No informar al usuario, previamente, sobre las condiciones de emisión, validación, renovación, baja, suspensión, tarifas y uso de sus certificados digitales.  
+
+**ARTÍCULO 38.- (SANCIÓN PARA INFRACCIONES CONTRA LOS DERECHOS DE LAS USUARIAS Y LOS USUARIOS DE CERTIFICADORES DIGITALES).** Sin perjuicio de la restitución, reposición o deducción que corresponda al derecho vulnerado, se impondrá la sanción de multa de:  
+a. Ciento cincuenta (150) días multa, a quien cometa las infracciones previstas en los incisos a), b) c), d), e), f) y g) del Artículo 37 del presente Reglamento;  
+b. Setenta y cinco (75) días multa, a quien cometa la infracción prevista en el inciso h) del Artículo 37 del presente Reglamento.  
+
+#### CAPÍTULO III  
+##### INFRACCIONES CONTRA LAS ATRIBUCIONES DE LA AUTORIDAD REGULADORA DE ENTIDADES CERTIFICADORAS AUTORIZADAS  
+
+**ARTÍCULO 39.- (INFRACCIONES CONTRA LAS ATRIBUCIONES DE LA AUTORIDAD REGULADORA DE ENTIDADES CERTIFICADORAS AUTORIZADAS).**  
+**I.** Constituyen infracciones contra las atribuciones de la ATT, las siguientes:  
+a. Omisión de llevar un registro actualizado de los certificados expedidos;  
+b. Cualquier impedimento u obstrucción a la realización de inspecciones o auditorías técnicas o control, seguimiento, supervisión y fiscalización por parte de la ATT;  
+c. No comunicar inmediatamente por parte de las entidades certificadoras a la ATT, sobre alguna anomalía o incidente que pueda comprometer la confidencialidad de su clave privada;  
+d. Incumplir con el pago de las obligaciones económicas de acuerdo a normativa vigente;  
+e. La emisión de certificados sin el cumplimiento de las políticas de certificación comprometida y que causen perjuicio al usuario, signatario o tercero, o que incida gravemente en la seguridad de los servicios de certificación;  
+f. No facilitar información ni prestar colaboración al personal autorizado por la ATT en ejercicio de sus funciones, para efectos de control, seguimiento, supervisión y fiscalización del Servicio de Certificación Digital.  
+**II.** También constituyen infracciones contra las atribuciones de la Autoridad Reguladora que incurran las certificadoras digitales, las siguientes:  
+a. La falta de notificación a la ATT del cambio de personería jurídica del representante legal o de domicilio principal;  
+b. No mantener la información relativa a los certificados digitales emitidos, por al menos cinco (5) años posteriores al periodo de validez o vigencia;  
+c. No publicar, mantener o actualizar por parte de las entidades certificadoras que deriven de la entidad certificadora raíz, los procedimientos de certificación digital y su contenido en un sistema de información de acceso libre.  
+
+**ARTÍCULO 40.- (SANCIONES PARA LAS INFRACCIONES CONTRA LAS ATRIBUCIONES DE LA AUTORIDAD REGULADORA DE ENTIDADES CERTIFICADORAS).**  
+**I.** Se impondrá la sanción de multa de ciento cincuenta (150) días multa, a quienes incurran en las infracciones previstas en el Parágrafo I del Artículo 39 del presente Reglamento.  
+**II.** Se impondrá la sanción de multa de setenta y cinco (75) días multa, a quienes incurran en la infracción prevista en el Parágrafo II del Artículo 39 del presente Reglamento.  
+
+#### CAPÍTULO IV  
+##### OTRAS INFRACCIONES Y SANCIONES PARA ENTIDADES CERTIFICADORAS  
+
+**ARTÍCULO 41.- (OTRAS INFRACCIONES PARA CERTIFICADORAS DIGITALES).** Se constituyen en otras infracciones las siguientes:  
+a. No publicar ni actualizar la lista de los certificados digitales suspendidos y revocados de acuerdo a lo establecido por norma;  
+b. No revocar el certificado digital de acuerdo a sus políticas y procedimientos aprobados según norma;  
+c. No revocar el certificado digital a solicitud expresa del signatario o cuando corresponda de acuerdo a norma;  
+d. No comunicar inmediatamente, por parte de las entidades certificadoras a la ATT, sobre algún incidente que pueda comprometer la seguridad de sus sistemas.  
+
+**ARTÍCULO 42.- (SANCIONES CONTRA OTRAS INFRACCIONES PARA CERTIFICADORAS DIGITALES).** Se impondrá la sanción de multa de ciento cincuenta (150) días multa, a quienes incurran en las infracciones previstas en el Artículo 41 del presente Reglamento.  
+
+---
+
+## TÍTULO IV  
+### ALCANCE DE RESOLUCIONES  
+
+**ARTÍCULO 43.- (RESOLUCIONES ABSOLUTORIAS).** Las resoluciones absolutorias declararán improbada la comisión de la infracción, dispondrán el levantamiento de las medidas precautorias adoptadas. En caso de secuestro cautelar, se dispondrá la devolución de los bienes secuestrados o embargados en los alcances del presente Reglamento.  
+
+**ARTÍCULO 44.- (RESOLUCIONES DE APERCIBIMIENTO).** Las resoluciones de apercibimiento señalarán el hecho ilícito y dominarán a proceder de acuerdo a norma fijando plazo al efecto.  
+
+**ARTÍCULO 45.- (RESOLUCIONES QUE SANCIONEN CON SECUESTRO).** Las resoluciones que impongan el secuestro como sanción, dispondrán expresamente la pérdida de la propiedad de los equipos, de sus componentes, piezas y/o materiales.  
+
+**ARTÍCULO 46.- (RESOLUCIONES QUE SANCIONEN CON MULTA).** Las resoluciones que sancionen con multa, corresponderán a cada infracción cometida, salvo concurso real o ideal, y señalarán al menos la cantidad de días multa y la multa impuesta en UFV.  
+
+**ARTÍCULO 47.- (RESOLUCIONES QUE SANCIONEN CON INHABILITACIÓN TEMPORAL).** Las resoluciones de inhabilitación temporal, señalarán la actividad de telecomunicaciones prohibida al responsable y la cantidad de días de inhabilitación impuestos y deberán cumplirse desde el día hábil siguiente al de su notificación.  
