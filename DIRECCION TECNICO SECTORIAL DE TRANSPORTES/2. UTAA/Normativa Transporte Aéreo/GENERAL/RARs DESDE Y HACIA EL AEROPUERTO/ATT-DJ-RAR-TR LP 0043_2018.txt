@@ -1,0 +1,482 @@
+# RESOLUCIÓN ADMINISTRATIVA REGULATORIA
+
+**VISTOS:**
+
+**ATT-DJ-RAR-TR LP 43/2018**
+
+La Paz, 09 de Julio de 2018
+
+El Informe Técnico ATT-DTRSP-INF TEC LP 377/2018 de 19 de junio de 2018 **(INFORME TÉCNICO INICIAL); la nota CITE: GAP/0112/07/2018 emitida por el Gerente de Aeropuerto Viru Viru de Servicios de Aeropuertos Bolivianos S.A. – SABSA - Nacionalizada (ADMINISTRADOR AEROPORTUARIO); el Informe Técnico ATT-DTRSP-INF TEC LP 409/2018 de 6 de julio de 2018 (INFORME TÉCNICO FINAL); el Informe Jurídico ATT-DJ-INF JUR LP 587/2018 de 9 de julio de 2018 (INFORME JURÍDICO); los antecedentes del caso; la normativa vigente y aplicable; todo lo que se tuvo presente y convino ver; y,
+
+## CONSIDERANDO 1: ÁMBITO DE COMPETENCIA
+
+Que las competencias y atribuciones de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes (ATT), están definidas por el Decreto Supremo Nº 0071 de 9 de abril de 2009 **(DS 0071), concordante con lo establecido en los artículos 4 y 31 de la Ley N° 165, de 16 de agosto de 2011, General de Transporte (Ley 165), quedando sometidas a ésta las personas naturales o jurídicas que prestan servicios de transporte en cualesquiera de sus modalidades y las personas naturales o jurídicas que desarrollan y/o administran infraestructura y prestan servicios logísticos complementarios al transporte; en este contexto, la ATT busca garantizar los intereses y derechos de los usuarios o consumidores, así como promover la economía plural prevista en la Constitución Política del Estado Plurinacional de Bolivia (CPE) y las leyes en forma efectiva.
+
+## CONSIDERANDO 2: MARCO NORMATIVO
+
+Que la Ley N° 1600 de 28 de octubre de 1994, por la cual se crea el Sistema de Regulación Sectorial para regular, controlar y supervisar aquellas actividades de los sectores del transporte terrestre, aéreo, ferroviario, fluvial y lacustre, asegurando que las actividades bajo su jurisdicción operen eficientemente y contribuyan al desarrollo de la economía nacional y coadyuven a los habitantes del Estado Plurinacional de Bolivia en acceder a los servicios de transporte.
+
+Que el artículo 1 de la Ley 165 establece como objeto de la misma, establecer los lineamientos normativos generales técnicos, económicos, sociales y organizacionales del transporte, considerado como un Sistema de Transporte Integral – STI, en sus modalidades aérea, terrestre, ferroviaria y acuática (marítima, fluvial y lacustre) que regirán en todo el territorio del Estado Plurinacional de Bolivia a fin de contribuir al vivir bien. Estableciendo, en el inciso b) de su artículo 6 como uno de los principios que rigen el Sistema de Transporte Integral – STI, el de calidad, por el cual el STI debe proveer un servicio en conformidad a los requisitos y estándares que garanticen un nivel de servicio adecuado de bienestar, eficiencia y eficacia, de acuerdo a la contraprestación autorizada.
+
+Que los parágrafos III y IV del artículo 10 de la Ley 165 establecen que el Sistema de Transporte Integral (STI) garantizará la equidad, calidad y seguridad para los usuarios, mejorando las condiciones de sus componentes que contribuyan a la consecución general del vivir bien y la conservación de la integridad física de las personas y carga, así como promover una mejora continua del nivel del servicio, optimizar las condiciones de la prestación del servicio en beneficio de los usuarios y operadores.
+
+Que el artículo 27 de la citada Ley dispone que la Función Normativa de la Autoridad Competente: “Comprenderá la facultad exclusiva de dictar, en el ámbito y materia de su competencia, reglamentos, normas de carácter regulatorio, u otras normas de carácter particular referidas a intereses, obligaciones o derechos de los operadores, administradores de infraestructura y actividades reguladas”. Por su parte, el inciso e) de su artículo 135 establece como una de las políticas que rige el transporte aéreo, que corresponde a los administradores aeroportuarios, conforme a las disposiciones aplicables, asegurar que las terminales aeroportuarias cuenten con infraestructura, instalaciones, equipo, señalización, servicios y sistemas de organización adecuados y suficientes para que la operación se lleve a cabo sobre bases de seguridad, eficiencia y calidad. Además deben permitir otorgar una adecuada atención a las personas con capacidades diferentes, enfermas, adultos mayores, embarazadas, menores e infantes.
+
+Que por su parte el parágrafo I del artículo 165 de la Ley 165 dispone que la regulación y fiscalización de la prestación de los servicios de transporte aéreo y servicios aeroportuarios; y la protección de los derechos de las usuarias y los usuarios son atribuciones del nivel central del Estado, a través de la autoridad competente. Determinando en su artículo 168 que la regulación tarifaria correspondiente al servicio de transporte aéreo de pasajeros, carga y servicios aeroportuarios, será determinada por la autoridad competente del nivel central del Estado para el servicio nacional y de acuerdo a convenios internacionales para el servicio internacional, velando porque se cubran los costos de operación.
+
+Que el artículo 91 del Reglamento Regulatorio para la Modalidad de Transporte Aéreo aprobado mediante Resolución Ministerial N° 30 de 30 de enero de 2017 (Reglamento Regulatorio Aéreo), establece los servicios aeroportuarios para los cuales la Autoridad Regulatoria establecerá tarifas, artículo modificado mediante el punto resolutivo primero de la Resolución Ministerial N° 113 de 29 de marzo de 2018, emitida por el Ministerio de obras Públicas, Servicios y Vivienda (MOPSV), por el cual se incorpora el inciso g) con el siguiente texto: “g) Servicio de Transporte Público Especial de Superficie Aeropuerto – Ciudad y Viceversa”.
+
+Que el artículo 5 del Reglamento para la Prestación del Servicio de Transporte Público Especial de Superficie Aeropuerto – Ciudad y Viceversa para usuarios de las Terminales Aeroportuarias Administradas por AASANA y SABSA Nacionalizada, aprobado mediante Resolución Administrativa Regulatoria ATT-DJ-RAR-TR LP 28/2018 de 20 de abril de 2018 (RAR 28/2018), establece que “Las tarifas y estándares de calidad específicos para la prestación del servicio de transporte público especial de superficie aeropuerto – ciudad y viceversa (...) serán definidas de manera específica para cada aeródromo o aeropuerto por la Autoridad Regulatoria, mediante una Resolución Administrativa Regulatoria, mismos que serán controlados y supervisados por el administrador aeroportuario”.
+
+Que el artículo 4 de dicho Reglamento dispone que la prestación del servicio público especial de superficie aeropuerto – ciudad y viceversa, debe encontrarse formalizada mediante un contrato de subconcesión de servicios, suscrito entre el operador de servicio de transporte público y el administrador aeroportuario. Determinando, en su inciso b) que dicho contrato debe contener como mínimo entre otros. El control y supervisión del Régimen de Estándares de Calidad para el servicio de transporte público sobre la base de los lineamientos mínimo contenidos en el Anexo I de dicho Reglamento.
+
+## CONSIDERANDO 3: ANTECEDENTES
+
+Que en fecha 4 de mayo de 2018 con nota ATT-DTRSP-N LP 574/2018 la ATT solicitó al ADMINISTRADOR AEROPORTUARIO información sobre el servicio de taxis, minibuses y buses de los aeropuertos bajo su administración, misma que fue atendida el 17 de mayo de 2018 mediante nota GGL-0146/05/18-CB, por la cual se adjuntó la base de datos de vehículos que prestan el servicio de transporte en los Aeropuertos Internacionales "Viru Viru", "El Alto" y "Jorge Wilstermann", así como copia de los contratos firmados en los tres Aeropuertos para la prestación del servicio de transporte público especial de superficie aeropuerto - ciudad y viceversa.
+
+Que el 23 de mayo de 2018 con nota ATT-DTRSP-N LP 636/2018, la ATT solicitó a la Agencia Nacional de Hidrocarburos (ANH) información relacionada al consumo de combustible de las unidades vehiculares que prestan servicio en los aeropuertos internacionales, solicitud que fue atendida mediante nota ANH 10227 DTIC 0280/2018, recibida en la ATT el 12 de junio de 2018, por la cual adjuntó la información requerida.
+
+Que el 30 de mayo de 2018 con nota ATT-DTRSP-N LP 658/2018 la ATT solicitó al ADMINISTRADOR AEROPORTUARIO complementación de información referente al servicio de taxis, minibuses y buses de los Aeropuertos Internacionales "Viru Viru" y "Jorge Wilstermann", información que fue remitida mediante notas GGL-187/06/18-CB, recibida en la ATT el 12 de junio de 2018 y GGL-190/06/18-CB, recibida en la ATT el 14 de junio de 2018.
+
+Que asimismo, mediante nota recibida en la ATT el 5 de junio de 2018, el Sindicato de Transportistas de Servicios Rápido "21 de Mayo" hace llegar un análisis económico referente a la prestación del servicio de transporte tipo microbus.
+
+Que el 15 de junio de 2018, en oficinas de la Dirección Técnica Sectorial de Transportes y Servicio Postal de la ATT, se llevó a cabo una reunión entre el personal de la ATT y del ADMINISTRADOR AEROPORTUARIO donde se revisó el modelo tarifario, su aplicación en los aeropuertos bajo su administración y otros puntos conforme consta en el Acta de Reunión suscrita por los asistentes.
+
+Que con nota ATT-DTRSP-N LP 770/2018 de 19 de junio de 2018, la ATT, con la finalidad
+ Que en cumplimiento a lo establecido en el parágrafo I del artículo 165 de la LEY 165 corresponde a la ATT,  
+como Autoridad Regulatoria del nivel central del Estado, la regulación y fiscalización del Servicio  
+Aeroportuario de Transporte Público Especial de Superficie Aeropuerto – Ciudad y Viceversa, definir  
+conforme lo dispone el artículo 5 de la RAR 28/2018, los estándares de calidad específicos a aplicarse en el  
+Aeropuerto Internacional "Viru Viru" de la ciudad de Santa Cruz.
+
+Que de igual forma en cumplimiento a lo dispuesto en el artículo 168 de dicha ley, la regulación tarifaria  
+correspondiente a los servicios aeroportuarios, debe ser determinada por la autoridad competente del nivel  
+central del Estado, correspondiendo dicha determinación a la ATT y, toda vez que el Servicio de Transporte  
+Público Especial de Superficie Aeropuerto – Ciudad y viceversa se encuentra determinado como un servicio  
+aeroportuario de acuerdo a lo señalado en el inciso g) del parágrafo I del artículo 91 del **Reglamento**  
+**Regulatorio Aéreo** incorporado a través del punto resolutivo primero de la Resolución Ministerial N° 113  
+emitida por el MOPSV, resulta necesario establecer las tarifas para el Servicio de Transporte Público Especial  
+de Superficie Aeropuerto – Ciudad y Viceversa del Aeropuerto Internacional "Viru Viru" de la ciudad de  
+Santa Cruz.
+
+Que el INFORME JURÍDICO establece que conforme el mandato normativo la ATT es la Autoridad  
+Competente para definir las tarifas y estándares de calidad del Servicio Aeroportuario de Transporte Público  
+Especial de Superficie Aeropuerto – Ciudad y Viceversa, concluyendo además que de la revisión de los  
+anexos descritos en el INFORME TÉCNICO FINAL que establecen el régimen tarifario del Servicio de  
+Transporte Público Especial de Superficie Aeropuerto – Ciudad y viceversa correspondiente al Aeropuerto  
+Internacional "Viru Viru" de la ciudad de Santa Cruz, considerando el servicio hacia la ciudad y municipios  
+aledaños y viceversa, para lo cual se determinará la zonificación de la ciudad y municipios aledaños de Santa  
+Cruz y los estándares de calidad específicos a aplicarse al servicio, no existiendo ningún impedimento u  
+óbice legal para que la ATT apruebe la aplicación de los mismos.
+
+## ANÁLISIS TÉCNICO
+
+### ESTÁNDARES DE CALIDAD
+
+El término calidad ha sido ampliamente utilizado en distintos sectores de la sociedad y dentro de cada sector  
+en distintos niveles, desarrollándose numerosos conceptos, enfoques, modelos, procesos, métodos y  
+herramientas, desde planteamientos de inspección del producto final hasta el concepto actual de excelencia  
+empresarial, pasando por el control de procesos o aseguramiento de la calidad.
+
+El inciso b) del Artículo 6 de la Ley N° 165 toma como principio lo siguiente:  
+"b) Calidad. El Sistema de Transporte Integral - STI, debe proveer un servicio en conformidad a los requisitos y estándares que garanticen un nivel de servicio adecuado de bienestar, eficiencia y eficacia, de acuerdo a la contraprestación autorizada".
+
+El reglamento aprobado por RAR 28/2018, en el Artículo 4 (Formalización de la Prestación del Servicio),  
+establece que:
+
+"a) Cláusulas de cumplimiento obligatorio para el operador del servicio de transporte público  
+autorizado y para el administrador aeroportuario, con el contenido mínimo establecido en el presente  
+reglamento, pudiendo el administrador aeroportuario establecer otras obligaciones que considere  
+pertinente para precauciar la correcta prestación de este servicio.
+
+b) Control y supervisión del Régimen de Estándares de Calidad para el servicio de transporte público  
+sobre la base de los lineamientos mínimos contenidos en el Anexo I que forma parte integrante e  
+indivisible de la presente Resolución Administrativa, el cual considera las distintas modalidades de  
+transporte a ser prestadas en los aeródromos o aeropuertos del territorio nacional".
+
+### ESTRUCTURA DE COSTOS PARA EL CÁLCULO DE TARIFAS
+
+Para la definición de la Estructura de Costos se tomó en cuenta como base información proporcionada por los operadores e información de mercado.
+
+La Estructura de Costos (Costo Total - CT), se determina en base a la sumatoria de los costos en los que incurren las unidades vehiculares para la prestación del servicio, pudiendo agruparse estos costos en 3 grupos:
+
+- Costos de Operación y Mantenimiento - COM
+- Costos Fijos - CF
+- Costos Administrativos - CA
+
+Fórmula del Costo Total:
+
+CT = COM + CF + CA
+text
+
+
+Donde:  
+`CT = Costo Total`  
+`COM = Costos de Operación y Mantenimiento`
+
+#### Costos de Operación y Mantenimiento - COM
+
+Estructura de los Costos de Operación y Mantenimiento:
+
+| COSTO DE OPERACIÓN Y MANTENIMIENTO (COM) |
+|---|
+| Sistema de Dirección (SD) |
+| Sistema de Transmisión (ST) |
+| Sistema de Suspensión (SS) |
+| Sistema de Frenos (SF) |
+| Motor (MT) |
+| Sistema Eléctrico (SE) |
+| Lubricantes (LB) |
+| Llantas (LT) |
+| Chapa y Pintura (ChPI) |
+| Lavado y Limpieza (LL) |
+| Combustible (CB) |
+
+*(Fuente: Elaboración propia)*
+
+New chat
+AI-generated, for reference only
+
+# RESOLUCIÓN ADMINISTRATIVA REGULATORIA
+
+## FÓRMULAS DE COSTOS
+
+### Costos de Operación y Mantenimiento (COM)
+
+Fórmula para calcular los Costos de Operación y Mantenimiento:
+
+COM = SD + ST + SS + SF + MT + SE + LB + LT + ChPI + LL + CB
+text
+
+
+### Costos Fijos (CF)
+
+Estructura de los Costos Fijos:
+
+| COSTOS FIJOS (CF) | 
+|---|
+| Salario chofer mensual (SM) |
+| Roseta de inspección (RI) |
+| Pagos SABSA (P) |
+| Depreciación Anual (5 años vida útil) (DA) |
+
+*(Fuente: Elaboración propia)*
+
+Fórmula para determinar los Costos Fijos:
+
+CF = SM + 2I + P + DA
+text
+
+
+#### Cálculo de la Depreciación Anual (DA)
+
+Fórmula de depreciación:
+
+DA = (VC - VR) / Vida Util
+text
+
+
+Donde:  
+`DA = Depreciación Anual`  
+`VC = Valor de compra del vehículo`  
+`VR = Valor Residual (20% para este caso)`  
+`Vida Util = 5 años para vehículos`
+
+### Costos Administrativos (CA)
+
+En este grupo de costos se consideran aquellos en los cuales se incurren durante la prestación del servicio y que van a cubrir e influir indirectamente en la operación y funcionamiento del servicio de transporte. Los que se toman en cuenta para el presente cálculo se especifican a continuación:
+# RESOLUCIÓN AÑO DE TELECOMUNICACIONES Y TRANSPORTES
+
+## Resolución Administrativa Regulatoria
+
+### Estructura de los Costos Administrativos - CA
+
+| COSTOS ADMINISTRATIVOS (CA) | |
+|---|---|
+| Uniformes (UN) | Chompas Pantalones Comisas, corbatas Chamarras |
+| Alimentación (Desayuno y almuerzo) (AL) | Pares de zapatos |
+| SOAT | |
+| Impuestos Municipales (IM) | |
+| Emisión de venta de tickets (VT) | |
+
+*(Fuente: Elaboración propia)*
+
+La fórmula para determinar los Costos Administrativos es la siguiente:
+
+CA = UN + AL + SOAT + IM + VT
+text
+
+
+### ANÁLISIS PARA LA MODALIDAD TIPO TAXI
+
+#### Áreas de Destino desde el Aeropuerto
+
+Una característica del servicio de taxi es que no cuenta con una sola ruta establecida, motivo por el cual se dificulta en gran medida la determinación de tarifas, debido a que existen tantos destinos posibles como calles en la ciudad; en este sentido es necesario realizar algún tipo de división de la ciudad con el fin de determinar tarifas homogéneas a cada una de las áreas resultantes, a esta división la denominaremos zonificación.
+
+Para este propósito, se consideró como base la división distrital establecida por el Gobierno Autónomo Municipal de Santa Cruz que comprende un total de 15 distritos, de los cuales 12 son considerados distritos urbanos (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 y 12) y 3 distritos rurales (13, 14 y 15).
+
+Debido al gran tamaño de los algunos distritos, se realizó una sub división con el propósito de obtener una zonificación homogénea, teniendo como resultado la zonificación presentada en el anexo 10 del presente informe, además se presenta un listado de las zonas y/o urbanizaciones que comprende cada distrito.
+
+También se consideraron los siguientes municipios aledaños:
+
+- Urubó
+- Warnes
+- Cotoca
+
+Por otra parte, se tomó en cuenta la mancha urbana de cada uno de los municipios mencionados anteriormente con la finalidad de establecer tarifas.
+# RESOLUCIÓN ADMINISTRATIVA REGULATORIA
+
+## TARIFAS POR ZONAS PARA TAXIS
+
+Después de haber realizado la zonificación de los distritos y de haber identificado los municipios aledaños, se procedió a la determinación de distancias a tres puntos de cada área, considerando los puntos extremos y un punto medio, para posteriormente obtener una distancia promedio con la que se realizara el cálculo de la tarifa.
+
+A partir del establecimiento de estas distancias se aplica la siguiente fórmula que nos permitirá definir la distancia promedio para cada uno de los distritos:
+
+DP(n) = (E1(n) + DM(n) + E2(n)) / 3
+text
+
+
+Donde:  
+DP = Distancia promedio para cada distrito  
+E1 = Distancia más lejana  
+DM = Distancia media  
+E2 = Distancia más cercana  
+
+n = Número de distrito o área  
+
+## TARIFAS PARA MICROBUSES
+
+### Distribución geográfica de los recorridos para microbuses
+
+El servicio especial de transporte público de pasajeros desde y hacia el Aeropuerto Internacional "Viru Viru" en la modalidad de microbús presenta una ruta única que parte desde El Aeropuerto Internacional "Viru Viru" - Aeropuerto "El Trompillo". Ex Terminal de Buses.
+
+| Coordenadas o Puntos de referencia para la modalidad microbús |
+|---|
+| Lugar | Puntos de Referencia |
+|---|---|
+| Aeropuerto Internacional "Viru Viru" | -17.64799, -63.1407 |
+| Aeropuerto "El Trompillo" | -17.80062, -63.1761 |
+| Ex-Terminal de Buses | -17.79272, -63.18716 |
+
+*(Fuente: Elaboración propia)*
+
+### Resultado del modelo para microbús
+
+**Tarifa microbús Aeropuerto "Viru Viru" - calle La Riva casi esquina Cañoto (Ex Terminal de Buses)"**
+
+| Origen | Destino | Distancia (km) | Costo * Distancia | Factor de Ocupación | Tarifa por Pasajero (Bs) | Tarifa Redondeada (Bs) |
+|---|---|---|---|---|---|---|
+| Aeropuerto Internacional "Viru Viru" | calle la Riva casi esquina Cañoto (Ex Terminal de Buses) | 21 | 103.21 | 16 | 6.43034 | 6.50 |
+
+*(Fuente: Elaboración propia)*
+
+## DISPOSITIVOS
+
+**POR TANTO:**
+
+El Director Ejecutivo de la Autoridad de Regulación y Fiscalización de Telecomunicaciones y Transportes - ATT, Ing. **ROQUE ROY MENDEZ SOLETO**, designado mediante Resolución Suprema Nº 19249 de 3 de agosto de 2016, en ejercicio de sus atribuciones conferidas por ley y demás normas vigentes, a nombre del Estado Plurinacional de Bolivia;
+
+**RESUELVE:**
+
+**PRIMERO.-** APROBAR el régimen tarifario del Servicio de Transporte Público Especial de Superficie Aeropuerto - Ciudad y Viceversa tipo taxi entre el Aeropuerto Internacional de "Viru Viru" hacia la ciudad de Santa Cruz y municipios aledaños, de conformidad a lo establecido en el Anexo 1 de la presente Resolución Administrativa Regulatoria, el mismo que será aplicable las 24 horas del día.
+
+**SEGUNDO.-** APROBAR la zonificación de la ciudad de Santa Cruz, exclusivamente para la aplicación del régimen tarifario del Servicio de Transporte Público Especial de Superficie Aeropuerto - Ciudad y Viceversa entre el Aeropuerto Internacional de "Viru Viru" y la ciudad de Santa Cruz, establecida en el Anexo II de la presente Resolución Administrativa Regulatoria.
+
+**TERCERO.-** APROBAR la zonificación de los municipios aledaños a la ciudad de Santa Cruz, exclusivamente para la aplicación del régimen tarifario del Servicio de Transporte Público Especial de Superficie Aeropuerto - Ciudad y Viceversa entre el Aeropuerto Internacional "Viru Viru" y los municipios aledaños de la ciudad de Santa Cruz, establecida en el Anexo III de la presente Resolución Administrativa Regulatoria.
+
+**CUARTO.-** APROBAR el régimen tarifario para el Servicio de Transporte Público Especial de Superficie Aeropuerto - Ciudad y Viceversa tipo microbús entre el Aeropuerto Internacional de "Viru Viru" de la ciudad de Santa Cruz a la calle La Riva casi esquina Cañoto (Ex Terminal de Buses), de acuerdo a lo establecido en el Anexo IV de la presente Resolución Administrativa Regulatoria, el mismo que será aplicable las 24 horas del día.
+
+**QUINTO.-** APROBAR los Regímenes de Estándares de Calidad del Servicio de Transporte Público Especial de Superficie Aeropuerto - Ciudad y Viceversa tipo taxi y tipo microbús para el Aeropuerto Internacional "Viru Viru" de la ciudad de Santa Cruz, de conformidad a lo establecido en el Anexo V de la presente Resolución Administrativa Regulatoria.
+# RESOLUCIÓN Y REGULACIÓN DE TELECOMUNICACIONES Y TRANSPORTES
+
+**RESOLUCIÓN AÑO:** ATT-DISAM-TR LP-020
+
+## DISPOSITIVOS FINALES
+
+**SEXTO.-** INSTRUIR a Servicios Aeroportuarios de Bolivia Sociedad Anónima – SABSA Nacionalizada a controlar y supervisar los Regímenes Tarifarios del Servicio de Transporte Público Especial de Superficie Aeropuerto - Ciudad y Viceversa tipo taxi y tipo microbús, desde el Aeropuerto Internacional "Viru Viru" hacia la ciudad de Santa Cruz y municipios aledaños y los Regímenes de Estándares de Calidad del Servicio de Transporte Público Especial de Superficie Aeropuerto - Ciudad y Viceversa tipo taxi y tipo microbús para el Aeropuerto Internacional "Viru Viru".
+
+**SÉPTIMO.-** INSTRUIR a Servicios Aeroportuarios de Bolivia Sociedad Anónima – SABSA Nacionalizada la difusión y el relevamiento detallado de cada distrito establecido en las zonificaciones descritas en los ANEXOS II y III de la presente Resolución Administrativa Regulatoria, con la finalidad de informar a los usuarios, del Servicio de Transporte Público Especial de Superficie Aeropuerto - Ciudad y Viceversa, de manera previa a la prestación del mismo.
+
+**OCTAVO.-** PUBLÍQUESE la presente Resolución Administrativa Regulatoria en un órgano de prensa de circulación nacional, produciendo efectos la misma, a partir del día siguiente de su publicación.
+
+Los ANEXOS I, II, III, IV y V que forman parte integrante e indivisible de la presente Resolución Administrativa Regulatoria, serán publicados en su totalidad en la página web de la ATT www.att.gob.bo, para conocimiento y consulta de la población en general.
+
+Regístrese y archívese.
+
+# ANEXO V
+
+## RÉGIMEN DE ESTÁNDARES DE CALIDAD DEL SERVICIO DE TRANSPORTE PÚBLICO ESPECIAL DE SUPERFICIE AEROPUERTO - CIUDAD Y VICEVERSA, TIPO TAXI, PARA EL AEROPUERTO INTERNACIONAL "VIRU VIRU" DE LA CIUDAD DE SANTA CRUZ
+
+### 1. IDENTIFICACIÓN DE LOS CONDUCTORES
+
+El conductor debe contar con la Tarjeta de Identificación, la cual debe consignar los siguientes datos:
+
+- Nombre del Aeropuerto
+- Nombre del Conductor
+- Nombre de la empresa para la que presta el servicio
+- Áreas Aeroportuarias a las que puede ingresar
+- Nombre y logo del Administrador Aeroportuario
+- Fotografía nítida del titular
+- Número de la Tarjeta de Identificación
+- Fecha de vencimiento
+
+El conductor debe utilizar uniformes que identifiquen la prestación del servicio de transporte público especial de superficie aeropuerto - ciudad y viceversa.
+
+### 2. IDENTIFICACIÓN DE LOS VEHÍCULOS
+
+El vehículo debe ser identificado con lo siguiente:
+
+- Contar con un número de registro asignado por el administrador aeroportuario
+- Placa del vehículo
+
+**En la parte interna del vehículo**, se debe contar con:
+- Tarifario y zonificación visible y legible (tamaño de letra apropiada e impresión nítida)
+- Tarifas establecidas por la ATT
+- Fotografía y nombre del conductor, legible y nítida
+
+**En la parte externa del vehículo**, se debe contar con:
+- Identificador (Franja, letrero o sticker) que indique que la unidad vehicular presta el servicio de transporte en el aeropuerto
+- Color predominante uniformizado y logotipo establecido en coordinación con el administrador aeroportuario
+
+### 3. LIMPIEZA
+
+- Interior y exterior del vehículo limpios (sin barro, tierra o manchas de suciedad)
+- Piso y asientos sin papeles, residuos de alimentos, golosinas, líquidos derramados ni concentración de olores
+- Tapiz de los asientos en buenas condiciones (no sucio, roto o rayado)
+# 4. EQUIPAMIENTO DE SEGURIDAD
+
+El vehículo debe contar con:
+
+a) Botiquín de primeros auxilios que contenga mínimamente:
+
+- Algodón.
+- Agua oxigenada.
+- Alcohol.
+- Gasas.
+- Medicamentos vigentes.
+- Otros insumos y materiales necesarios.
+
+b) Extintor cuya recarga se encuentre vigente.
+
+# 5. CONDICIONES TÉCNICO OPERATIVAS
+
+- El vehículo debe encontrarse en perfectas condiciones de funcionamiento y mantenimiento mecánico certificado por la autoridad competente.
+- El vehículo debe contar con un registro de control interno sobre el cumplimiento de horarios y frecuencias y otras especificaciones en coordinación con el administrador aeroportuario.
+
+# 6. SERVICIO DE CALIDAD
+
+- Los asientos deben ser cómodos de acuerdo al fabricante sin ser alterados.
+- El guarda equipaje del vehículo debe garantizar la protección del equipaje del usuario.
+- Las ventanas deben estar sin rajaduras y/o quebradas y con seguros que funcionen adecuadamente.
+- Las puertas deben estar en perfecto estado de funcionamiento.
+- Los asientos del conductor, los asientos delanteros y traseros del taxi, deben contar con cinturón de seguridad.
+- Debe contar con aire acondicionado (Vidrios herméticamente cerrados de fábrica) o Calefacción en buen estado de funcionamiento, según el clima.
+- La totalidad del sistema de iluminación debe estar en perfecto estado de funcionamiento.
+RÉGIMEN DE ESTÁNDARES DE CALIDAD DEL SERVICIO DE TRANSPORTE PÚBLICO ESPECIAL DE SUPERFICIE AEROPUERTO - CIUDAD Y VICEVERSA, TIPO MICROBUS, PARA EL AEROPUERTO INTERNACIONAL “VIRU VIRU” DE LA CIUDAD DE SANTA CRUZ
+
+## 1. IDENTIFICACIÓN DE LOS CONDUCTORES
+
+El conductor debe contar con la Tarjeta de Identificación, indicando lo siguiente:
+
+− Nombre del Aeropuerto.  
+− Nombre del Conductor.  
+− Nombre de la empresa que presta el servicio.  
+− Áreas aeroportuarias a las que puede ingresar.  
+− Nombre y logo del Administrador aeroportuario.  
+− Fotografía nítida del titular.  
+− Número de Tarjeta de Identificación.  
+− Fecha de vencimiento.  
+
+El conductor debe utilizar uniformes que identifiquen la prestación del servicio de transporte público especial de superficie aeropuerto - ciudad y viceversa.  
+
+## 2. IDENTIFICACIÓN DE LOS VEHICULOS  
+
+El vehículo debe ser identificado con lo siguiente:  
+
+✓ Contar con un número de registro asignado por el administrador aeroportuario.  
+✓ Placa del vehículo.  
+
+En la parte interna del vehículo, se debe contar con el tarifario y zonificación visible y legible (tamaño de letra apropiada e impresión nítida), indicando lo siguiente:  
+
+✓ Tarifas establecidas por la ATT.  
+✓ Fotografía y nombre del conductor, legible y nítida.  
+
+En la parte externa del vehículo, se debe contar con identificación que permita observar lo siguiente:  
+
+✓ Identificador (Franja, letrero o sticker) que indique que la unidad vehicular presta el servicio de transporte en el aeropuerto.  
+✓ Cada prestador (operador) de servicio de transporte debe presentar un color predominante uniformizado y establecer un logotipo en coordinación con el administrador aeroportuario.  
+
+## 3. LIMPIEZA  
+
+− El interior y exterior del vehículo deben encontrarse limpios (sin barro, tierra o manchas de suciedad).  
+− El piso y los asientos no deben presentar papeles, residuos de alimentos, golosinas, líquidos derramados y ni debe existir concentración de olores.  
+− El tapiz de los asientos debe encontrarse en buenas condiciones (se entiende como buena condición si no está roto o rayado).
+– El vehículo debe contar con un recipiente para los residuos sólidos.
+
+## 4. EQUIPAMIENTO DE SEGURIDAD
+
+El vehículo debe contar con:
+
+c) Botiquín de primeros auxilios que contenga mínimamente:
+
+– Algodón.  
+– Agua oxigenada.  
+– Alcohol.  
+– Gasas.  
+– Medicamentos vigentes.  
+– Otros insumos y materiales necesarios.  
+
+d) Extintor cuya recarga se encuentre vigente.  
+
+## 5. CONDICIONES TÉCNICO OPERATIVAS  
+
+– El vehículo debe encontrarse en condiciones de mantenimiento mecánico certificado por la autoridad competente.  
+– El vehículo debe contar necesariamente con puerta lateral derecha para el abordaje y descenso de los pasajeros.  
+– El vehículo debe contar con un registro de control interno sobre el cumplimiento de horarios y frecuencias y otras especificaciones en coordinación con el administrador aeroportuario.  
+
+## 6. SERVICIO DE CALIDAD  
+
+– Los asientos deben ser cómodos de acuerdo al fabricante sin ser alterados.  
+– Los asientos deben ser distribuidos dando prioridad de abordaje y comodidad a las personas con discapacidad, tercera edad y/o mujeres en gestación.  
+– Las ventanas deben estar sin rajaduras y/o quebradas y con seguros que funcionen adecuadamente.  
+– Los asientos del conductor, los asientos delanteros y los demás asientos del microbús (según fabricación), debe contar con cinturón de seguridad.  
+– Debe contar con aire Acondicionado (Vidrios herméticamente cerrados de fábrica) o Calefacción en buen estado de funcionamiento, según el clima.  
+– La totalidad del sistema de iluminación debe estar en perfecto estado de funcionamiento.  
+
+## 7. IDENTIFICACIÓN DE LOS CONDUCTORES  
+
+El conductor debe contar con la Tarjeta de Identificación, la cual debe consignar los siguientes datos:  
+
+– Nombre del Aeropuerto.  
+– Nombre del Conductor.  
+– Nombre de la empresa para la que presta el servicio.  
+– Áreas Aeroportuarias a las que puede ingresar.  
+– Nombre y logo del Administrador Aeroportuario.  
+– Fotografía nítida del titular.  
+
+# Resolución Administrativa Regulatoria
+
+**ATI-04-RAR-TR.1/4-20201**
+
+## 11. CONDICIONES TÉCNICO OPERATIVAS
+
+El vehículo debe encontrarse en condiciones de mantenimiento mecánico certificado por la autoridad competente.  
+El operador terrestre (vehículo) debe contar con un registro de control interno sobre el cumplimiento de horarios y frecuencias y otras especificaciones en coordinación con el administrador aeroportuario.  
+
+## 12. SERVICIO DE CALIDAD
+
+Los asientos deben ser cómodos de acuerdo al fabricante sin ser alterados.  
+El guarda equipaje del vehículo debe garantizar la protección de los equipajes del usuario.  
+Las ventanas deben estar sin rajaduras y/o quebradas y con seguros que funcionen adecuadamente.  
+Las puertas deben estar en perfecto estado de funcionamiento.  
+Los asientos del conductor, los asientos delanteros y traseros del taxi, deben contar con cinturón de seguridad.  
+Debe contar con aire acondicionado (Vidrios herméticamente cerrados de fábrica) o Calefacción en buen estado de funcionamiento, según el clima.  
+La totalidad del sistema de iluminación debe estar en perfecto estado de funcionamiento.  
+
+
+
+
+
+
+
+

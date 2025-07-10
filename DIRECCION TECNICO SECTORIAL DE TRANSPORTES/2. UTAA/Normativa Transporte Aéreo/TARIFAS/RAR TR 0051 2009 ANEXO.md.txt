@@ -1,0 +1,287 @@
+# REGLAMENTO METODOLÓGICO PARA LA REGULACIÓN TARIFARIA DEL SERVICIO PÚBLICO DE TRANSPORTE AÉREO DOMÉSTICO
+
+## TÍTULO I: DISPOSICIONES GENERALES
+
+**ARTÍCULO 1.- (OBJETO)**  
+El presente Reglamento tiene como objetivo establecer el mecanismo y los criterios de regulación tarifaria para el servicio público de transporte aéreo doméstico regular de pasajeros.
+
+**ARTÍCULO 2.- (ALCANCE)**  
+Están sometidas al presente Reglamento todas las operaciones aeronáuticas regulares explotadas comercialmente por personas naturales o jurídicas dedicadas a la prestación del servicio público de transporte aéreo doméstico regular de pasajeros, en el mercado aeronáutico boliviano, así como a los usuarios de estos servicios.
+
+**ARTÍCULO 3.- (DEFINICIONES)**  
+Para los efectos de la aplicación del presente Reglamento, se establecen las siguientes definiciones:
+
+- **ATT:** Autoridad de Fiscalización y Control Social de Telecomunicaciones y Transportes.
+- **Beta (β):** Mide el riesgo de la inversión en relación con el portafolio de mercado.
+- **Dilución tarifaria:** Porcentaje de pasajeros que no pagan la tarifa plena, ya sea por descuentos aplicables por Ley o por disposiciones del propio Operador.
+- **Operadores:** Son todas las personas naturales o jurídicas, que prestan el servicio público de transporte aéreo doméstico regular de pasajeros en el mercado aeronáutico boliviano.
+- **Factor de ocupación (factor de ocupación de tráfico por etapas):** Número de pasajeros que ocupan un asiento entre el total de asientos disponibles en el vuelo, o la división de la variable pasajeros kilómetro entre asientos kilómetro.
+- **Factor de ocupación de origen-destino:** Número de pasajeros según información origen-destino dividido entre el número de asientos ofrecidos en una ruta.
+- **Pasajero en tránsito:** El que llega a un punto por un vuelo y sale en otro vuelo, o en el mismo, como parte de un movimiento continuo con uno o varios billetes de pasaje, en el mismo o en otro Operador con el cual exista un acuerdo interlineal.
+- **Práctica comercial:** Se refiere a actividades relacionadas con la promoción y venta de servicios aéreos a los usuarios, abarca todo acto, omisión, conducta, representación o comunicación comercial, incluidas la publicidad y la comercialización, que lleve a cabo un Operador.
+- **Publicidad engañosa:** Toda aquella publicidad que induce o pueda inducir a error a sus destinatarios, afectando sus decisiones de consumo y/o perjudicando al competidor.
+- **Rutas Troncales:** Son las rutas La Paz-Cochabamba, Cochabamba-La Paz, La Paz-Santa Cruz, Santa Cruz-La Paz, Cochabamba-Santa Cruz y Santa Cruz-Cochabamba.
+- **Rutas Principales:** Son todas las rutas que tienen origen y destino en una ciudad capital de departamento, con excepción de las rutas troncales.
+- **Usuarios:** Personas naturales o jurídicas que utilizan los servicios aéreos comerciales.
+
+## TÍTULO II: REGULACIÓN TARIFARIA PARA EL MERCADO AERONÁUTICO BOLIVIANO
+
+### CAPÍTULO I: CLASIFICACIÓN DE MERCADOS E IDENTIFICACIÓN DE LAS NECESIDADES DE REGULACIÓN
+
+**ARTÍCULO 4.- (CLASIFICACIÓN DE MERCADOS)**  
+La ATT regulará las rutas domésticas según los siguientes criterios y definiciones:
+
+I. **Rutas consolidadas:** Son aquellas que en el porcentaje acumulado y ordenando descendentemente, representan el 80% del total de pasajeros origen-destino, más-menos un punto porcentual (1%).
+
+II. **Rutas en proceso de consolidación:** Son aquellas rutas que en porcentaje acumulado y ordenado descendentemente, representan entre el 81% y 90% del total de pasajeros origen-destino, más-menos un punto porcentual (1%).
+
+III. **Rutas en desarrollo:** Son todas las demás rutas.
+
+La composición de estas rutas serán revisadas cada cuatro años en cada estudio tarifario.
+
+**ARTÍCULO 5.- (ANÁLISIS DE MERCADO)**  
+La ATT debe realizar un análisis de mercado de las rutas consolidadas y de las rutas en proceso de consolidación, para determinar las características del mercado (estructura, concentración, barreras a la entrada, entre otros), con el objeto de determinar las necesidades de regulación en el mercado aeronáutico.
+
+Para el caso de las rutas en desarrollo, la ATT realizará el análisis o investigación correspondiente ante indicios de prácticas anticompetitivas, orientadas a limitar el desarrollo del mercado, y en su caso dispondrá las acciones regulatorias correspondientes.
+
+**ARTÍCULO 6.- (NECESIDADES DE REGULACIÓN)**  
+Para las rutas consolidadas y las rutas en proceso de consolidación, la ATT establecerá un mecanismo de regulación tarifaria que evite prácticas anticompetitivas o de abuso de posición de dominio.
+
+**ARTÍCULO 7.- (MECANISMO REGULATORIO)**  
+Para las rutas en las que se identifiquen necesidades de regulación tarifaria, la ATT procederá a determinar lo siguiente:
+
+I. Tarifa base máxima y/o mínima  
+II. Factor de eficiencia.  
+III. Fórmula de indexación.  
+IV. Periodo tarifario.  
+
+### CAPÍTULO II: CÁLCULO DE LAS TARIFAS BASE, MÁXIMA Y/O MÍNIMA
+
+**ARTÍCULO 8.- (CÁLCULO DE LAS TARIFAS BASE)**  
+La banda de tarifas base para las rutas que corresponda, se determinará de la siguiente manera:
+
+a) **Cálculo de la Tarifa base para una ruta**  
+
+Para construir una tarifa para la ruta, se pondera la tarifa calculada de cada tramo (ida y retorno) por el número de pasajeros origen-destino observado en los ocho años anteriores al año del estudio tarifario, según se expresa en la siguiente fórmula:
+
+\[
+TP_i = \frac{(\sum_{1}^{8} Pl_{0-D}) * TPI_i + (\sum_{1}^{8} PR_{0-D}) * TPR_i}{(\sum_{1}^{8} Pl_{0-D}) + (\sum_{1}^{8} PR_{0-D})}
+\]
+
+Donde:  
+- \( TP_i \): Tarifa en la ruta i  
+- \( \sum_{1}^{8} Pl_{0-D} \): Sumatoria de los pasajeros origen-destino para la ruta i (ida) de ocho años anteriores al año del estudio tarifario.  
+- \( \sum_{1}^{8} PR_{0-D} \): Sumatoria de los pasajeros origen-destino para la ruta i (retorno) de ocho años anteriores al año del estudio tarifario.  
+- \( TPI_i \): Tarifa por pasajero para la ruta i (ida)  
+- \( TPR_i \): Tarifa por pasajero para la ruta i (retorno)  
+
+b) **Cálculo de la tarifa de un tramo**  
+
+Se calcula la tarifa por pasajero, para distintas aeronaves que operan en el país y se elige las tarifas menores, para cada ruta en sus tramos ida y retorno por separado con los factores de ocupación equivalente.
+
+\[
+TPI_i = Yield_i * (1 + r) * (1 + tr) * Km_i
+\]
+
+Donde:  
+- \( TPI_i \): tarifa por pasajero en el tramo i  
+- \( Yield_i \): costo de asiento por kilómetro entre el factor de ocupación del tramo i  
+- \( Km_i \): kilómetros del tramo i  
+- \( r \): margen sobre costos, de acuerdo a lo señalado en el Artículo 12º del presente reglamento  
+- \( tr \): tasa de regulación, establecida en el Decreto Supremo 24718 y las resoluciones de autorización correspondiente a cada uno de los Operadores.  
+
+c) **Cálculo del Yield**  
+
+Se calcula, obteniendo el costo de asiento por kilómetro para un tramo y aeronave, el que se divide entre el factor de ocupación equivalente del mismo tramo.
+
+\[
+Yield = \frac{Costo ASK_i}{FOE_i}
+\]
+
+Donde:  
+- \( Costo ASK_i \): costo por pasajero por kilómetro en el tramo i  
+- \( FOE_i \): factor de ocupación equivalente del tramo i  
+
+d) **Cálculo del Costo de Asiento por Kilómetro**  
+
+Se calcula en base a los Artículos 10° y 11° del presente Reglamento, el costo total por vuelo y por tramo, de una aeronave en particular, dividido entre el total de número de asientos ofrecidos por kilómetro en el mismo tramo y aeronave.
+
+e) **Cálculo del Factor de Ocupación Equivalente**  
+
+Se calcula el factor de ocupación equivalente en base a lo establecido en el Artículo 14° del presente reglamento.
+
+**ARTÍCULO 9.- (CÁLCULO DE LA BANDA DE TARIFAS)**  
+Para el cálculo de la banda de tarifas se debe determinar el factor de ocupación a ser utilizado.
+
+a) **Factor de Ocupación para la banda de tarifas**  
+
+\[
+FOE_i(min.max) = FOE_i \pm Devest_i
+\]
+
+Donde:  
+- \( FOE_i(min. max) \): Factor de ocupación equivalente mínimo o máximo para el tramo i  
+- \( FOE_i \): Factor de ocupación equivalente para el tramo i  
+- \( Desvest_i \): Desviación Estándar del tramo i  
+
+En base al historial del Factor de Ocupación de tráfico por etapas promedio ponderado por tramo, para un periodo de ocho (8) años anteriores al del año del estudio tarifario, se debe calcular la desviación estándar, dicho valor porcentual debe ser sumado y restado al factor de ocupación equivalente para la misma ruta, establecido en los Artículos 13° y 14° del presente Reglamento. Con los factores de ocupación equivalentes obtenidos (máximos y mínimos), del procedimiento antes descrito, se obtiene las tarifas mínimas y máximas base respectivamente, que incluyen impuestos de ley y la tasa de regulación.
+
+f) **Tarifa base máximas y mínimas para una ruta ida y retorno**  
+
+Una vez obtenidas las tarifas máximas y mínimas base para cada tramo de una ruta se debe construir la tarifa para la ruta (máxima y mínima). Se pondera la tarifa (máxima o mínima) de cada tramo por el número de pasajeros origen-destino observado en los ocho años anteriores al año del estudio tarifario, según se expresa en la siguiente fórmula:
+
+\[
+TP_{i(max.min)} = \frac{(\sum_1^8 P I_{O-D}) * TP I_{i(max.min)} + (\sum_1^8 PR_{O-D}) * TPR_{i(max.min)}}{(\sum_1^8 P I_{O-D}) + (\sum_1^8 PR_{O-D})}
+\]
+
+Donde:  
+
+| Símbolo | Descripción |
+|---------|-------------|
+| \( TP_{i(max.min)} \) | Tarifa en la ruta i (ida y retorno) |
+| \( \sum_1^8 P I_{O-D} \) | Sumatoria de los pasajeros origen-destino para la ruta i (ida) de ocho años anteriores al año del estudio tarifario. |
+| \( \sum_1^8 PR_{O-D} \) | Sumatoria de los pasajeros origen-destino para la ruta i (retorno) de ocho años anteriores al año del estudio tarifario. |
+| \( TPI_{i(max.min)} \) | Tarifa por pasajero para la ruta i (ida) |
+| \( TPR_{i(max.min)} \) | Tarifa por pasajero para la ruta i (retorno) |
+
+**ARTÍCULO 10.- (COSTO TOTAL)**  
+Para el cálculo de la tarifa base, se debe incluir los siguientes costos:
+
+a) **Combustible:** Comprende el consumo real de jet fuel (considerando las fases de encendido, ascenso, crucero, descenso y aproximación final) de aceite y de agua de metanol.  
+
+b) **Derechos de Aterrizaje y Protección en Ruta:** Comprende el peso máximo de despegue de cada aeronave, las tarifas y tasas correspondientes, incluyendo operaciones con recargo.  
+
+c) **Mantenimiento de Aeronaves:** Comprende los costos de mantenimiento en línea (con el cambio de materiales consumibles y rotables), mantenimiento programado de naves y motores (A check, B check, C check y programa estructural – Programa de control y prevención de corrosión) y mantenimiento de Trenes de Aterrizaje y de hélices (en el caso de aeronaves propulsadas por hélice).  
+
+d) **Viáticos de la Tripulación:** Comprende los gastos por concepto de pago de viáticos (alimentación, hospedaje, transporte ciudad-aeropuerto-ciudad y otros), de la tripulación de comando (pilotos y copilotos) y asistentes de cabina.  
+
+e) **Despacho de Aeronaves:** Comprende los servicios y equipos requeridos en rampa para que la aeronave se encuentre preparada para el inicio del próximo ciclo y por el pago de cargos a SABSA y AASANA.  
+
+f) **Sistema de Reservaciones:** Comprende los gastos para la comercialización de boletos, como ser SABRE STIN, HOST, AMADEUS, y otros que sean usados por las empresas aéreas.  
+
+g) **Comisiones a Agencias de Viajes:** Comprende el porcentaje de la tarifa que es reconocido por el Operador a favor de las agencias de viaje como comercializadores de los boletos.  
+
+h) **Atención al pasajero:** Comprende la alimentación o refrigerio a bordo (catering) y provisión de servicios.  
+
+i) **Otros Gastos de Mantenimiento:** Comprende los gastos en personal de ingeniería, combustible para pruebas y limpieza de aeronaves.  
+
+j) **Salario de la Tripulación:** Comprende los salarios mensuales de los pilotos, copilotos y asistentes de cabina, los beneficios sociales correspondientes y la capacitación recurrente (recurrent).  
+
+k) **Seguros:** Comprende las primas de las pólizas de Casco, Guerra, Extorsión, Deductibles, Accidentes Personales y Otros y, también están comprendidos los de Responsabilidad Civil.  
+
+l) **Alquiler de Aeronaves:** Comprende el costo del alquiler básico (leasing) más el RC IVA.  
+
+m) **Costos Indirectos:** Comprende los costos no relacionados directamente con la prestación del servicio, como ser gastos en personal administrativo, alquiler de counters y oficinas, consumo de energía eléctrica y comunicaciones, salario del personal administrativo y ejecutivo, entre otros, los que deberían alcanzar máximo el 25% del total de costos directos.  
+
+**ARTÍCULO 11.- (COSTOS NO RECONOCIDOS)**  
+Para el cálculo de las tarifas base no se reconocerán los siguientes costos: multas y sanciones aplicadas a los Operadores por incumplimiento o transgresión de disposiciones legales, costos relacionados con la atención de pasajeros por cancelación, demora de vuelos o sobre venta por causas atribuibles al Operador y otros costos que no correspondan a la prestación del servicio público aéreo doméstico.
+
+**ARTÍCULO 12.- (CÁLCULO DEL MARGEN SOBRE COSTOS)**  
+Para la determinación de las tarifas base se considerará un margen sobre costos, que será aplicado sobre el costo medio. Para el cálculo del margen sobre costos, se sigue el siguiente procedimiento:
+
+1. **Cálculo de la tasa de retorno esperada para la industria (ROE-Return on Equity)** en base al modelo Capital Asset Pricing Model (CAPM), cuya fórmula es la siguiente:
+
+\[
+ROE = r_f + \beta_\alpha [r_m - r_f] + r_{pais}
+\]
+
+Donde:  
+- \( ROE \): Retorno esperado  
+- \( r_f \): Rentabilidad libre de riesgo  
+- \( r_m \): Riesgo de mercado  
+- \( r_{pais} \): Riesgo país  
+- \( \beta_\alpha \): Beta desapalancado  
+
+Para el cálculo de la fórmula señalada anteriormente, se debe recurrir a la siguiente información:
+
+a) El valor de la tasa libre de riesgo, debe ser determinado por el rendimiento promedio anual otorgado a los bonos del tesoro de Estados Unidos de Norte América durante el periodo 1928 y el año previo al año del estudio tarifario.  
+
+b) La prima de riesgo país debe ser el promedio de la prima del riesgo país registrado para Bolivia, respecto a Estados Unidos de Norte América, basado en la calificación de la escala de Moody, para los cuatro (4) años anteriores a partir del año del estudio tarifario.  
+
+c) El riesgo de mercado se calcula como el promedio anual del rendimiento anual de las inversiones sobre el capital de Estados Unidos, observado durante el periodo 1928 y el año previo al año del estudio tarifario.  
+
+II. El margen sobre costos de una empresa aérea se calcula como el cociente entre ingresos y resultado antes de impuestos, expresado en porcentaje. Para obtener el margen sobre costos (r), de la industria aérea nacional, se debe multiplicar el coeficiente v obtenido de la regresión estimada en el parágrafo III del presente artículo por el ROE, calculado según el procedimiento del parágrafo I.  
+
+III. Con información financiera de dos años anteriores al año del estudio tarifario, correspondiente a al menos diez empresas aéreas que coticen en bolsa, similares a: Copa Airlines, Lan Airlines, Easy Jet Airline Company, British Airways, KLM Royal Dutch Airlines, United Airlines, Gol, Transportes Aéreos del Mercosur y Hawaiian Airlines se debe correr una regresión lineal utilizando la metodología de mínimos cuadrados ordinarios, cuya variable independiente es el ROE y la variable independiente es el margen sobre costos (r), observado para cada empresa. Dicha regresión tiene la siguiente forma:
+
+\[
+r = \frac{R}{2} E
+\]
+
+**ARTÍCULO 13.- (FACTOR DE OCUPACIÓN)**  
+Para el cálculo de las tarifas base se ponderarán los siguientes criterios:
+
+I. Para rutas troncales: Factor de ocupación equivalente, según el procedimiento descrito en el Artículo 14º del presente Reglamento.  
+
+II. Para rutas principales: Factor de ocupación de tráfico por etapas promedio de todas las rutas principales, de ocho años anteriores al año del estudio tarifario (sin considerar dilución tarifaria).  
+
+**ARTÍCULO 14.- (CÁLCULO DEL FACTOR DE OCUPACIÓN EQUIVALENTE)**  
+El factor de ocupación equivalente debe ser calculado para cada ruta, siguiendo el siguiente procedimiento:
+
+I. El porcentaje de pasajeros en tránsito, se calcula restando la dilución tarifaria y el factor de ocupación origen-destino del factor de ocupación de tráfico por etapas, ambos como el promedio de los ocho años anteriores al año del estudio tarifario.  
+
+II. Se debe considerar la dilución tarifaria para pasajeros: Infantes (10% de la tarifa), Menores (67% de la tarifa), Mayores de 60 años (60% de la tarifa), Tránsitos (60% de la tarifa), Boletos Interlineas regulación IATA, Boletos personal de servicio y Otros descuentos aerolíneas, y en cada caso se multiplica por la proporción que pagan de la tarifa.  
+
+III. El factor de ocupación equivalente es el resultado de sumar el factor de ocupación origen-destino, y el resultado del parágrafo II del presente Artículo.  
+
+## TÍTULO III: PRÁCTICAS COMERCIALES
+
+**ARTÍCULO 23.- (APLICACIÓN)**  
+Los Operadores que implementen promociones u otras prácticas comerciales deben evitar incurrir en prácticas anticompetitivas o prácticas comerciales desleales.
+
+**ARTÍCULO 24.- (CRITERIOS DE LAS TARIFAS PROMOCIONALES Y/O PROMOCIONES)**  
+Las tarifas promocionales y/o promociones, que los Operadores apliquen a sus usuarios, deben ser aprobadas por la ATT con una anticipación de quince (15) días hábiles, dichas tarifas y/o promociones deben cumplir los siguientes criterios:
+
+I. Ser temporales y cubrir al menos sus costos medios variables del vuelo sujeto a promoción.  
+
+II. Los asientos para este efecto deben ser limitados.  
+
+**ARTÍCULO 25.- (INFORMACIÓN REQUERIDA PARA APROBACIÓN DE TARIFAS PROMOCIONALES Y/O PROMOCIONES)**  
+Los Operadores deben presentar la siguiente información para la aprobación de las tarifas promocionales y/o promociones:
+
+I. Detalle de las Rutas en promoción o con tarifas promocionales, como ser ruta, frecuencia, factores de ocupación esperados y otros.  
+
+II. Valor bruto y neto de las tarifas promocionales, y la forma de aplicación de estas.  
+
+III. Número de asientos ofrecidos con tarifas promocionales o en promoción.  
+
+IV. Tiempo de duración de las tarifas promocionales o promoción; fecha de inicio y finalización. De no precisarse, se entenderá que es ilimitada y será rechazada.  
+
+V. Condiciones y/o características de aplicación de las tarifas promocionales y/o promociones.  
+
+VI. Cualquier otra información que el Operador considere necesaria para justificar las tarifas promocionales o promociones.  
+
+Una vez recibida la documentación la ATT, en el plazo de 10 días hábiles evaluará y emitirá pronunciamiento sobre las tarifas promocionales o promociones propuestas. En caso que dicho pronunciamiento no haya sido comunicado al operador en el plazo establecido, se asumirá silencio administrativo positivo.  
+
+En su pronunciamiento, la ATT podrá disponer, por razones fundadas la modificación o suspensión de las tarifas promocionales o promociones.  
+
+**ARTÍCULO 26.- (PERIODICIDAD DE LA PROMOCIÓN)**  
+Un Operador podrá realizar promociones por un periodo máximo de ciento veinte (120) días calendario al año. Los programas de “Pasajero frecuente” podrán tener una duración superior al tiempo señalado, siempre y cuando la ATT lo autorice expresamente.  
+
+**ARTÍCULO 27.- (EVALUACIÓN DE LAS TARIFAS PROMOCIONALES APROBADAS)**  
+Una vez terminado el período de aplicación de las tarifas promocionales, la ATT en uso de sus atribuciones, hará seguimiento de las mismas, para lo cual los Operadores deben presentar la siguiente información:
+
+I. Número de vuelos con promoción o tarifas promocionales.  
+
+II. Tarifas aplicadas, en las rutas con promoción, a cada uno de los pasajeros del vuelo.  
+
+III. Asientos ofrecidos en los vuelos con tarifas promocionales.  
+
+IV. Factor de Ocupación en los vuelos con tarifas promocionales.  
+
+**ARTÍCULO 28.- (PUBLICIDAD FALSA, ENGAÑOSA O INCOMPLETA)**  
+Al difundir información relativa a sus tarifas promocionales o promociones, los Operadores, o a través de las agencias de viajes u otro medio, deben velar porque el contenido sea cierto y claro, de manera que no induzca al error del usuario, y debe proporcionar toda la información relevante.  
+
+En el caso de las tarifas promocionales o promociones, los Operadores deben publicar de manera clara el número de asientos disponibles y cualquier restricción que esté prevista en la misma.  
+
+## TÍTULO IV: SANCIONES E INFRACCIONES
+
+**ARTÍCULO 29.- (INCUMPLIMIENTO A LAS DISPOSICIONES DEL PRESENTE REGLAMENTO)**  
+El incumplimiento a cualquier disposición establecida en el presente Reglamento dará inicio al proceso sancionador correspondiente.  
+
+## TÍTULO V: DISPOSICIONES FINALES Y TRANSITORIAS
+
+**ARTÍCULO 30.- (TARIFAS PROMOCIONALES O PROMOCIONES EXISTENTES)**  
+Las tarifas promocionales, promociones o cualquier tipo de práctica comercial aplicadas por los Operadores hasta antes de la fecha de aprobación de este Reglamento, deben ser presentadas a la ATT en un plazo de quince (15) días hábiles para su evaluación y aprobación, según lo establecido en el Artículo 25º del presente Reglamento.  
+
+En caso de que estas no sean aprobadas deberán dejar de efectuarlas.  

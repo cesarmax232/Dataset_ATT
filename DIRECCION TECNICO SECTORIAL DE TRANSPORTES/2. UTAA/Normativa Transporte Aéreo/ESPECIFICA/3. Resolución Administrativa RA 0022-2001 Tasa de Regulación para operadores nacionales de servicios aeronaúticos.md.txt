@@ -1,0 +1,131 @@
+# Resolución Administrativa R.A. SC-STR-DS-RA-0419/2008  
+**REF:** APROBACIÓN DEL REGLAMENTO CONTROL DE CUMPLIMIENTO DE ITINERARIOS DEL SERVICIO DE TRANSPORTE AÉREO DE PASAJEROS  
+
+**La Paz, 31 de Diciembre de 2008**  
+
+## VISTOS Y CONSIDERANDO:  
+
+Que, de conformidad a lo previsto en la Ley N° 1600 (Ley SIRESE) de 28 de octubre de 1994, el Decreto Supremo N° 24178 de 8 de diciembre de 1995 modificado por el Decreto Supremo N° 24753 de 31 de julio de 1997, es atribución de la Superintendencia de Transportes establecer estándares técnicos para operar y mejorar los servicios de transporte.  
+
+Que, el Decreto Supremo N° 24718 de 22 de julio de 1997, norma los servicios aeronáuticos y los servicios aeroportuarios establece que esos servicios se regirán por los principios de eficiencia, transparencia, calidad, continuidad, igualdad, oportunidad y seguridad.  
+
+Que, la Superintendencia de Transportes emitió la Resolución Administrativa SC-STR-DS-RA-0074/2007 de 16 de marzo de 2007, a través de la cual fijó los estándares técnicos y los mecanismos que permitan evaluar el comportamiento de los operadores aeronáuticos, relacionados con la puntualidad y cumplimiento de itinerarios, para mejorar la prestación del Servicio de Transporte Aéreo de Pasajeros.  
+
+Que, la citada resolución menciona que el Factor de Puntualidad (FDP) y Factor de Cancelación (FDC) serán sujetos de revisión al inicio de cada gestión con información de la gestión inmediatamente anterior. Para la gestión 2008, dada la fecha de inicio del nuevo control, correspondería la revisión de los límites de tolerancia tomando en cuenta la información de Abril 2007 a Abril 2008.  
+
+Que, la mencionada revisión fue realizada por la Dirección de Regulación de la Superintendencia de Transportes junto al análisis de un Reglamento del FDP y FDC, contenidos en el Informe Técnico (IT) SC-STR-DR-IT-0176/2008. En el citado informe se recomendó utilizar ponderaciones en logaritmos para el cálculo del límite del FDP y así valorar similarmente a empresas nacionales e internacionales, con distintos volúmenes de operaciones. También se recomendó, para el caso del límite del FDC, continuar con la metodología vigente.  
+
+## CONSIDERANDO:  
+
+Que, por nota de 3 de octubre de 2008 la Compañía Boliviana de Transporte Aéreo Privado S.A. (AEROSUR S.A.) realizó una serie de observaciones producto de la reunión del día 25 de septiembre de 2008.  
+
+Que, mediante Informe Técnico SC-STR-DR-IT-0224/2008 de 20 de noviembre de 2008, se estableció que las observaciones realizadas por AEROSUR S.A. no requieren modificación o revisión de la metodología de cálculo de los límites de tolerancia del FDP y FDC, ni de su respectivo reglamento, recomendando la aprobación del nuevo reglamento.  
+
+## POR TANTO:  
+
+El Superintendente de Transporte Interino, en uso de las atribuciones conferidas por Ley,  
+
+## RESUELVE:  
+
+**ARTÍCULO PRIMERO.-** Aprobar el Reglamento de Control de Cumplimiento de Itinerarios, el mismo que entrará en vigencia desde el día de la notificación con la presente Resolución Administrativa. Por otro lado, se aclara que la evaluación con el presente reglamento comenzará aplicarse para el trimestre de los meses correspondientes a noviembre, diciembre 2008 y enero de 2009. El citado reglamento forma parte integrante de la presente Resolución Administrativa.  
+
+**ARTÍCULO SEGUNDO.-** El incumplimiento a lo establecido en el Reglamento de Control de Cumplimiento de Itinerario será sancionado de conformidad a lo establecido en el artículo 37° del Decreto Supremo N° 24718 de 22 de julio de 1997.  
+
+**ARTÍCULO TERCERO.-** Dejar sin efecto la Resolución Administrativa SC-STR-DS-RA-0074/2007 de 16 de marzo de 2007.  
+
+Regístrese, comuníquese y archívese.  
+
+---
+
+# REGLAMENTO  
+## CONTROL DE CUMPLIMIENTO DE ITINERARIOS  
+
+### ARTÍCULO PRIMERO (Objeto):  
+Establecer criterios para que la Superintendencia de Transportes (STR) controle el cumplimiento de itinerarios de las empresas de transporte aerocomercial regular de pasajeros que operan en Bolivia, en lo que se refiere a puntualidad y cancelación de vuelos.  
+
+### ARTÍCULO SEGUNDO (Alcance):  
+Este reglamento debe ser cumplido por todas las empresas de transporte aerocomercial regular de pasajeros que operan en Bolivia.  
+
+### ARTÍCULO TERCERO (Identidad fundamental):  
+Los estándares de cumplimiento de itinerarios responderán a la identidad fundamental SPR=SC+SD+SP, donde:  
+- **SPR**: Salidas Programadas  
+- **SC**: Salidas Canceladas  
+- **SD**: Salidas Demoradas  
+- **SP**: Salidas Puntuales  
+
+### ARTÍCULO CUARTO (Puntualidad):  
+La salida de un vuelo regular se considera puntual cuando se efectúa a la hora señalada en el billete aéreo o con un retraso máximo de treinta (30) minutos inclusive. La STR evaluará la puntualidad de salidas de vuelos regulares, a través del Factor de Puntualidad (FDP). El FDP se define como:  
+\[ FDP = \frac{SP}{SR} \]  
+donde:  
+- **SR**: Salidas Realizadas (SR = SPR - SC = SD + SP)  
+
+### ARTÍCULO QUINTO (Cancelación):  
+La salida de un vuelo regular se considera cancelada cuando no se efectúa de acuerdo al itinerario de la empresa. La STR evaluará la cancelación de vuelos regulares, a través del Factor de Cancelación (FDC). El FDC se define como:  
+\[ FDC = \frac{SC}{SPR} \]  
+
+Para que una cancelación no sea considerada en el cálculo del FDC, los titulares aeronáuticos deberán hacerla conocer mediante comunicación pública con antelación de, al menos, veinticuatro (24) horas respecto a la hora fijada en el pasaje o billete aéreo.  
+
+### ARTÍCULO SEXTO (Límites de tolerancia):  
+Para el cálculo del Límite del FDP se aplicará la fórmula:  
+\[ L_{FDP} = \sum_{i=1}^{n} FDP_i \frac{\ln SH_i}{\ln \Pi_{i=1}^{n} SH_i} - \sqrt{\sum_{i=1}^{n} (FDP_i - \sum_{i=1}^{n} FDP_i \frac{\ln SH_i}{\ln \Pi_{i=1}^{n} SH_i})^2 \frac{\ln SH_i}{\ln \Pi_{i=1}^{n} SH_i} \]  
+
+Para el cálculo del Límite del FDC se aplicará la fórmula:  
+\[ L_{FDC} = \frac{1}{n} \sum_{i=1}^{n} FDC_i + \sqrt{\frac{1}{n} \sum_{i=1}^{n} (FDC_i - \frac{1}{n} \sum_{i=1}^{n} FDC_i)^2} \]  
+con \( n \) igual al número de operadores, en ambos casos.  
+
+El resultado FDP y FDC de cada empresa, se contrastará con lo establecido en el siguiente cuadro:  
+
+**Cuadro 1: Límites de tolerancia del FDP y FDC**  
+
+| Desde    | Hasta    | FDP    | FDC    |  
+|----------|----------|--------|--------|  
+| Ago-08   | Oct-08   | 0,84   | 0,04   |  
+| Nov-08   | Dic-09   | 0,82   | 0,02   |  
+| Feb-09   | Abr-09   | 0,83   | 0,04   |  
+| May-09   | Jul-09   | 0,85   | 0,02   |  
+
+### ARTÍCULO SÉPTIMO (Periodicidad de la evaluación):  
+La evaluación se realizará por temporada de acuerdo al siguiente detalle:  
+- Febrero a Abril  
+- Mayo a Julio  
+- Agosto a Octubre  
+- Noviembre a Enero  
+
+Estos límites se revisarán trimestralmente de acuerdo a la información registrada en similar periodo de la gestión inmediatamente anterior.  
+
+### ARTÍCULO OCTAVO (Pruebas de descargo):  
+Condiciones atmosféricas adversas, conmociones sociales, actos de terrorismo o sabotaje, accidentes en aeropuerto que interfieran las operaciones aéreas, contingencias técnicas no atribuibles a mantenimiento preventivo deficiente y cualquier otro hecho que no pueda ser controlado directamente por la empresa de transporte aerocomercial regular de pasajeros y perjudique la normalidad de las operaciones se considerará de fuerza mayor y se excluirá del análisis del FDP y/o FDC.  
+
+Las pruebas de descargo deberán estar documentadas con informes oficiales de la Dirección General de Aeronáutica Civil (DGAC), Administración de Aeropuertos y Servicios Auxiliares a la Navegación Aérea (AASANA) u otras entidades involucradas.  
+
+### ARTÍCULO NOVENO (Metodología de evaluación de descargos):  
+Cuando la empresa no sea responsable de las salidas demoradas o canceladas de vuelos, debido a cualquiera de los motivos señalados en el artículo anterior, la STR excluirá estas salidas demoradas o canceladas con descargo, según sea el caso, del análisis del FDP y FDC.  
+
+### ARTÍCULO DÉCIMO (Remisión de información):  
+Las empresas deberán remitir a la STR hasta el veinte (20) de cada Mayo, Agosto, Noviembre y Febrero, información de salidas realizadas, canceladas y demoradas de vuelos regulares del trimestre inmediatamente anterior, incluyendo toda la documentación de respaldo de sus salidas demoradas y/o canceladas sujetas a descargo.  
+
+### ARTÍCULO DÉCIMO PRIMERO (Incumplimiento en la remisión de información):  
+El incumplimiento en la remisión de la información requerida en el plazo establecido, será sancionado de conformidad al artículo 34° del D.S. 24718.  
+
+### ARTÍCULO DÉCIMO SEGUNDO (Verificación de la información):  
+La STR cotejará la información presentada con los datos registrados por personal de ODECO – STR, presentes en los principales aeropuertos de Bolivia; si existen diferencias significativas (10% en el total general o en el detalle), se tomará como válida la información de ODECO – STR y se sancionará a la empresa de conformidad al artículo 34º del D.S. 24718.  
+
+### ARTÍCULO DÉCIMO TERCERO (Incumplimiento de estándares):  
+El incumplimiento del FDC será sancionado de conformidad a lo establecido en el artículo 37º del Decreto Supremo N° 24718 de 22 de julio de 1997.  
+
+### ARTÍCULO DÉCIMO CUARTO (Notificación):  
+Se notificarán los resultados del análisis del FDP y/o FDC, dentro de los diez (10) días hábiles luego de la evaluación, únicamente a las empresas que no cumplan con dichos estándares, mediante la formulación de cargos por el presunto incumplimiento del FDP y/o FDC, según sea el caso.  
+
+### ARTÍCULO DÉCIMO QUINTO (Incorporación de nuevas empresas):  
+Cuando se incorpore una nueva empresa al mercado aerocomercial de transporte de pasajeros, se sujetará a los límites de tolerancia establecidos en el artículo sexto de la presente resolución, hasta la siguiente revisión donde se incorpore su desempeño.  
+
+### ARTÍCULO DÉCIMO SEXTO (Publicación):  
+La STR publicará los resultados del análisis del FDP y FDC en al menos un medio de prensa escrito, dentro de los quince (15) días hábiles posteriores a su control de cumplimiento, con la finalidad de que estos estándares sean de conocimiento público.  
+
+---  
+
+**Calacoto - Calle 9 N° 7835**  
+**Telfs: 691-1 2782790 - 2782691 - Casilla de Correo: 5976**  
+**Fax: 8901042**  
+**e-mail: info@suprams.gov.bo – Pág. Web: www.suprams.gov.bo**  
+**La Paz – Bolivia**  

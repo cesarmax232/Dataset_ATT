@@ -1,0 +1,2070 @@
+# LEY Nº 165  
+**LEY DE 16 DE AGOSTO DE 2011**  
+
+**EVO MORALES AYMA**  
+PRESIDENTE CONSTITUCIONAL DEL ESTADO PLURINACIONAL DE BOLIVIA  
+
+Por cuanto, la Asamblea Legislativa Plurinacional, ha sancionado la siguiente Ley:  
+
+**LA ASAMBLEA LEGISLATIVA PLURINACIONAL, DECRETA:**  
+
+---
+
+## LEY GENERAL DE TRANSPORTE  
+
+### TÍTULO I  
+#### DISPOSICIONES GENERALES  
+
+##### CAPÍTULO PRIMERO  
+**OBJETO, MARCO NORMATIVO, ÁMBITO DE APLICACIÓN**  
+
+**Artículo 1. (OBJETO).**  
+La presente Ley tiene por objeto establecer los lineamientos normativos generales técnicos, económicos, sociales y organizacionales del transporte, considerado como un Sistema de Transporte Integral – STI, en sus modalidades aérea, terrestre, ferroviaria y acuática (marítima, fluvial y lacustre) que regirán en todo el territorio del Estado Plurinacional de Bolivia a fin de contribuir al vivir bien.  
+
+**Artículo 2. (MARCO NORMATIVO).**  
+La presente Ley se rige por la Constitución Política del Estado, los Tratados, Convenios e Instrumentos Internacionales y la Ley Marco de Autonomías y Descentralización.  
+
+**Artículo 3. (NORMAS QUE RIGEN EL SISTEMA DE TRANSPORTE INTEGRAL – STI).**  
+El Sistema de Transporte Integral – STI, en todo el Estado Plurinacional de Bolivia, se rige por la Constitución Política del Estado, los Tratados, Convenios e Instrumentos Internacionales, la Ley Marco de Autonomías y Descentralización, la presente Ley, normas sectoriales y otras normas específicas del ordenamiento jurídico del Estado Plurinacional.  
+
+**Artículo 4. (ÁMBITO DE APLICACIÓN).**  
+
+**I.** La presente Ley se aplica en todo el territorio del Estado Plurinacional de Bolivia y rige a:  
+   a) Las instituciones, entidades y reparticiones de los diferentes niveles central y autonómicos de gobierno que norman, regulan, supervisan, controlan y fiscalizan el transporte.  
+   b) Las instituciones, entidades y reparticiones de los diferentes niveles central y autonómicos de gobierno que facilitan el flujo de pasajeros y carga a nivel nacional e internacional.  
+   c) Las personas naturales o jurídicas que prestan servicios de transporte en cualesquiera de sus modalidades existentes o por existir, sujeto a reglamentaciones especiales.  
+   d) Las personas naturales o jurídicas que desarrollan y/o administran infraestructura y prestan servicios logísticos complementarios al transporte.  
+   e) Los usuarios del sistema de transporte.  
+   f) Todas las modalidades de transporte.  
+
+**II.** Las actividades del transporte aéreo, terrestre, ferroviario y acuático son libres en el territorio, agua y espacio aéreo boliviano, en cuanto no fueren limitados por esta Ley, sus reglamentos y demás disposiciones por razones de defensa, seguridad nacional o de interés público.  
+
+**Artículo 5. (SOBERANÍA).**  
+El Estado Plurinacional de Bolivia, ejerce soberanía completa y exclusiva sobre el territorio, agua y espacio aéreo de acuerdo con la Constitución Política del Estado, los principios del Derecho Internacional y los Tratados vigentes.  
+
+---
+
+##### CAPÍTULO SEGUNDO  
+**PRINCIPIOS Y DEFINICIONES**  
+
+**Artículo 6. (PRINCIPIOS).** Los principios son:  
+   a) **Accesibilidad.** Todas las usuarias y usuarios podrán acceder al Sistema de Transporte Integral – STI, por el medio y modalidad que escojan, los mismos que deben contar con facilidades de acceso y estar en condiciones de equidad, calidad y seguridad.  
+   b) **Calidad.** El Sistema de Transporte Integral – STI, debe proveer un servicio en conformidad a los requisitos y estándares que garanticen un nivel de servicio adecuado de bienestar, eficiencia y eficacia, de acuerdo a la contraprestación autorizada.  
+   c) **Continuidad.** El Sistema de Transporte Integral – STI, debe funcionar de manera permanente, regular y continua.  
+   d) **Eficacia.** El servicio de transporte debe cumplir el propósito para el cual fue convenido.  
+   e) **Eficiencia.** El Sistema de Transporte Integral – STI, debe prestar servicios en condiciones que garanticen el menor costo operacional y tiempo posible, contemplando un nivel de equidad, calidad y seguridad.  
+   f) **Participación y control social.** Se garantizará y facilitará la participación y control social sobre la gestión pública por parte de la sociedad civil organizada.  
+   g) **Seguridad.** El Sistema de Transporte Integral – STI, debe prestar servicios en condiciones que garanticen la integridad de personas y carga durante el traslado del lugar de origen al lugar de destino.  
+   h) **Sostenibilidad.** El sistema de transporte debe prestar servicios que garanticen el menor impacto sobre la salud y el medio ambiente local y global. En el corto, mediano y largo plazo, sin comprometer el desarrollo de futuras generaciones.  
+   i) **Transparencia.** Se garantiza la transparencia en el Sistema de Transporte Integral – STI.  
+   j) **Universalidad.** Todas las usuarias y usuarios sin distinción alguna, tienen el derecho de utilizar el Sistema de Transporte Integral – STI, para su libre movilidad.  
+
+**Artículo 7. (DEFINICIONES).**  
+Para los efectos de la presente Ley y sus normas reglamentarias, se definen los siguientes términos:  
+
+**Abordaje (modalidad acuática).** Llegar a otro buque, chocar o tocar con él. Las maniobras de abordaje y los acaecimientos considerados como tal, se realizarán con autorización de la autoridad competente, conforme a normas específicas establecidas para el efecto y/o procesadas para precautelar la seguridad en la navegación.  
+
+**Aeronáutica.** Ciencia o disciplina vinculada con todo lo referido a la navegación aérea.  
+
+**Aeronáutica nacional.** Actividad que comprende a la aviación militar, civil y todo medio que se desplaza en el espacio aéreo.  
+
+**Agencia naviera.** Persona natural o jurídica que representa a una o varias compañías navieras transportadoras de mercancías. Para tal efecto las mismas consideradas como tal, deberán estar debidamente registradas por la autoridad competente conforme a reglamentación específica.  
+
+**Artefacto naval.** Construcción flotante, que carece de propulsión propia, que opera en el medio acuático con reglamentación específica, previo registro ante la autoridad competente.  
+
+**Astillero.** Persona natural o jurídica, dedicada a la construcción o mantenimiento de embarcaciones en un lugar legalmente registrado y autorizado por la autoridad competente.  
+
+**Buque.** Toda clase de embarcaciones públicas, privadas o mixtas, incluidas aquellas sin desplazamiento y los hidroaviones, utilizados o que puedan ser operados como medio de transporte sobre el agua, con la debida autorización.  
+
+**Calado.** Profundidad que alcanza en el agua la parte sumergida de una embarcación.  
+
+**Capitanías de puerto.** Son los organismos ejecutores de la Dirección General de Capitanías de Puerto. Dentro de su área de responsabilidad desempeñan las funciones como delegados de la Autoridad Marítima, que tienen bajo su jurisdicción, el control, vigilancia y seguridad de todas las actividades que se desarrollan en el ámbito acuático navegable.  
+
+**Carga.** Se refiere a todo tipo de mercaderías, materiales y correo que serán transportados mediante unidades de transporte.  
+
+**Carta náutica.** Documento emitido por la autoridad competente como representación a escala de aguas navegables y regiones terrestres adjuntas. Indica las profundidades del agua y las alturas del terreno, naturaleza del fondo, detalles de la costa incluyendo puertos, peligros a la navegación, localización de luces y otras ayudas a la navegación. Las cartas de navegación son instrumentos esenciales y de uso obligatorio para la navegación náutica.  
+
+**Centro de revisión técnica vehicular.** Son las instalaciones en las cuales se realiza la revisión técnica vehicular, que debe hacerse en los vehículos, componentes o accesorios y que estén habilitados por el organismo competente.  
+
+**Declaratoria de red.** Documento que establece todas las especificaciones de cada una de las líneas de ferrocarril en la Red Ferroviaria Fundamental y las especificaciones de interoperabilidad.  
+
+**Derecho de vía.** Es la propiedad del Estado sobre las carreteras, vías férreas su infraestructura y elementos funcionales de las mismas a efectos de su uso, defensa y explotación.  
+
+**Derrotero.** Es una publicación náutica oficial y específica. Consiste en una obra escrita e ilustrada, que describe las costas, bajo fondos, señalizaciones (boyas, faros, balizas, etc.), perfiles visuales de las costas, peligros, formas de navegación convenientes, puertos, terminales y otros, para información – indispensable – del navegante.  
+
+**Embarcación.** Es toda construcción flotante destinada a navegar en los espejos de agua de Bolivia, conforme a normas nacionales, convenios o tratados en aguas internacionales, ya sea propulsada por sus propios medios o mediante el auxilio de otra.  
+
+**Estado de abanderamiento.** Figura del Derecho Internacional Marítimo que comprende la autoridad que tiene Bolivia sobre los buques que enarbolan su pabellón. Cada buque se vincula a un Estado y a la jurisdicción del mismo, para ser regulada conforme a la acción del buque y su bandera que enarbola.  
+
+**Estado rector del puerto.** Figura de Derecho Internacional Marítimo, por medio de la cual Bolivia y los estados ribereños tienen la facultad de ejercer un efectivo control sobre los buques que arriben a sus puertos o que circundan sus aguas con el fin de proteger los recursos marinos y prevenir desastres. Asimismo, corrobora que los buques cuenten con óptimas condiciones de seguridad y tripulaciones adecuadamente formadas. El Estado rector del puerto surge frente a la inoperancia del control por el Estado de abanderamiento, la cual estaba provocando un aumento en la tasa de siniestros y en la contaminación del medio marino.  
+
+**Estado ribereño.** Es la soberanía ejercida por Bolivia a través de la autoridad competente, más allá de sus límites terrestres y de las aguas interiores, extendiéndose al mar.  
+
+**Infraestructura aeronáutica.** Conjunto de edificaciones, instalaciones y servicios establecidos en la superficie y/o espacio aéreo, destinados a proveer los medios necesarios a la seguridad aérea y facilitar un adecuado movimiento del tráfico aéreo.  
+
+**Infraestructura ferroviaria.** Conjunto de obras civiles e instalaciones mecánicas, eléctricas y electrónicas, destinados a proveer un adecuado movimiento para los ferrocarriles.  
+
+**Infraestructura portuaria.** Comprende las obras civiles e instalaciones mecánicas, eléctricas y electrónicas, fijas y flotantes, construidas o ubicadas en los puertos, debidamente certificadas y autorizadas según reglamento específico, para facilitar el transporte y el intercambio modal.  
+
+**Infraestructura vial.** Es toda superficie terrestre, pública o privada, por donde circulan peatones y unidades de transporte, que esta señalizada y bajo jurisdicción de las autoridades nacionales, departamentales, municipales e indígena originario campesinas.  
+
+**Interoperabilidad.** Capacidad de la infraestructura que permite la circulación ininterrumpida de mercancías o pasajeras y pasajeros.  
+
+**Libre navegación.** Principio soberano de Bolivia para realizar viaje con la embarcación sin interferencia alguna, por el tiempo que dure la misma.  
+
+**Logística.** Parte de la cadena de suministros, que planifica, implementa y controla el flujo y el almacenamiento eficaz y eficiente de los bienes, servicios e información relacionada desde el punto de origen al punto de consumo, con el objetivo de satisfacer los requerimientos de los exportadores e importadores, usuarias y usuarios, y consumidoras y consumidores.  
+
+**Marina mercante nacional.** Flota de buques y tripulantes debidamente registrados por la autoridad competente, para realizar actividades comerciales.  
+
+**Nivel de servicio.** Desde el punto de vista de la usuaria o usuario, el nivel de servicio es la integración de todas las reacciones e impresiones subjetivas que la utilización del servicio le produce, en todos los aspectos cualitativos y cuantitativos de la prestación, desde que obtiene el billete o sube al vehículo hasta que sale de la terminal o baja del vehículo en el punto de parada. Desde el punto de vista del operador, en función del servicio ofertado por el operador, considerando parámetros de cumplimiento obligatorio referidos a seguridad y calidad.  
+
+**Normativa específica.** Referida a todo tipo de normas que complementen la presente Ley, como leyes específicas por modalidad de transporte, reglamentos, decretos supremos, resoluciones ministeriales, resoluciones administrativas y cualquier otro tipo de disposición que asegure el cumplimiento de la presente Ley.  
+
+**Operaciones.** Se refiere a todas las actividades necesarias para el transporte de pasajeras o pasajeros y carga (que incluye correo).  
+
+**Operador.** Es la persona natural o jurídica que presta servicios de transporte. Se puede interpretar como sinónimo de transportador.  
+
+**Personal aeronáutico.** Todo titular con licencia otorgada por la autoridad competente que realice funciones aeronáuticas a bordo de aeronaves y/o en la superficie.  
+
+**Piloto (Modalidad acuática).** Aquel que cumple requisitos legalmente establecidos por la autoridad competente y entiende el ejercicio del arte de gobernar un buque, determinando su situación y los rumbos que debe seguir para trasladarse al punto de su destino.  
+
+**Piloto (Modalidad aérea).** Persona que posee licencia aeronáutica con entrenamiento y conocimientos especiales, que dirige y gobierna naves aéreas.  
+
+**Plan maestro.** Planificación que delimita las condiciones técnicas, de calidad, seguridad, circulación interna y otras de la infraestructura que sean aplicables según las disposiciones vigentes, en forma permanente y bajo responsabilidad del administrador de infraestructura.  
+
+**Práctico.** Aquel que cumple requisitos legalmente establecidos por la autoridad competente, para asesorar en rutas y maniobras en el puerto, pasos, ríos y canales a los capitanes de los buques.  
+
+**Puerto.** Es un conjunto de espacios, acuáticos, terrestres, naturales, artificiales e instalaciones fijas y móviles bajo la administración, control y dirección de la autoridad competente, que comprende obras, canales, vías de acceso, instalaciones y servicios, destinados a la atención de pasajeros, mercancías y embarcaciones.  
+
+**Registro de buques.** Es el principio que permite brindar la seguridad en la navegación que en su aceptación jurídico-marítima, es también la oficina pública en la que tiene lugar la inscripción del buque por la autoridad competente.  
+
+**Servicios logísticos complementarios al transporte.** Son todas las actividades conexas o auxiliares que están relacionadas con el servicio de transporte, incluidas la recepción, depósito temporal, tránsito, recepedición y salida de mercancías de depósitos aduaneros y de zonas francas, y que no están comprendidas en lo referido a infraestructura o a los servicios propios de la actividad de transporte.  
+
+**Sistema de revisión técnica vehicular.** Conjunto de entidades, operaciones e instalaciones destinadas a reducir las fallas mecánicas a través de la verificación y evalución del estado técnico de los vehículos, mejorar la seguridad vial, mejorar la capacidad de operación del vehículo, reducir las emisiones contaminantes y comprobar la idoneidad de uso a través del registro de los vehículos.  
+
+**Sistema de transporte integral.** Conjunto de varios elementos que interactuando entre sí, permiten que se lleve a cabo el traslado de personas y bienes, entre las que se encuentran infraestructura, operadores y usuarias o usuarios del servicio y otros servicios logísticos complementarios.  
+
+**Solución de continuidad.** Mecanismo que permite la interconexión entre líneas férreas, garantizando la circulación continua y segura del material rodante.  
+
+**Transporte.** Se denomina transporte al traslado de un lugar a otro de personas y carga. Para efectos de la presente Ley, la definición de transporte sólo hace referencia al traslado en unidades motorizadas o no motorizadas de transporte, sin considerar ductos, líneas de electricidad o líneas de telecomunicación.  
+
+**Transporte intermodal.** Es la articulación entre diferentes modalidades de transporte utilizando una única medida de carga, realizando más rápida y eficazmente las operaciones de trasbordo de materiales y mercancías.  
+
+**Transporte masivo.** Serie de medios de transporte que actúan conjuntamente para desplazar grandes cantidades de personas en periodos de tiempo cortos.  
+
+**Transporte multimodal.** Es el transporte de personas y mercancías usando dos (2) o más modalidades de transporte, cubierto por un contrato de transporte multimodal.  
+
+**Transporte sostenible.** Es la provisión de servicios e infraestructura para la movilidad de personas y productos, necesarios para el desarrollo económico y social, que ofrece acceso seguro, confiable, económico, eficiente, equitativo y al alcance de todas y todos, al tiempo que reduce los impactos negativos sobre la salud y el medio ambiente local y global, en el corto, mediano y largo plazo.  
+
+**Unidad de transporte.** Medio de locomoción que permite el traslado de pasajeros o cargas de un lugar a otro.  
+
+**Usuaria o Usuario.** Es la persona natural o colectiva, de derecho público o privado, que hace uso del Sistema de Transporte Integral – STI.  
+
+**Vías navegables.** Espacios acuáticos previstos por la autoridad competente con las condiciones físicas, naturales o artificiales, por donde pueda navegar una embarcación o artefacto naval de manera permanente o por lo menos la mayor parte del año.  
+
+---  
+
+##### CAPÍTULO TERCERO  
+**FUNDAMENTOS DE LAS POLÍTICAS**  
+
+**Artículo 8. (FUNDAMENTOS).**  
+
+**I.** Las políticas de Estado en materia de transporte, serán establecidas en una visión sistémica e integral, por el nivel central a través de la autoridad competente.  
+
+**II.** El Estado en todos sus niveles de Gobierno, deberá mejorar su institucionalidad, estableciendo mecanismos que mejoren la coordinación y coherencia en la formulación de políticas, planes y proyectos sectoriales.  
+
+**Artículo 9. (POLÍTICA SECTORIAL).**  
+La política sectorial de transporte, tiene el propósito de orientar la intervención del Estado Plurinacional en el nivel central, departamental, municipal y autonomías indígena originario campesinas, para contribuir a la consecución de los fines esenciales del Estado, lograr una movilidad libre y digna en todo el territorio nacional en todas sus modalidades de transporte y consolidar un país integrado e integrador a nivel nacional e internacional.  
+
+**Artículo 10. (SISTEMA DE TRANSPORTE INTEGRAL – STI, ORIENTADO HACIA LOS BENEFICIARIOS).**  
+
+**I.** Se deberá proyectar que el Sistema de Transporte Integral – STI, llegue efectivamente a toda la población del país, articulándola al desarrollo social, productivo y comercial.  
+
+**II.** Se proyectará un Sistema de Transporte Integral – STI, eficiente que permita reducir los costos de transporte y logísticos, de modo de economizar los servicios en el Sistema de Transporte Integral – STI.  
+
+**III.** Se garantizará equidad, calidad y seguridad para los usuarios del Sistema de Transporte Integral – STI, mejorando las condiciones de sus componentes que contribuyan a la consecución general del vivir bien y la conservación de la integridad física de personas y carga.  
+
+**IV.** El Estado en todos sus niveles de Gobierno, promoverá una mejora continua del nivel del servicio, optimizará las condiciones de la prestación del servicio, en beneficio de la usuaria o usuario y operador.  
+
+**V.** Se deberá reducir al máximo el nivel de accidentalbilidad precautelando ante todo la vida humana.  
+
+**VI.** Se deberá reducir el grado de contaminación, mejorar las condiciones de transitabilidad, facilitar el acceso de usuarias y usuarios, reducir tiempos relacionados al movimiento y espera; con la finalidad de contribuir efectivamente a mejorar las condiciones de vida de la población.  
+
+**VII.** El transporte constituye una base fundamental de la integración y desarrollo, por lo que el Estado fomentará, protegerá y garantizará la continuidad de los servicios en el Sistema de Transporte Integral – STI.  
+
+### Artículo 11. (INTEGRALIDAD DE LAS MODALIDADES DE TRANSPORTE Y LA LOGÍSTICA QUE GENEREN ÓPTIMAS CONDICIONES SOCIO PRODUCTIVAS).
+
+**I.** Se deberá promover la integralidad y complementariedad de las diferentes modalidades de transporte (aéreo, terrestre, ferroviario y acuático), y la logística comprendida por todas las actividades conexas o auxiliares complementarias al transporte como servicios de recepción, manejo, depósito, consolidación, desconsolidación y reexpedición de mercancías, para generar óptimas condiciones socio productivas, contribuir a la competitividad del país y beneficiar a usuarias y usuarios, y proveedores, a través de servicios efectivos, eficientes y económicos de transporte y logística.
+
+**II.** Se deberá generar sinergia entre los componentes del Sistema de Transporte Integral – STI, en coordinación entre los diferentes niveles de la administración del Estado, como herramienta para impulsar el desarrollo socioeconómico del país.
+
+**III.** El nivel central del Estado periódicamente formulará el Plan Nacional Sectorial de Transportes – PLANAST, considerando la multimodalidad del Sistema de Transporte Integral – STI, y su integralidad con la logística; además formulará la normativa específica necesaria de acuerdo a la estrategia nacional, con lo que se definirán los lineamientos para las inversiones del nivel central del Estado, gobiernos autónomos departamentales, municipales e indígena originario campesinos.
+
+**IV.** Se considera parte primordial de la logística de transporte, la recepción, depósito, transformación, reexpedición y tránsito de mercancías a través de los almacenes aduaneros y zonas francas.
+
+### Artículo 12. (INFRAESTRUCTURA Y SERVICIOS ORIENTADOS A LA INTEGRACIÓN INTERNA Y EXTERNA).
+
+El desarrollo de la infraestructura y los servicios de transporte, deben estar necesariamente orientados a tres (3) objetivos:
+
+1. Integrar las naciones y pueblos de Bolivia con el mundo, aprovechando la privilegiada posición geográfica del país mediante una adecuada infraestructura interna de transportes, considerando para el efecto el desarrollo y mantenimiento de la Red Vial Fundamental, el desarrollo aeroportuario, ferroviario, fluvial, portuario y la implementación de eficientes pasos de frontera.
+
+2. Consolidar la integración interna del país, promoviendo el desarrollo de las regiones y establecimiento de polos productivos, mediante redes departamentales y municipales, integración de regiones con potencial productivo y promoción de inclusión al desarrollo.
+
+3. Coadyuvar en el control y soberanía del territorio, espacio aéreo, vías fluviales y espejos de agua del país.
+
+### Artículo 13. (SISTEMA DE TRANSPORTE INTEGRAL QUE GARANTICE EQUIDAD, CALIDAD Y SEGURIDAD EN EL SERVICIO).
+
+Se deberá promover la integralidad del Sistema de Transporte Integral – STI, en lo referido a la infraestructura, servicios y logística, orientados a garantizar la equidad, calidad y seguridad del transporte de personas y carga en todo el territorio nacional.
+
+### Artículo 14. (ÓPTIMAS INVERSIONES QUE GENEREN EMPLEO Y PROMUEVAN LA INDUSTRIA NACIONAL).
+
+**I.** Se deberán realizar inversiones eficientes en infraestructura de transportes, con el criterio de optimizar al máximo los recursos y lograr la mayor generación de empleos. Se deberán considerar las opciones que permitan integrar inversiones de transportes con otros sectores, promover la industria nacional, impulsar microempresas para generar empleo local y promover la participación de inversiones privadas bajo criterios de beneficio a la sociedad.
+
+**II.** Las inversiones en infraestructura de transportes, deberán ser realizadas en el marco de un financiamiento concurrente entre el nivel central del Estado, gobiernos autónomos departamentales y municipales.
+
+**III.** La planificación de la infraestructura de transportes, en todos los niveles de Gobierno, deberá considerar aspectos estratégicos para el desarrollo integral y seguridad del país.
+
+**IV.** Dentro del planeamiento de infraestructura y servicios, se deberá considerar necesariamente a la logística como una herramienta estratégica para generar óptimas condiciones socioeconómicas en el país.
+
+### Artículo 15. (EMPLEO DE ENERGÍAS ALTERNATIVAS, LIMPIAS, SOSTENIBLES Y DISPONIBLES QUE PROMUEVAN LA SOBERANÍA ENERGÉTICA DEL PAÍS).
+
+Promover el uso de energías alternativas, limpias, renovables y disponibles, que permitan alcanzar la soberanía energética en el país, mediante la transformación de la matriz energética con la reconversión, remotorización o cambio de las unidades de transporte público que utilicen energías disponibles en nuestro país; la promoción del uso de gas natural a través de incentivos fiscales, facilidades para la adquisición de unidades de transporte e incentivos para la fabricación y ensamblado de vehículos y partes de unidades de transporte a Gas Natural Vehicular – GNV u otra energía; el establecimiento de redes accesibles para el abastecimiento de energía y el fomento a la investigación para el empleo de otras energías limpias y/o renovables disponibles en el país, entre otros aspectos a ser definidos de acuerdo a la evolución del sector energético en Bolivia.
+
+---
+
+### Artículo 16. (SISTEMA DE TRANSPORTE INTEGRAL – STI, ORIENTADO A PROTEGER EL MEDIO AMBIENTE).
+
+**I.** El Sistema de Transporte Integral – STI, en las actividades de planificación y operación de todos sus componentes (infraestructura, servicios de transporte y servicios complementarios) y modalidades de transporte (aéreo, terrestre, ferroviario y acuático), deberá promover la protección del medio ambiente, resguardando los derechos de la Madre Tierra.
+
+**II.** Se deberá promover que la infraestructura y los servicios de transporte, tengan el menor costo ambiental y social posible, considerando las modalidades de transporte menos contaminantes y más eficientes en términos energéticos.
+
+**III.** Se deberá promover el transporte sostenible en el Sistema de Transporte Integral – STI, que mitigue los impactos negativos sobre la salud y el medio ambiente local y global, en el corto, mediano y largo plazo sin comprometer el desarrollo de futuras generaciones, mejorando la infraestructura y la gestión de los servicios de transporte mediante la adopción de tecnologías y prácticas más limpias, eficientes y seguras.
+
+**IV.** El gobierno central y los gobiernos territoriales autónomos, en coordinación con los operadores de transporte, deberán promover iniciativas para evitar el uso innecesario de vehículos, optimización de rutas y tender hacia el transporte público masivo.
+
+### TÍTULO II  
+#### COMPETENCIAS Y ATRIBUCIONES  
+##### CAPÍTULO PRIMERO  
+###### AUTORIDADES Y SUS COMPETENCIAS  
+
+**Artículo 17. (LAS AUTORIDADES COMPETENTES).**  
+Las diferentes modalidades de transporte estarán regidas por la autoridad competente en el ámbito de su jurisdicción.  
+
+- **a)** Autoridad competente del nivel central, entidad del Órgano Ejecutivo del nivel central que tienen atribuciones de emitir políticas, planificar, regular, fiscalizar y/o administrar la ejecución, gestión, operación y control del Sistema de Transporte Integral – STI, además de aprobar planes y proyectos relativos al transporte y realizar otras actividades inherentes al sector en el marco de sus atribuciones y funciones específicas.  
+
+- **b)** Autoridad competente del nivel departamental, representante del Órgano Ejecutivo del nivel departamental destinado a emitir políticas, planificar, regular, fiscalizar y/o administrar la ejecución, gestión, operación y control del Sistema de Transporte Integral – STI, además de aprobar planes y proyectos relativos al transporte y realizar otras actividades inherentes al sector en el marco de sus atribuciones y funciones específicas.  
+
+- **c)** Autoridad competente del nivel municipal, representante del Órgano Ejecutivo del nivel municipal que emite políticas, planifica, regula, fiscaliza y/o administra la ejecución, gestión, operación y control del Sistema de Transporte Integral – STI, además aprueba planes y proyectos relativos al transporte y realiza otras actividades inherentes al sector en el marco de sus atribuciones y funciones específicas.  
+
+- **d)** Autoridad competente indígena originario campesina, autoridad que de forma concurrente con el nivel municipal, asume la competencia de construcción de caminos vecinales y comunales.  
+
+**Artículo 18. (COMPETENCIAS).**  
+El nivel central del Estado y las entidades territoriales autónomas ejercerán las competencias previstas en la Constitución Política del Estado y las definidas en la presente Ley.  
+
+**Artículo 19. (CLASIFICACIÓN DE LAS COMPETENCIAS).**  
+De conformidad a lo dispuesto en la Constitución Política del Estado, las competencias se dividen en privativas, exclusivas, concurrentes y compartidas.  
+
+**Artículo 20. (NIVEL CENTRAL).**  
+De conformidad al Artículo 297 de la Constitución Política del Estado y la Ley Marco de Autonomías y Descentralización, el nivel central del Estado tiene las siguientes competencias:  
+
+1. **Privativas:** Control del espacio y tránsito aéreo, en todo el territorio nacional y la construcción, mantenimiento y administración de aeropuertos internacionales y de tráfico interdepartamental.  
+
+2. **Exclusivas:**  
+
+   - **a)** Formular y aprobar las políticas estatales, incluyendo las referidas a la infraestructura en todas las modalidades de transporte.  
+   - **b)** Promover políticas de desarrollo portuario, medidas y acciones factibles en el aprovechamiento operativo del transporte acuático, de las zonas francas y puertos cedidos a través de convenios internacionales, con énfasis en puertos y vías internacionales, para facilitar el desarrollo del comercio interno y externo del Estado.  
+   - **c)** Proponer iniciativas normativas, ejercer y ejecutar mecanismos de financiamiento para proyectos en el sector.  
+   - **d)** Planificar, reglamentar y fiscalizar la aviación civil.  
+   - **e)** Regular el transporte de acuerdo al Plan General de Desarrollo, establecer los parámetros o estándares técnicos mínimos y referenciales del transporte.  
+   - **f)** Establecer los criterios de clasificación y clasificar los aeropuertos y puertos de todo el territorio nacional según el tipo de tráfico.
+   - **g)** Ejercer competencias exclusivas sobre el transporte fluvial, lacustre y marítimo de
+integración nacional e internacional.
+   - **h)** Ejercer competencias de control y fiscalización para los servicios de transportes
+de alcance interdepartamental e internacional.
+   - **i)** Regular las tarifas de transporte interdepartamental.
+   - **j)** Participar en la determinación de políticas internacionales de transporte en los
+organismos internacionales que corresponda.
+   - **k)** Planificar, diseñar, construir, mantener y administrar las carreteras, líneas férreas
+y ferrocarriles de la Red Fundamental.
+   - **l)** Establecer los criterios de clasificación de la Red Fundamental, departamental
+vecinal y comunitaria y clasificar las carreteras de la Red Fundamental.
+   - **m)** Establecer los criterios de clasificación y clasificar las líneas férreas de la Red
+Fundamental y vías férreas en los departamentos.
+   - **n)** Ejercer competencias exclusivas sobre el transporte por carretera y por ferrocarril
+de alcance interdepartamental e internacional de la Red Fundamental.
+   - **o)** Regular la actividad aeronáutica en el espacio aéreo del país.
+3.Concurrente con las entidades territoriales autónomas la administración de los
+puertos fluviales.
+
+## Artículo 21. (GOBIERNOS AUTÓNOMOS DEPARTAMENTALES).  
+Los gobiernos autónomos departamentales tienen las siguientes competencias exclusivas:  
+
+**a)** Aprobar políticas departamentales de transporte e infraestructura interprovincial e intermunicipal.  
+
+**b)** Planificar y promover el desarrollo del transporte interprovincial por carretera, ferrocarril, fluvial, y otros medios, en el departamento.  
+
+**c)** Ejercer competencias de control y fiscalización para los servicios de transportes de alcance interprovincial e intermunicipal.  
+
+**d)** Regular el servicio y las tarifas de transporte interprovincial e intermunicipal.  
+
+**e)** Planificar, diseñar, construir, mantener y administrar las carreteras de la Red Departamental.  
+
+**f)** Clasificar las carreteras de la red departamental, vecinal y comunitaria en el departamento.  
+
+**g)** Apoyar en la planificación de obras de infraestructura de caminos en la jurisdicción de las autonomías indígena originario campesinas del departamento.  
+
+**h)** Construir y mantener líneas férreas, ferrocarriles y otros medios de la Red Departamental.  
+
+**i)** Construir, mantener y administrar aeropuertos que atiendan el tráfico de alcance departamental.  
+
+**j)** En proyectos de infraestructura acuática (puertos y vías navegables), los gobiernos departamentales coordinarán con el nivel central del Estado la participación sobre el mantenimiento, mejoramiento y/o construcción.  
+
+## Artículo 22. (GOBIERNOS AUTÓNOMOS MUNICIPALES).  
+Los gobiernos autónomos municipales tienen las siguientes competencias exclusivas:  
+
+**a)** Planificar y desarrollar el transporte urbano, incluyendo el ordenamiento del tránsito urbano en toda la jurisdicción municipal.  
+
+**b)** Efectuar el registro del derecho propietario de los vehículos automotores legalmente importados, ensamblados o fabricados en el territorio nacional. Los gobiernos autónomos municipales remitirán al nivel central del Estado, la información necesaria en los medios y conforme a los parámetros técnicos determinados para el establecimiento de un registro centralizado, integrado y actualizado para todo el país.  
+
+**c)** Desarrollar, promover y difundir la educación vial con participación ciudadana.  
+
+**d)** Regular las tarifas de transporte en su área de jurisdicción, en el marco de las normas, políticas y parámetros fijados por el nivel central del Estado.  
+
+**e)** El transporte urbano, ordenamiento y educación vial, administración y control del tránsito urbano, se lo ejercerá en lo que corresponda en coordinación con la Policía Boliviana.  
+
+**f)** Construcción, mantenimiento y administración de aeropuertos públicos locales.  
+
+**g)** Planificar, diseñar, construir, mantener y administrar los caminos vecinales, en coordinación con los pueblos indígena originario campesinos, cuando corresponda.  
+
+## Artículo 23. (GOBIERNOS AUTÓNOMOS INDÍGENA ORIGINARIO CAMPESINOS).  
+Los gobiernos autónomos indígena originario campesinos de acuerdo a la competencia exclusiva del numeral 6 parágrafo 1 del Artículo 304, de la Constitución Política del Estado, tienen las siguientes competencias exclusivas:  
+
+**a)** Mantenimiento y administración de caminos vecinales y comunales.  
+
+**b)** Construcción de caminos vecinales y comunales en concurrencia con el nivel central del Estado y las entidades territoriales autónomas, según corresponda.  
+
+## Artículo 24. (NORMAS ESPECÍFICAS).  
+
+**I.** El nivel central del Estado establecerá la normativa específica que determine una organización eficaz del Órgano Ejecutivo en materia de transportes, asignando la responsabilidad a las entidades pertinentes, para el cumplimiento de todas las competencias correspondientes a la autoridad competente del nivel central descritas en la presente Ley y las normativas específicas reglamentarias. Para el efecto periódicamente se desarrollará un análisis funcional y de desempeño, sobre el cual se propondrá el establecimiento de nuevas entidades, la reestructuración de las mismas, la reasignación de funciones u otras acciones relacionadas a optimizar el desempeño de las entidades públicas.  
+
+**II.** Sin perjuicio del ejercicio pleno de competencias en materia de regulación de los diferentes niveles de gobierno, el nivel central del Estado emitirá la normativa específica, para conformar el Sistema Nacional de Regulación.  
+
+**III.** Cada modalidad de transporte contará con normativa específica, que establezca las condiciones del sistema de transporte de acuerdo a los lineamientos establecidos en la presente Ley.  
+
+**IV.** Las entidades territoriales autónomas deberán emitir su propia normativa específica para las diferentes modalidades, en el ámbito de sus competencias y en concordancia con la presente Ley y su normativa específica. Además deberán estructurar una organización eficiente que les permita cumplir sus funciones, en el marco de los fines del Sistema de Transporte Integral – STI.  
+
+## CAPÍTULO SEGUNDO  
+### ATRIBUCIONES Y FUNCIONES DE LA AUTORIDAD COMPETENTE  
+
+**Artículo 25. (ATRIBUCIONES Y FUNCIONES DE LA AUTORIDAD COMPETENTE).**  
+El transporte por cualquier modalidad, estará regido por la autoridad competente en el ámbito de su jurisdicción y le corresponderá planificar, normar, regular y fiscalizar la seguridad, calidad y equidad del servicio, además de la protección a la vida humana y medio ambiente en el ámbito donde realizan sus operaciones.  
+
+**Artículo 26. (PLANIFICACIÓN).**  
+**I.** La autoridad competente en el ámbito de su jurisdicción, formulará y ejecutará las políticas, planes, programas y proyectos que promuevan la seguridad y desarrollo del Sistema del Transporte Integral – STI, en concordancia con el Plan Nacional Sectorial de Transportes – PLANAST.  
+**II.** La autoridad competente en el ámbito de su jurisdicción gestionará el financiamiento interno y externo para la ejecución de los planes, programas y proyectos que promuevan el desarrollo del Sistema de Transporte Integral – STI, y la seguridad de sus operaciones.  
+
+**Artículo 27. (FUNCIÓN NORMATIVA).**  
+Comprenderá la facultad exclusiva de dictar, en el ámbito y materia de su competencia, reglamentos, normas de carácter regulatorio, u otras normas de carácter particular referidas a intereses, obligaciones o derechos de los operadores, administradores de infraestructura y actividades reguladas. Las normas estarán enmarcadas en procedimientos administrativos a su cargo, infracciones y sanciones, resolución de controversias, procedimientos de participación de los usuarios en el proceso regulatorio y otros.  
+
+**Artículo 28. (FUNCIÓN REGULADORA).**  
+Comprenderá la facultad de fijar tarifas de los servicios regulados bajo su ámbito jurisdiccional y competencial, pero además definir periodos regulatorios, proponer metodologías para el cálculo y actualización tarifaria, normas generales para la aplicación de las tarifas, definir estándares de calidad, seguridad y comodidad para las unidades del servicio de transporte.  
+
+**Artículo 29. (FUNCIÓN SUPERVISORA).**  
+Facultad de verificar el cumplimiento de las obligaciones legales, contractuales y técnicas de las entidades prestadoras y de actividades económicas bajo su ámbito competencial. Pero además supervisar el cumplimiento del marco regulatorio aprobado.  
+
+**Artículo 30. (FUNCIÓN FISCALIZADORA Y SANCIONADORA).**  
+Comprende la facultad de imponer sanciones por el incumplimiento de obligaciones legales, contractuales y técnicas, la aplicación de las sanciones y medidas correctivas será exclusivamente a los operadores y administradores de infraestructura dentro del marco normativo regulatorio.  
+
+## CAPÍTULO TERCERO  
+### REGULACIÓN Y FISCALIZACIÓN DE LOS SERVICIOS DE TRANSPORTE  
+
+**Artículo 31. (ATRIBUCIONES DE LA AUTORIDAD REGULATORIA).**  
+**I.** El nivel central del Estado establecerá una autoridad regulatoria competente, descentralizada para regular el Sistema de Transporte Integral – STI.  
+**II.** Los gobiernos autónomos departamentales y municipales en el ámbito de sus competencias y su jurisdicción regularán el Sistema de Transporte Integral – STI.  
+**III.** Las autoridades regulatorias en los diferentes niveles tendrán las siguientes atribuciones:  
+1. Otorgar permisos y autorizaciones.  
+2. Promover y defender la competencia.  
+3. Realizar el seguimiento de obligaciones y fiscalización.  
+4. Resolución de conflictos.  
+5. Proteger los derechos de las usuarias y los usuarios, y operadores.  
+6. Colectar y difundir información.  
+7. Intervención preventiva.  
+8. Aplicar sanciones por infracciones a la prestación del servicio de transporte.  
+9. Aprobar y verificar el régimen tarifario.  
+
+**Artículo 32. (OTORGACIÓN DE PERMISOS Y AUTORIZACIONES).**  
+**I.** La autoridad competente del nivel central, departamental y municipal, otorgará a los operadores del transporte o responsables de la implementación, mantenimiento y/o administración de infraestructura, permisos y autorizaciones de acuerdo a los requisitos establecidos en normativa específica reglamentaria a la presente Ley y la normativa vigente.  
+**II.** Los operadores del servicio de transporte público, para acceder a las autorizaciones emitidas por la autoridad competente, deberán cumplir con las normas establecidas. Cada autoridad competente en su jurisdicción determinará un periodo de adecuación para la otorgación de permisos y autorizaciones que no podrá ser superior a dos (2) años.  
+**III.** La otorgación de autorizaciones debe incluir una asignación eficiente a fin de evitar la sobreoferta de servicios.  
+
+**Artículo 33. (PROMOCIÓN Y DEFENSA DE LA COMPETENCIA).**  
+**I.** Toda actividad en el sector de transporte se realizará adecuándose a principios de no discriminación y que garanticen la libre competencia, evitando actos anticompetitivos y prácticas desleales que la impidan, restrinjan o distorsionen la prestación del servicio y al cumplimiento de la normativa específica establecida, en el marco de la Constitución Política del Estado.  
+**II.** La autoridad competente definirá los mecanismos e implementará los instrumentos necesarios para la promoción y defensa de la competencia en la prestación de los servicios de transporte público en todas sus modalidades.  
+
+**Artículo 34. (SEGUIMIENTO DE OBLIGACIONES Y FISCALIZACIÓN DEL SERVICIO).**  
+**I.** La autoridad competente a través de sus entidades responsables, efectuará el seguimiento de obligaciones establecidas en la normativa vigente y en los contratos de concesión en los casos que existan y fiscalizará la prestación de los servicios de transporte por parte de los operadores y administradores de infraestructura, debiendo diseñar y aplicar los instrumentos más idóneos para el efecto.  
+**II.** Los funcionarios acreditados por la autoridad competente, exclusivamente para el seguimiento, fiscalización, control y supervisión del servicio durante las inspecciones, estarán liberados de la cancelación de la totalidad de la tarifa, de acuerdo a normativa específica.  
+**III.** Los parámetros y estándares técnicos y de calidad para la prestación de los servicios de transporte, serán establecidos por la autoridad competente del nivel central, pudiendo ser ajustados según la necesidad y servirán de referencia para que los gobiernos autónomos departamentales y municipales ajusten la calidad en la prestación de los servicios de transporte en el ámbito de su jurisdicción, en favor de las usuarias y los usuarios.  
+
+**Artículo 35. (FUNCIÓN DE RESOLUCIÓN DE CONFLICTOS).**  
+Facultad de conciliar intereses contrapuestos entre entidades bajo su ámbito competencial, reconociendo y desestimando derechos. Resolver en planos administrativos los conflictos, pero sujetos a impugnaciones en la vía contencioso administrativa.  
+
+**Artículo 36. (PROTECCIÓN DE LOS DERECHOS DE LAS USUARIAS Y LOS USUARIOS Y OPERADORES).**  
+La autoridad competente protegerá, los derechos de las usuarias y los usuarios, y operadores velando por el cumplimiento de la normativa vigente, la aplicación correcta de las tarifas, el control de la eficiente prestación de los servicios, atendiendo sus denuncias y reclamos.  
+
+**Artículo 37. (COLECCIÓN Y DIFUSIÓN DE LA INFORMACIÓN).**  
+La autoridad competente, podrá requerir todo tipo de información y podrá difundirla de acuerdo a lo establecido en el Sistema de Información de Transporte – SINTRA.  
+
+**Artículo 38. (INTERVENCIÓN).**  
+La autoridad competente, podrá intervenir a los administradores de infraestructura en todas las modalidades de transporte y a operadores de servicio de transporte aéreo y ferroviario que cuenten con títulos habilitantes o autorizados, en caso que existiera peligro de suspensión del servicio público de transporte, conforme a normativa específica por modalidad de transporte.  
+
+**Artículo 39. (INFRACCIONES Y SANCIONES).**  
+**I.** La autoridad competente, en el marco de sus atribuciones y competencias, podrá sancionar a los operadores del servicio de transporte y administradores de infraestructura por las infracciones a las disposiciones contenidas en la presente Ley, la normativa específica sectorial aplicable a cada modalidad de transporte y aquellas establecidas en los respectivos contratos, previo al debido proceso.  
+**II.** De acuerdo a sus características, las infracciones para cada modalidad de transporte, se clasifican en:  
+a. Prestación ilegal del servicio.  
+b. Contra el Sistema de Transporte Integral – STI.  
+c. Contra los derechos de las usuarias y los usuarios.  
+d. Contra los derechos de los operadores.  
+e. Contra las atribuciones de la autoridad competente.  
+f. Otras infracciones establecidas en la normativa específica.  
+**III.** Constituyen infracciones por prestación ilegal del servicio las siguientes:  
+a. La realización de actividades, prestación u ofrecimiento del servicio de transporte, sin ser titular de una autorización para la prestación del servicio.  
+b. La prestación ilegal del servicio de transporte cuando, teniendo un título habilitante, se realicen actividades, prestación u ofrecimiento de servicios de transporte distintos a los permitidos en su autorización o licencia.  
+**IV.** Constituyen infracciones contra el Sistema de Transporte Integral – STI, las siguientes:  
+a. Acuerdos anticompetitivos, prácticas anticompetitivas o abusivas y fusiones entre competidores, prohibidas en el marco normativo nacional, internacional o supranacional.  
+b. Provisión de servicios a la usuaria y el usuario condicionada a otro tipo de aportación o cobro, que no sea parte de la estructura tarifaria y que se constituyan como cobros irregulares.  
+c. Abandono injustificado o sin autorización de la prestación del servicio público.  
+d. Incumplimiento del pago de la tasa de regulación.  
+**V.** Constituyen infracciones contra los derechos de las usuarias y los usuarios las siguientes:  
+a. Cobro indebido de tarifas.  
+b. Proporcionar información calificada como falsa o engañosa por la autoridad competente.  
+c. No aplicación de los procedimientos de atención de reclamos establecidos y aprobados por la autoridad competente.  
+d. Inexistencia de oficinas de atención al usuario por parte de los operadores, en los casos en que la autoridad competente considere pertinente.  
+e. Negativa sistemática e indebida, de provisión del servicio o prácticas discriminatorias con respecto a la usuaria y el usuario.  
+f. Poner en riesgo o afectar la seguridad e integridad física de las usuarias y los usuarios por negligencia en la verificación y aplicación de las normas técnicas y condiciones de seguridad en la prestación de los servicios.  
+g. Poner en riesgo la seguridad e integridad física de las usuarias o los usuarios por negligencia en las labores de mantenimiento y preservación de la infraestructura y equipamiento.  
+h. La no devolución a la usuaria o al usuario del cobro de tarifas en exceso, cuando así lo dispone la autoridad competente.  
+i. La pérdida o sustracción de equipaje, encomienda o carga.  
+j. Deficiencias en el contenido o emisión de las facturas o en los contratos de transporte de acuerdo a normativa específica para cada modalidad de transporte.  
+k. Incumplimiento de parámetros o estándares técnicos mínimos aprobados por la autoridad competente.  
+l. Incumplimiento de los itinerarios de puntualidad y cancelación, aprobados por la autoridad competente.  
+**VI.** Constituyen infracciones contra los derechos de los operadores las siguientes:  
+a. Prestar el servicio por debajo de los topes o promedios mínimos tarifarios aprobados, cuando esto conduzca a situaciones anticompetitivas.  
+b. Realizar fusiones, acuerdos, pactos, convenios o prácticas colusivas con otros operadores con la finalidad de capturar un mercado de usuarios significativo. La calificación y/o valoración de la magnitud de este mercado corresponde a la autoridad competente.  
+c. Realizar, en general, cualquier práctica abusiva, anticompetitiva, predatoria, emisión de publicidad falsa o engañosa que induzca a error a la usuaria o el usuario, en posible beneficio de un prestador de servicios o menoscabo de otro u otros.  
+**VII.** Constituyen infracciones contra las atribuciones de la autoridad competente las siguientes:  
+a. Presentación a la autoridad competente de información falsa.  
+b. Incumplimiento total o parcial u obstaculización de los actos administrativos dictados por la autoridad competente.  
+c. Agresión física o verbal, al personal de la autoridad competente en funciones de fiscalización.  
+d. Negativa, obstrucción o resistencia al ejercicio de las atribuciones de fiscalización y/o inspección administrativa de la autoridad competente.  
+e. Negativa del representante legal a proporcionar información y/o documentación de carácter regulatorio y fiscalizador a requerimiento de la autoridad competente.  
+**VIII.** Las infracciones serán sancionadas en aplicación a los principios de graduación y proporcionalidad con:  
+a. Apercibimiento.  
+b. Multa pecuniaria.  
+c. Suspensión temporal de operaciones.  
+d. Multa pecuniaria y suspensión temporal de operaciones.  
+e. Revocatoria de la autorización, en los casos y con los alcances establecidos en la normativa específica reglamentaria.  
+f. Caducidad de las autorizaciones y la revocatoria de las licencias en los casos que correspondan.  
+**IX.** La autoridad competente en el marco de sus atribuciones podrá establecer otro tipo de infracciones considerando las características de cada modalidad de transporte y de acuerdo a normativa específica.  
+
+**Artículo 40. (DESTINO DE LAS MULTAS).**  
+Las multas impuestas a los operadores y administradores de infraestructura por infracciones a la prestación del servicio de transporte serán depositadas en una cuenta fiscal de la autoridad competente, cuyo destino estará orientado al desarrollo del sector de transporte, de acuerdo a normativa reglamentaria específica.  
+
+**Artículo 41. (TASA DE REGULACIÓN Y FISCALIZACIÓN).**  
+Los costos de la labor de regulación y fiscalización de la autoridad competente, serán financiados mediante una tasa de regulación a ser pagada por los operadores y administradores de infraestructura y será utilizada exclusivamente para labores regulatorias, cuya alícuota será determinada por normativa específica de acuerdo a la modalidad de transporte.  
+
+## CAPÍTULO CUARTO  
+### RÉGIMEN TARIFARIO  
+
+**Artículo 42. (ÁMBITO DE APLICACIÓN).**  
+El régimen tarifario será de aplicación general y obligatoria para todos los servicios públicos de transporte regular y no regular que será definido por la autoridad competente de los niveles central, departamental y municipal en el ámbito de su jurisdicción. Las tarifas de transporte internacional se regirán en cumplimiento a los Acuerdos Internacionales.  
+
+**Artículo 43. (PERIODO TARIFARIO).**  
+Cada autoridad competente del nivel central, departamental y municipal de acuerdo al ámbito de sus competencias, establecerá un periodo tarifario, durante el cual permanecerán constantes las tarifas, mientras no ocurran cambios significativos en los costos operativos relacionados directamente al transporte y/o en variables económicas significativas.  
+
+**Artículo 44. (MECANISMOS DE REGULACIÓN TARIFARIA).**  
+Los mecanismos de regulación tarifaria para los sectores del transporte, buscarán incorporar elementos de ajuste tarifario en función a costos reales de operación, pero además en función a factores de eficiencia, calidad y seguridad, medidos a través del cumplimiento de metas que vayan en beneficio de las usuarias y los usuarios.  
+
+**Artículo 45. (PRINCIPIOS DEL RÉGIMEN TARIFARIO).**  
+Los siguientes principios deben ser la base para la regulación tarifaria, mismos que deben ser considerados antes de emitir una tarifa:  
+a. El régimen tarifario reflejará los costos reales que demande la prestación eficiente del servicio.  
+b. El régimen tarifario atenderá los principios de solidaridad y compensación, de manera que se incluyan regímenes tarifarios diferenciados según segmentos poblacionales.  
+c. El régimen tarifario será diseñado para promover la prestación eficiente del servicio de transporte y no se permitirán prácticas de competencia desleal y monopólicas.  
+d. No estarán permitidos subsidios cruzados derivados del servicio de transporte.  
+e. El régimen tarifario deberá considerar el nivel socioeconómico de la población usuaria, variación en los costos, y eficiencia en la operación y competitividad en el mercado de los operadores. El régimen tarifario deberá considerar el cumplimiento de estándares de calidad, comodidad y seguridad, pero además la eficiencia en la operación, reflejando el costo de operación y la inversión.  
+
+**Artículo 46. (EFICIENCIA ECONÓMICA).**  
+Las tarifas a ser aplicadas por los operadores de transporte y administradores de infraestructura, deben ser el resultado de la aplicación de una estructura real de costos eficientes, además que los recursos obtenidos por su recaudación, deben ser objeto de un manejo y administración adecuados para el logro del equilibrio financiero.  
+
+**Artículo 47. (SUFICIENCIA FINANCIERA).**  
+Las tarifas a ser aplicadas por los operadores de transporte y administradores de infraestructura deberán cubrir los costos reales para la sostenibilidad de sus operaciones, permitir la recuperación de la inversión, además de posibilitar una ganancia acorde a los costos incurridos.  
+
+**Artículo 48. (REGULACIÓN DE LA EFICIENCIA Y SUFICIENCIA FINANCIERA).**  
+La autoridad competente en el marco de su jurisdicción, regulará la eficiencia y suficiencia financiera establecidos en los artículos 46 y 47, considerando los parámetros de calidad, seguridad, eficiencia, sostenibilidad y otros definidos por la presente Ley.  
+
+**Artículo 49. (TARIFAS SOLIDARIAS O ESPECIALES).**  
+**I.** Las autoridades competentes en coordinación con los operadores y administradores de infraestructura, promoverán políticas públicas basadas en principios de solidaridad destinadas a mejorar el acceso al transporte público, mientras no se comprometa la viabilidad financiera de los operadores.  
+**II.** Los operadores del servicio público de transporte y administradores de infraestructura en todas sus modalidades deberán otorgar descuentos de las tarifas aprobadas por la autoridad competente de acuerdo a normativa específica, a las siguientes personas:  
+a. Con discapacidad calificada en los niveles grave o muy grave.  
+b. Adultos mayores, con edad igual o mayor a los 60 años.  
+**III.** Para ser beneficiaria o beneficiario de dicho descuento, el pasajero deberá acreditar su condición a través de la presentación del documento extendido por la entidad competente.  
+**IV.** Los descuentos para infantes, niños, niñas y estudiantes, serán definidos por la autoridad competente en el área de su jurisdicción de acuerdo a normativa específica.  
+**V.** En casos de emergencia los operadores y administradores de infraestructura podrán proveer servicios con tarifas solidarias de forma temporal.  
+
+**Artículo 50. (TRANSPARENCIA Y DIFUSIÓN).**  
+**I.** Las autoridades competentes deberán elaborar mecanismos, procedimientos para la socialización y aprobación tarifaria.  
+**II.** El régimen tarifario deberá ser de conocimiento público, a este efecto las autoridades competentes deberán utilizar los medios de difusión más adecuados para trasmitir de forma clara y oportuna la información a la población.  
+
+**Artículo 51. (PRINCIPIO DE OBLIGACIÓN TRIBUTARIA).**  
+En el marco de la Constitución Política del Estado, la autoridad competente en coordinación con el Ministerio de Economía y Finanzas Públicas, deberá implementar mecanismos que permitan incorporar al régimen de tributación obligatoria a todos los servicios de transporte público regular y no regular, de acuerdo a los regímenes tributarios vigentes, considerando la capacidad económica y el tipo de operaciones realizadas, por cada modalidad de transporte.  
+
+## CAPÍTULO QUINTO  
+### COORDINACIÓN INTERINSTITUCIONAL  
+
+**Artículo 52. (CONSEJO DE COORDINACIÓN SECTORIAL).**  
+Se constituirá el Consejo de Coordinación Sectorial de Transporte, liderizado por el Ministerio de Obras Públicas, Servicios y Vivienda a través del Viceministerio de Transportes como cabeza de sector.  
+
+**Artículo 53. (MIEMBROS DEL CONSEJO).**  
+**I.** El consejo estará conformado por representantes de las instituciones competentes del nivel central del Estado, de las modalidades de transporte, los cuales serán designados mediante Resolución Ministerial.  
+**II.** Serán miembros del consejo, los representantes de las entidades territoriales autónomas; asimismo y a través de los sub-consejos participarán los representantes de los operadores y sociedad civil organizada de acuerdo a normativa específica.  
+**III.** Cuando corresponda, podrán participar representantes de ministerios y viceministerios de otros sectores e instituciones relacionadas con el sector, de acuerdo a normativa específica.  
+
+**Artículo 54. (SUB-CONSEJOS DE TRANSPORTES AÉREO, TERRESTRE, FERROVIARIO, MARÍTIMO, FLUVIAL Y LACUSTRE).**  
+En el marco del Consejo de Coordinación Sectorial, se conformarán Sub-consejos por representantes de las instituciones relacionadas a cada modalidad específica de transporte, cuando los temas a tratar y las necesidades así lo requieran y de acuerdo a normativa específica.  
+
+**Artículo 55. (FUNCIONES DEL CONSEJO).**  
+Las principales funciones del Consejo serán:  
+a. Participar periódicamente en el proceso de formulación y evaluación de una política consensuada del sector transporte.  
+b. Elaborar y evaluar el Plan Nacional Sectorial de Transporte – PLANAST.  
+c. Coordinar la formulación del Plan Nacional Sectorial de Transporte – PLANAST y los programas departamentales y municipales de Transporte con las entidades territoriales autónomas.  
+d. Proponer normativa específica de alcance nacional relacionada al transporte en cualquiera de sus modalidades.  
+e. Compatibilizar la normativa de alcance nacional con la normativa emitida por los gobiernos autónomos departamentales, municipales e indígena originario campesinos.  
+f. Fiscalizar la ejecución del Plan Nacional Sectorial de Transporte – PLANAST.  
+g)Otras funciones que sean detalladas en el reglamento interno específico del Consejo.
+
+
+**Artículo 56. (FUNCIONAMIENTO DEL CONSEJO Y SUB-CONSEJOS).**  
+**I.** Para el financiamiento de las actividades del Consejo de Coordinación Sectorial y sus respectivos Sub-consejos, el gobierno central, los gobiernos autónomos departamentales y municipales destinarán un porcentaje de las recaudaciones obtenidas por concepto de regulación, a un fondo cuya administración será definida de acuerdo a reglamento interno específico.  
+**II.** El funcionamiento del Consejo y Sub-consejos, será definido en su reglamento interno específico.  
+
+**Artículo 57. (SISTEMA DE INFORMACIÓN DE TRANSPORTE).**  
+Se establece la creación del Sistema de Información de Transporte – SINTRA, a cargo del nivel central del Estado, el cual se alimentará de información y datos estadísticos proporcionados principalmente por las entidades públicas, gobiernos autónomos departamentales y municipales, a efectos de disponer de información estadística relativa al sector, para la toma de decisiones y desarrollo de las labores de formulación de normativa y planificación del sector.  
+
+**Artículo 58. (SISTEMA DE INFORMACIÓN A NIVEL DEPARTAMENTAL Y MUNICIPAL).**  
+Los gobiernos autónomos departamentales y municipales deberán establecer un sistema de información del sector transporte. La información contenida en el sistema deberá ser actualizada en forma periódica y remitida al Sistema de Información de Transporte – SINTRA.  
+
+**Artículo 59. (REGISTRO).**  
+Con el objetivo de contar con información fidedigna de las unidades de transporte, autorizaciones y operaciones, el nivel central del Estado de forma coordinada con las entidades territoriales autónomas, creará, procesará, actualizará y administrará el registro de datos. La información básica referencial a ser procesada se definirá de acuerdo a normativa específica.  
+
+---
+
+## TÍTULO III  
+### SISTEMA DE TRANSPORTE INTEGRAL  
+
+#### CAPÍTULO PRIMERO  
+**FINES DEL SISTEMA DE TRANSPORTE INTEGRAL**  
+
+**Artículo 60. (FINES DEL SISTEMA DE TRANSPORTE INTEGRAL).**  
+Los fines del Sistema de Transporte Integral – STI, son:  
+1. **Equidad.** Es la igualdad de condiciones de acceso de la población en general y en particular de adultos mayores, personas con discapacidad grave o muy grave, niñas, niños y otros casos especiales, así como de los operadores a la infraestructura, operaciones y servicios del Sistema de Transporte Integral – STI. Considerando los factores de accesibilidad, distancia, facilidad para conexiones, itinerarios, tiempo de espera, precio de pasajes y otros que faciliten el acceso de la población a la infraestructura y servicios de transporte.  
+2. **Calidad.** Es el nivel de cumplimiento de los requisitos y la satisfacción que el proveedor de infraestructura, operaciones, servicios y otras actividades relacionadas, ofrece y proporciona a la usuaria o el usuario, en términos de bienestar, eficiencia y eficacia, que contemple condiciones de comodidad, adecuada atención, confiabilidad, mantención y conservación, plazos, niveles de contaminación permisibles, entre otros elementos, cuyos estándares serán definidos en la normativa específica para cada modalidad de transporte.  
+3. **Seguridad.** Es el cumplimiento de las normas regulatorias que permitan preservar la integridad física de la usuaria o el usuario, y de la carga, desarrollando planes y programas de prevención de accidentes, infraestructura vial y de servicios a cargo de las autoridades competentes de los diferentes niveles de gobiernos autonómicos, realizando inspecciones y controles de cumplimiento a cargo de la autoridad de regulación.  
+
+**Artículo 61. (AUTORIZACIONES EMITIDAS EN EL MARCO DE LA EQUIDAD, CALIDAD Y SEGURIDAD).**  
+**I.** El gobierno central y los gobiernos territoriales autónomos deberán establecer sus políticas, normas, planes, programas y proyectos en concordancia con los fines del Sistema de Transporte Integral – STI.  
+**II.** La otorgación de las respectivas autorizaciones en lo que respecta a infraestructura, operaciones, servicios y otras actividades relacionadas al Sistema de Transporte Integral – STI, deberán exigir necesariamente el cumplimiento de los estándares de equidad, calidad y seguridad establecidos.  
+
+---
+
+#### CAPÍTULO SEGUNDO  
+**MODALIDADES Y COMPONENTES DEL SISTEMA DE TRANSPORTE INTEGRAL**  
+
+**Artículo 62. (MODALIDADES DE TRANSPORTE).**  
+Las modalidades del Sistema de Transporte establecidas por la presente Ley, son las siguientes: Aéreo, Terrestre, Ferroviario, Acuático (marítimo, fluvial y lacustre).  
+
+**Artículo 63. (MULTIMODALIDAD Y LOGÍSTICA).**  
+**I.** El gobierno central y las entidades territoriales autónomas, en el ámbito de sus competencias serán responsables de promover la intermodalidad con la finalidad de integrar interna y externamente el territorio de Bolivia, mejorar el nivel competitivo de las actividades productivas y comerciales y facilitar los procesos de interacción social y cultural del país.  
+**II.** La integralidad y complementariedad de las diferentes modalidades de transporte, se deberá sustentar en el desarrollo de un sistema de logística avanzada, como factor fundamental para promover el desarrollo económico y social.  
+
+**Artículo 64. (FACILITACIÓN DEL SERVICIO DE TRANSPORTE).**  
+**I.** Las entidades o reparticiones del nivel central del Estado y de las entidades territoriales autónomas que realicen labores de facilitación al servicio de transporte nacional e internacional, en ejercicio de sus atribuciones, deberán garantizar que el flujo de pasajeros y carga en dicho servicio sea prestado en condiciones de calidad, seguridad y eficiencia, sin afectar el cumplimiento específico de sus funciones.  
+**II.** Para generar en su conjunto un sistema eficiente y económico, para la facilitación del servicio de transporte, se deberá considerar el establecimiento y empleo de plataformas logísticas, centros almaceneros y zonas francas nacionales que posibiliten óptimas operaciones de manejo, almacenamiento y distribución de cargas.  
+
+**Artículo 65. (COMPONENTES DEL SISTEMA DE TRANSPORTE INTEGRAL – STI).**  
+El Sistema de Transporte Integral – STI, está compuesto por infraestructura, servicios de transporte y servicios logísticos complementarios al transporte. El Estado, en todos sus niveles de gobierno, deberá promover sinergia entre los componentes del sistema de transporte, para optimizar el grado de eficiencia, calidad y seguridad de las operaciones de traslado de personas y carga.  
+
+--- 
+
+**SECCIÓN I**  
+**INFRAESTRUCTURA**  
+
+**Artículo 66. (INFRAESTRUCTURA DEL SECTOR TRANSPORTE).**  
+La infraestructura del sector transporte en sus modalidades aérea, terrestre, ferroviaria y acuática (marítimas, fluviales y lacustres), y las necesarias para la logística está comprendida por vías de comunicación, obras civiles, equipamiento e instalaciones para servicios de transporte.  
+
+**Artículo 67. (NECESIDAD Y UTILIDAD PÚBLICA).**  
+Se declara de necesidad y utilidad pública toda obra de infraestructura vial, instalaciones de terminales terrestres, aeroportuarias, puertos, instalaciones, estaciones, vías férreas y derechos de vía, destinada al servicio público, debiendo gozar prioritariamente de todos los privilegios que las leyes conceden para ese caso.  
+
+**Artículo 68. (ÁREAS PARA INFRAESTRUCTURA DE TRANSPORTE).**  
+**I.** Los gobiernos autónomos municipales, deberán identificar e incorporar las áreas que puedan servir como terminales terrestres, aeroportuarias, estaciones ferroviarias o puertos fluviales o lacustres a futuro, en los planes de ordenamiento territorial.  
+**II.** La superficie del emplazamiento más el área afectada para el funcionamiento de la infraestructura, deberá ser seleccionada considerando que no se afecten tierras productivas y tengan un mínimo impacto en el medioambiente.  
+
+**Artículo 69. (INVERSIONES CONCURRENTES EN INFRAESTRUCTURA).**  
+**I.** Para optimizar la utilización de los recursos de inversión disponibles para infraestructura de transportes, se establecerán mecanismos que promuevan la concurrencia de recursos provenientes de diferentes entidades territoriales autónomas.  
+**II.** Las inversiones concurrentes serán calificadas según la prioridad nacional, importancia regional y capacidad financiera de las entidades territoriales.  
+
+**Artículo 70. (INVERSIONES COMPARTIDAS CON DIFERENTES SECTORES).**  
+Con la finalidad de optimizar recursos de inversión, se establece la obligatoriedad de coordinar con diferentes sectores (telecomunicaciones, energía, hidrocarburos, agua, medioambiente, defensa u otros), en la formulación de los proyectos de infraestructura de transportes.  
+
+**Artículo 71. (INFRAESTRUCTURA PARA TODOS LOS MEDIOS DE MOVILIDAD).**  
+Toda infraestructura vial urbana deberá incluir obligatoriamente, vía peatonal que incluya especificaciones para personas con capacidades especiales, ciclovías en ciudades de topografía plana fundamentalmente y calzada para vehículos motorizados.  
+
+**Artículo 72. (PARTICIPACIÓN PRIVADA).**  
+La participación privada en la construcción, mejoramiento, mantenimiento, rehabilitación, reparación, financiamiento, operación, administración o explotación de dichas infraestructuras se regirá por la presente Ley y disposiciones normativas.  
+
+--- 
+
+**SECCIÓN II**  
+**SERVICIOS DE TRANSPORTE**  
+
+**Artículo 73. (SERVICIO DE TRANSPORTE).**  
+Es la actividad mediante la cual el Estado satisface por sí o a través de privados, las necesidades de movilización o traslado de personas y de cosas que se ofrece al público en general, mediante el pago de una retribución.  
+
+**Artículo 74. (CLASES DE TRANSPORTE).**  
+Las clases de transporte establecidos por la presente Ley, son las siguientes: Transporte Público y Transporte Privado.  
+
+**Artículo 75. (TRANSPORTE PÚBLICO).**  
+El servicio de transporte público, se define como aquel que tiene como propósito general satisfacer las necesidades que originan prestaciones dirigidas a las usuarias y los usuarios individualmente o en su conjunto, que son de interés público y sirven al bien común.  
+
+**Artículo 76. (TRANSPORTE PRIVADO).**  
+El transporte privado comprende las unidades de transporte en las que la usuaria o el usuario es propietario de los mismos, no se cobra por el transporte o que la necesidad del traslado no es de carácter público.  
+
+**Artículo 77. (TRANSPORTE MASIVO).**  
+El gobierno central y las entidades territoriales autónomas, en el ámbito de sus competencias serán responsables de promover, en coordinación con los operadores, el uso de medios de transporte masivo de pasajeros y carga.  
+
+--- 
+
+**SECCIÓN III**  
+**SERVICIOS LOGÍSTICOS COMPLEMENTARIOS AL TRANSPORTE**  
+
+**Artículo 78. (SERVICIOS LOGÍSTICOS).**  
+**I.** Son aquellos que se dedican a la prestación de servicios relacionados con el movimiento y almacenamiento de mercancías, incluyendo la subcontratación.  
+**II.** La logística debe ser comprendida como transversal a la producción, comercio, transporte, información, control y facilitación del comercio.  
+
+**Artículo 79. (PLATAFORMAS LOGÍSTICAS Y DE TRANSFERENCIA INTERMODAL).**  
+**I.** Están conformadas por la infraestructura necesaria para el intercambio modal de transporte y los espacios disponibles para la carga/descarga de la mercancía.  
+**II.** Dentro de las instalaciones logísticas se deben destacar las plataformas logísticas por su importancia estratégica.  
+
+**Artículo 80. (PLATAFORMAS LOGÍSTICAS – MULTIMODALES).**  
+Las autoridades competentes de los diferentes niveles de gobierno promoverán la construcción de plataformas multimodales a fin de optimizar las cadenas logísticas de carga.  
+
+--- 
+
+#### CAPÍTULO TERCERO  
+**PLANIFICACIÓN DEL SISTEMA DE TRANSPORTE**  
+
+**Artículo 81. (PLANIFICACIÓN INTEGRAL).**  
+**I.** La planificación en transporte deberá ser integral, considerando en forma sistémica la infraestructura, los servicios y la logística.  
+**II.** Por la transversalidad del Sistema de Transporte Integral – STI, con diferentes sectores socioeconómicos del país, los planes, programas y proyectos del sector transporte tendrán un carácter integral.  
+
+**Artículo 82. (PLAN NACIONAL SECTORIAL DE TRANSPORTE – PLANAST).**  
+**I.** El Plan Nacional Sectorial de Transporte – PLANAST, definirá en base a un diagnostico, los objetivos y estrategias a ejecutar por el Sistema de Transporte Integral – STI.  
+**II.** Será elaborado por la cabeza del sector y aprobado por el Consejo de Coordinación Sectorial, tendrá un periodo de vigencia de diez (10) años.  
+
+**Artículo 83. (PROGRAMA DEPARTAMENTAL DE TRANSPORTE – PRODET).**  
+**I.** Los gobiernos autónomos departamentales, deberán elaborar el Programa Departamental de Transporte – PRODET, por periodos de cinco (5) años.  
+**II.** Dando cumplimiento al parágrafo IV del Artículo 96 de la Ley Marco de Autonomías y Descentralización, el Programa Departamental de Transporte deberá incorporar los programas y proyectos de transporte presentados por los gobiernos autónomos municipales con población menor a 5.000 habitantes.  
+
+**Artículo 84. (PROGRAMA MUNICIPAL DE TRANSPORTE – PROMUT).**  
+Los gobiernos autónomos municipales, elaborarán el Programa Municipal de Transporte – PROMUT, por períodos de cinco (5) años. Los gobiernos autónomos municipales que tengan menos de 5.000 habitantes no están obligados a preparar el Programa Municipal de Transporte – PROMUT.  
+
+**Artículo 85. (ACCESO A RECURSOS).**  
+**I.** El Programa Departamental de Transporte – PRODET para los gobiernos autónomos departamentales y el Programa Municipal de Transporte –PROMUT para gobiernos autónomos municipales con población mayor a 5.000 habitantes constituirán requisitos indispensables para acceder a recursos públicos destinados a preinversión e inversión en el sector de transporte.  
+**II.** Los municipios con población menor a 5.000 habitantes, deberán presentar proyectos en el marco del Plan Nacional Sectorial de Transporte – PLANAST, ante los gobiernos autónomos departamentales de su jurisdicción.  
+
+**Artículo 86. (GESTIÓN DE FINANCIAMIENTO PARA INFRAESTRUCTURA).**  
+El nivel central del Estado, los gobiernos autónomos departamentales y municipales serán responsables de gestionar recursos de fuentes de financiamiento nacionales y/o internacionales, destinados a la preinversión e inversión de la infraestructura del sector de transporte.  
+
+--- 
+
+#### CAPÍTULO CUARTO  
+**PREVENCIÓN DE ACCIDENTES**  
+
+**Artículo 87. (PROGRAMAS DE PREVENCIÓN DE ACCIDENTES).**  
+Con el propósito de coadyuvar las políticas de seguridad nacional e internacional en materia de transporte público, los operadores de transporte público y administradores de servicios complementarios, deberán contar con programas preventivos de conformidad a las normas específicas emanadas de las autoridades competentes en cada modalidad de transporte.  
+
+**Artículo 88. (INVESTIGACIÓN DE LAS CAUSAS DE ACCIDENTES E INCIDENTES).**  
+**I.** La autoridad competente en cada modalidad de transporte tiene la obligación de investigar los accidentes e incidentes que se produzcan en el territorio boliviano, así como los que ocurran en medios de transporte bolivianos en el extranjero.  
+**II.** Los medios de transporte extranjeros que sufran accidentes en territorio boliviano así como los nacionales que sufran accidentes en territorio extranjero, quedarán sujetos a la investigación técnica prevista en los convenios internacionales.  
+
+--- 
+
+#### CAPÍTULO QUINTO  
+**GESTIÓN DEL RIESGO DE DESASTRES**  
+
+**Artículo 89. (GESTIÓN DEL RIESGO DE DESASTRES).**  
+La autoridad competente del nivel central del Estado, será responsable de elaborar la normativa y vigilar su cumplimiento a fin de que todos los planes, programas y proyectos del sector de transporte en sus diferentes modalidades, incorporen la gestión de riesgos y desastres.  
+
+**Artículo 90. (PLAN DE CONTINGENCIA).**  
+La autoridad competente del nivel central del Estado, normará y supervisará que se incorpore en los planes estratégicos y operativos de todas las autoridades competentes, operadores del servicio de transporte en todas sus modalidades y aquellos que prestan servicios logísticos complementarios al transporte, acciones de reducción de riesgo y respuesta a emergencias y desastres.  
+
+**Artículo 91. (PRESUPUESTO).**  
+La autoridad competente del nivel central del Estado y entidades territoriales autónomas, en correspondencia a sus Planes Operativos Anuales – POA, formularán su presupuesto incorporando los recursos de gasto e inversión necesarios para implementar acciones de prevención, mitigación, preparación y protección.  
+
+**Artículo 92. (SISTEMA INTEGRADO DE INFORMACIÓN PARA LA REDUCCIÓN DE RIESGOS Y ATENCIÓN DE DESASTRES O EMERGENCIAS).**  
+Las autoridades responsables del sector transportes del nivel central del Estado y las entidades territoriales autónomas en el marco de sus competencias establecidas en la Ley Marco de Autonomías y Descentralización, desarrollarán programas y proyectos de reducción de riesgos y atención de desastres o emergencias en coordinación con el Sistema Nacional de Reducción de Riesgos y Atención de Desastres y Emergencias – SISRADE.  
+
+--- 
+
+#### CAPÍTULO SEXTO  
+**TRANSPORTE INTERNACIONAL**  
+
+**Artículo 93. (PRINCIPIOS DEL TRANSPORTE INTERNACIONAL).**  
+A fin de asegurar la actividad del transporte comercial en el orden internacional se establecen los siguientes principios:  
+a) Que se asegure la reciprocidad real y efectiva en las negociaciones internacionales.  
+b) Que la demanda de transporte internacional dentro del territorio nacional y el de un determinado país, ofrezca a los transportadores oportunidades justas y equitativas.  
+c) Se tomarán las medidas apropiadas para eliminar cualquier forma de competencia desleal.  
+d) Que en el otorgamiento de todo derecho a un transportador extranjero se tome en cuenta la necesidad de ajustar el tráfico en base a principios de la sana economía.  
+
+**Artículo 94. (ACUERDOS INTERNACIONALES).**  
+Las empresas extranjeras podrán realizar servicios de transporte internacional desde y hacia Bolivia conforme a los convenios o acuerdos internacionales de carácter bilateral o multilateral en que Bolivia sea signatario.  
+
+**Artículo 95. (AUTORIZACIONES A MEDIOS DE TRANSPORTE EXTRANJEROS).**  
+El ingreso al país de aeronaves, vehículos, ferrocarriles y embarcaciones del extranjero, están condicionadas a la autorización o permiso concedidos por la autoridad competente del nivel central del Estado.  
+
+**Artículo 96. (EXCLUSIVIDAD DENTRO DEL TERRITORIO).**  
+La prestación de los servicios de transporte en rutas dentro del territorio del Estado Plurinacional, es decir el traslado de pasajeros y/o carga desde un punto de origen dentro del territorio nacional a otro destino también dentro del territorio nacional, está reservado a personas naturales o jurídicas, e instituciones públicas de nacionalidad boliviana con domicilio en el Estado.  
+
+**Artículo 97. (RESTRICCIONES).**  
+Si una aeronave, vehículo, ferrocarril o embarcación extranjera hubiese penetrado en territorio boliviano, sin autorización o hubiese violado las prescripciones relativas a la circulación, será detenida hasta que se hayan producido las aclaraciones del caso.  
+
+--- 
+
+## TÍTULO IV  
+### PARTICIPACIÓN, CONTROL SOCIAL, EDUCACIÓN, MEDIO AMBIENTE Y SEGUROS  
+
+#### CAPÍTULO PRIMERO  
+**PARTICIPACIÓN, CONTROL SOCIAL Y EDUCACIÓN**  
+
+**Artículo 98. (PARTICIPACIÓN, CONTROL SOCIAL Y EDUCACIÓN).**  
+Se deberá promover la participación, el control social y la educación, para que el Sistema de Transporte Integral – STI, que implica la infraestructura de transporte y sus servicios, llegue efectivamente a la población más pobre del país.  
+
+**Artículo 99. (CONTROL SOCIAL).**  
+**I.** Las organizaciones sociales y la sociedad civil organizada, participarán en el diseño de políticas de Estado planes, programas y proyectos de transporte.  
+**II.** La autoridad competente generará mecanismos de acercamiento y espacios de participación y control social, para un eficiente servicio del transporte.  
+
+**Artículo 100. (EDUCACIÓN).**  
+
+I. Educación Vial Es de prioridad la inclusión de temas de educación vial en la currícula de educación formal y alternativa en todos sus niveles y modalidades, como competencia del nivel central del Estado.
+
+II. Adicionalmente, al momento de iniciar el viaje, los operadores de transporte y administradores de infraestructura, están en la obligación de explicar y transmitir a los pasajeros, aspectos de seguridad, los derechos y obligaciones de operadores y pasajeros de acuerdo a la modalidad de transporte.
+
+## Artículo 101. (USO DE MEDIOS MASIVOS DE COMUNICACIÓN)
+Los medios masivos de comunicación audiovisual o impresa, locales y nacionales deberán asignar espacios gratuitos para la difusión de mensajes, spots, cuñas radiales u otros, sobre aspectos de educación vial y prestación de servicios de transporte público, a solicitud del nivel central del Estado, gobiernos autónomos departamentales y municipales de acuerdo a normativa específica.
+
+# CAPÍTULO SEGUNDO
+## MEDIO AMBIENTE
+
+### Artículo 102. (PROTECCIÓN AMBIENTAL)
+I. Todos los planes, programas, proyectos o actividades en el Sistema de Transporte Integral - STI, en todas sus categorías, existentes y nuevas, sean públicas o privadas, deberán enmarcarse en los derechos de la Madre Tierra y cumplir con lo establecido en el reglamento de prevención y control ambiental de la Ley del Medio Ambiente y la normativa ambiental sectorial a ser elaborada. Durante la fase de planificación se evaluarán diferentes alternativas para reducir o mitigar al máximo los impactos ambientales que pudiesen ocasionarse, en el marco de promover un transporte sostenible.
+
+II. El gobierno central, los gobiernos autónomos departamentales y municipales, serán responsables en sus respectivos ámbitos de competencia, de promover el uso de medios de transporte ambientalmente sostenible, en cumplimiento de la normativa ambiental vigente, priorizando las unidades de transporte menos contaminantes.
+
+III. Las autoridades competentes, en el ámbito de su jurisdicción, promoverán la incorporación de mecanismos que minimicen el impacto de la emisión de contaminantes (gases, líquidos, ruido y otros).
+
+### Artículo 103. (NORMATIVA ESPECÍFICA)
+El gobierno central, los gobiernos autónomos departamentales y municipales, deberán elaborar en el marco de sus competencias su respectiva normativa ambiental para el sector, en cumplimiento de la normativa ambiental y basados en los siguientes principios:
+
+a) Fomentar el uso del transporte más aceptable para el medio ambiente.
+
+b) Plena internalización de los costos ambientales y de impacto en la salud en los diseños de los proyectos.
+
+c) Dar prioridad a la inversión en infraestructuras de modalidades de transporte con menor impacto ambiental.
+
+d) Priorizar los proyectos de transporte público masivo y desincentivar el uso del vehículo particular, fundamentalmente los de gran cilindrada.
+
+e) Fomento al transporte no motorizado.
+
+### Artículo 104. (TRANSPORTE DE CARGAS PELIGROSAS)
+El transporte de cargas peligrosas en cualquiera de las modalidades de transporte, será reglamentada por normativa específica promulgada por el nivel central, conforme a la Constitución Política del Estado, Convenios, Tratados o decisiones internacionales ratificados por el Estado Plurinacional de Bolivia, velando por la seguridad, salud de los habitantes y protección del medio ambiente.
+
+# CAPÍTULO TERCERO
+## SEGUROS
+
+### Artículo 105. (SEGUROS)
+Toda unidad de transporte público y privado, en cualquiera de las modalidades establecidas en la presente Ley, deberá contar con los seguros requeridos para su circulación u operación, conforme a las disposiciones legales vigentes.
+
+### Artículo 106. (SEGUROS A DEPENDIENTES)
+El operador y administradores de infraestructura están obligados a contratar un seguro para el personal bajo su dependencia que ejerce funciones operativas habituales u ocasionales, contra todo accidente susceptible de producirse en cumplimiento de sus funciones o servicios, de acuerdo a cada modalidad de transporte y normativa específica.
+
+### Artículo 107. (OBLIGATORIEDAD DE CONTAR CON SEGURO)
+El operador y administradores de infraestructura están obligados a contratar un seguro para cubrir las responsabilidades establecidas en esta Ley y las disposiciones pertinentes por daños a usuarias o usuarios, terceras personas, carga, uso de contenedores y uso de otras unidades de carga, de acuerdo a cada modalidad de transporte y normativa específica.
+
+### Artículo 108. (OBLIGATORIEDAD DE ATENCIÓN MÉDICA)
+En la modalidad de transporte terrestre, en caso de accidentes de tránsito, la sola presentación del Certificado o número de la roseta del Seguro Obligatorio de Accidentes de Tránsito - SOAT, ante el nosocomio público o privado más cercano, que cuente con la infraestructura adecuada y necesaria, constituye garantía de pago y obliga a estos centros a prestar la atención inmediata, cuyos costos serán cubiertos por la aseguradora hasta el monto máximo de cobertura.
+
+### Artículo 109. (LEGISLACIÓN APLICABLE A LOS SEGUROS)
+Los seguros a los que están obligados el operador y los administradores de infraestructura para cubrir los daños previstos en la presente Ley, deberán ser contratados de acuerdo a la legislación nacional vigente en la materia. Las pólizas o documentos que acrediten la existencia del seguro, deberán presentarse ante las autoridades competentes en originales, en idioma castellano y/o idiomas diferentes según convenios internacionales.
+
+### Artículo 110. (PROHIBICIÓN)
+I. No se autorizará la circulación en el territorio, agua o espacio aéreo boliviano, de ningún medio de transporte extranjero que no acredite tener asegurados los daños que puedan producir a las usuarias y los usuarios, carga o a terceros.
+
+II. En los casos en que la responsabilidad del transportista se rija por acuerdos o convenios internacionales, el seguro deberá cubrir los límites de responsabilidad en ellos previsto.
+
+### Artículo 111. (NULIDAD)
+Toda cláusula de seguro de vida o incapacidad por accidente que excluya el riesgo o reparación de daños resultantes de los servicios de transporte público será nula de pleno derecho.
+
+### Artículo 112. (OBLIGACIÓN DEL PAGO DE SEGURO)
+En los seguros obligatorios establecidos por esta Ley, el asegurador responderá frente a los damnificados.
+
+### Artículo 113. (REGISTRO DE LOS SEGUROS)
+La existencia de los seguros y las fechas de vencimiento de las pólizas respectivas se harán constar en un registro específico de cada modalidad de transporte.
+
+# TÍTULO V
+## DERECHOS Y OBLIGACIONES DE LAS USUARIAS Y USUARIOS
+
+# CAPÍTULO PRIMERO
+## DERECHOS Y OBLIGACIONES DE LOS USUARIAS Y USUARIOS
+
+### Artículo 114. (DERECHOS DE LAS USUARIAS Y LOS USUARIOS)
+Las usuarias y los usuarios de los servicios de transporte y de los servicios complementarios o auxiliares al servicio de transporte público en cuanto corresponda gozarán de los siguientes derechos:
+
+a) Acceder en condiciones no discriminatorias, a la prestación de los servicios de transporte público de pasajeros y carga. La usuaria o el usuario tiene derecho al respeto hacia su dignidad humana, sin que sea discriminada o discriminado por razones de tipo social, racial, económico, de género, generacional, discapacidad, moral e ideológico.
+
+b) A recibir un trato respetuoso y digno por parte de los operadores del servicio.
+
+c) Exigir el cumplimiento de las normas de seguridad relativas al servicio de transporte prestado.
+
+d) Ser transportada o transportado desde el lugar de origen hasta el lugar de destino de acuerdo a la ruta establecida.
+
+e) Recibir por parte de los operadores un servicio eficiente y confiable, en condiciones de comodidad, limpieza, higiene, seguridad y respeto, que resguarden la vida de las usuarias y los usuarios.
+
+f) A que el operador en la modalidad de transporte que corresponda le proporcione de forma inexcusable información confiable, completa, continua y comprensible, sea verbal o escrita, en relación a las condiciones de la prestación del servicio antes y durante la ejecución del mismo.
+
+g) Reclamar ante los operadores por modificaciones de itinerario, horarios, fechas y en general sobre las deficiencias en la prestación de los servicios, con arreglo a los procedimientos que al efecto estipule la autoridad competente.
+
+h) A reclamar ante la autoridad competente cualquier deficiencia e irregularidad en la prestación del servicio.
+
+i) Ante la cancelación o la negación de transporte, a ser embarcado prioritariamente en el siguiente servicio de transporte que cuente con espacio disponible o un transporte alternativo; al reembolso de la tarifa cancelada en la parte proporcional del viaje no efectuado o la totalidad (sin descuentos) de lo pagado por éste, si el servicio ya no tiene razón de ser.
+
+j) En caso de cancelación por causas atribuibles al operador, la usuaria y el usuario tiene derecho a recibir compensaciones a ser definidas por la autoridad competente.
+
+k) En caso de demora en la entrega del equipaje y si el pasajero no tiene domicilio fijo en el punto de llegada, el operador deberá proporcionarle el monto establecido por la autoridad competente que le permita adquirir los elementos básicos hasta el arribo de su equipaje.
+
+l) A exigir la extensión de un boleto de transporte y a conocer las condiciones de la prestación del servicio de transporte y de documentos de viaje en caso de requerirse. A que se le cobre una tarifa acorde con la calidad del servicio recibido y que la misma sea aprobada por la autoridad competente.
+
+m) A recibir los descuentos en la tarifa aprobada mediante normativa específica.
+
+n) A exigir la extensión de un ticket o constancia del equipaje transportado.
+
+o) A proceder al desistimiento del servicio siempre y cuando dicho desistimiento se realice con un tiempo de antelación que será definido por la autoridad competente.
+
+p) A exigir por parte del operador el cumplimiento de las disposiciones normativas regulatorias emitidas por la autoridad competente, correspondientes al servicio de transporte prestado.
+
+### Artículo 115. (OBLIGACIONES DE LA USUARIA Y EL USUARIO)
+Son obligaciones de la usuaria y el usuario de los servicios de transporte y de los servicios complementarios o auxiliares al servicio de transporte, en cuanto corresponda las siguientes:
+
+a) Facilitar toda la información necesaria y veraz sobre sus datos para la emisión del pasaje, destino, fecha, hora del viaje, número, tarifa y otros, así como de sus datos de contacto.
+
+b) Presentar sus documentos de viaje e identificación personal.
+
+c) Leer el contenido del pasaje y verificar que los datos insertos en el mismo sean los correctos.
+
+d) Declarar los objetos y/o documentos de valor en caso que sean transportados en el equipaje registrado y en los casos que corresponda contratar un seguro adicional por su cuenta.
+
+e) Cuidar su equipaje de mano, el operador no asume responsabilidad en caso de robo o sustracción.
+
+f) Mantener el respeto a la dignidad personal y profesional de las trabajadoras y los trabajadores que prestan los servicios.
+
+g) Cuidar los medios utilizados para su traslado, con el fin de garantizar su conservación y funcionamiento. Debe colaborar en mantener limpias las unidades de transporte y evitar el desecho de basura al exterior de los vehículos en el trayecto del viaje.
+
+h) Llegar a tiempo para cumplir con toda normativa relacionada al trabajo de entidades facilitadoras del transporte y sus controles correspondientes.
+
+i) Presentarse en mostradores del transportista para realizar su chequeo con la debida antelación al inicio de su viaje, de acuerdo a normativa del operador.
+
+j) Otros que se deriven de la aplicación de la Constitución Política del Estado y la presente Ley.
+
+### Artículo 116. (PROHIBICIONES)
+Las usuarias y los usuarios bajo ningún concepto podrán:
+
+a) Realizar actos que puedan atentar contra la seguridad del servicio de transporte, su propia seguridad o de las demás personas, así como de cualquier conducta que atente contra el buen orden, la moral o la disciplina; o que impliquen, supongan el deterioro del material de las unidades de transporte o molestias a los demás pasajeros.
+
+b) Viajar en lugares distintos a los habilitados para dicho fin.
+
+c) Subir a la unidad de transporte o bajar de la misma, estando ésta en movimiento o fuera de las paradas establecidas.
+
+d) Fumar o exceder el consumo de bebidas alcohólicas en la unidad de transporte.
+
+e) Portar material nocivo, componentes químicos u otros que representen riesgos para la salud de las usuarias y los usuarios.
+
+f) Otras a ser determinadas de acuerdo a normativa específica.
+
+### Artículo 117. (ROL PROTECTOR DEL ESTADO)
+El Estado a través de la autoridad competente protegerá y defenderá los derechos de las usuarias y los usuarios del Sistema de Transporte Integral - STI, al efecto desarrollará y aplicará mecanismos y procedimientos que garanticen que los derechos y obligaciones de usuarias o usuarios y operadores sean cumplidos.
+
+# CAPÍTULO SEGUNDO
+## DERECHOS DE PASAJEROS CON DISCAPACIDAD O NECESIDADES ESPECIALES
+
+### Artículo 118. (ATENCIÓN A PERSONAS CON DISCAPACIDAD O NECESIDADES ESPECIALES)
+I. Los pasajeros con discapacidad o con necesidades especiales (personas adultas mayores, niñas, niños, enfermas, enfermos y mujeres embarazadas si corresponde), y sus acompañantes deberán recibir un trato preferencial.
+
+II. El operador y administradores de infraestructura deberán brindar a estos pasajeros la asistencia necesaria y facilitar su acceso al medio de transporte, destinando asientos que estén próximos a los accesos, debidamente señalizados, asignando además el espacio necesario para la comodidad del pasajero y la ubicación de bastones, muletas u otro equipo especial.
+
+### Artículo 119. (ATENCIÓN PREFERENCIAL)
+I. Las personas con discapacidad o necesidades especiales, gozarán de atención preferente. Al efecto, los operadores de servicio para cada modalidad de transporte deberán priorizar la atención a dichos pasajeros y acompañantes para evitar que realicen cualquier tiempo de espera innecesario en la atención y prestación del servicio.
+
+II. Asimismo, tendrán derecho a embarcar al medio de transporte en forma previa a cualquier otro pasajero.
+
+III. Por seguridad del pasajero con discapacidad o necesidades especiales, el personal encargado en destino, determinará la conveniencia de desembarcarlo primero o al final del resto de los pasajeros.
+
+### Artículo 120. (CUIDADOS PARA PASAJEROS ENFERMOS)
+I. Para el transporte de pasajeros enfermos, el operador deberá exigir un certificado médico, en el que consten las condiciones de salud y capacidad para el viaje.
+
+II. Dependiendo de las condiciones del pasajero, se podrá exigir, por cuenta de éste, que un médico o cualquier otra persona idónea para el caso, lo asista durante el viaje, a menos que el médico certifique que no es necesario.
+
+III. El operador, dentro de sus posibilidades, prestará auxilio y los cuidados que estén a su alcance en relación a pasajeros que súbitamente sufran lesiones o presenten alguna enfermedad durante el viaje.
+
+### Artículo 121. (EQUIPO ESPECIAL)
+Las sillas de ruedas, camilla u otros equipos que requieran las personas con discapacidad o enfermas, serán transportadas gratuitamente y con carácter prioritario como equipaje o carga.
+
+### Artículo 122. (NEGACIÓN DE TRANSPORTE A PERSONAS CON DISCAPACIDAD O NECESIDADES ESPECIALES)
+El operador no podrá negar el transporte a pasajeros con discapacidad o necesidades especiales, a menos que a solicitud del operador por incertidumbre razonable que sea evidente, solicite que el médico autorizado verifique que, bajo las condiciones normales del viaje, el estado de salud del pasajero pueda agravarse y que sus condiciones impliquen riesgos o perjuicios para los demás. En caso de que no exista un médico autorizado se deberá considerar este hecho en la norma específica.
+
+### Artículo 123. (INFRAESTRUCTURA ACORDE A PERSONAS CON DISCAPACIDAD O NECESIDADES ESPECIALES)
+Los administradores de infraestructura y que prestan servicios logísticos complementarios al transporte, deberán proveer todas las facilidades necesarias para el acceso, desplazamiento y uso de servicios por personas con discapacidad o necesidades especiales.
+
+# CAPÍTULO TERCERO
+## RESPONSABILIDADES, DERECHOS Y OBLIGACIONES DE LOS OPERADORES
+
+### Artículo 124. (RESPONSABILIDAD POR DAÑOS A PASAJEROS)
+El operador de servicios de transporte es responsable por los daños causados por muerte, incapacidad total o parcial permanente y lesiones físicas a un pasajero, cuando el accidente que ocasionó el daño se haya producido a bordo de una unidad de transporte o durante las operaciones de embarque o desembarque dentro el marco de un debido proceso y de acuerdo a la modalidad de transporte.
+
+### Artículo 125. (RESPONSABILIDAD POR DAÑOS AL EQUIPAJE Y CARGA)
+El operador es responsable por los daños y perjuicios sobrevenidos en caso de destrucción, pérdida o avería de equipajes registrados y carga, cuando el hecho causante del daño se haya producido durante el transporte o desde que se encuentren al cuidado del transportador sujeto a normativa específica por modalidad de transporte.
+
+### Artículo 126. (RESPONSABILIDAD POR RETRASOS)
+El operador es responsable de los daños resultantes del retraso en el transporte de pasajeros, equipaje o carga, salvo si prueba que él y sus dependientes han tomado todas las medidas necesarias para evitar el daño o que le fue imposible tomarlas.
+
+### Artículo 127. (CUANTÍA)
+En el transporte de personas, equipajes y carga, la responsabilidad del operador queda limitada a la cuantía establecida por las disposiciones expresas correspondientes a cada modalidad de transporte.
+
+### Artículo 128. (RESPONSABILIDAD POR DAÑOS A TERCEROS)
+Los daños causados por un medio de transporte a terceros, darán derecho a reparación en los límites fijados por disposiciones aplicables a cada modalidad de transporte.
+
+### Artículo 129. (RESPONSABILIDADES DEL ADMINISTRADOR DE INFRAESTRUCTURA)
+Todo administrador de infraestructura utilizada por cualquier modalidad de transporte, será responsable frente a los operadores y usuarias o usuarios en los siguientes casos:
+
+a) Por los daños que sufrieran las unidades de transporte por causa de incumplimiento o de ejecución parcial o defectuosa de las obligaciones asumidas en los casos de depósito, guarda o estacionamiento de dichos medios.
+
+b) Por los daños que sufrieran las unidades de transporte por causas de defectos o mal estado de las áreas de circulación o instalaciones.
+
+c) Por daños que sufrieran las unidades de transporte por causa de incumplimiento o de ejecución parcial defectuosa o tardía de sus tareas.
+
+d) Por daños a pasajeros, es responsable por los daños causados por muerte, incapacidad total o parcial permanente y lesiones físicas a una usuaria o un usuario al interior de la infraestructura.
+
+### Artículo 130. (ATENUANTES O EXIMENTES)
+La responsabilidad del operador y del administrador de infraestructura podrá ser atenuada o eximida, si prueba que la persona que ha sufrido el daño, lo causó o contribuyó a causarlo.
+
+### Artículo 131. (CAUSALES DE LIBERACIÓN DE RESPONSABILIDAD DE LOS OPERADORES)
+Se consideran las siguientes causales de liberación de responsabilidad:
+
+a) Ante la demora y/o cancelación por causas de fuerza mayor, tales como problemas meteorológicos, conmociones sociales, actos de terrorismo o sabotaje, accidentes en infraestructuras que interfieran las operaciones, restricciones, contingencias técnicas no atribuibles al mantenimiento preventivo deficiente o cualquier otro hecho que perjudique la normalidad de las operaciones que no pueda ser controlado directamente por los operadores.
+
+b) En caso de pérdida de contenido del equipaje registrado, artículos frágiles, perecederos, de valor (dinero, joyas, piedras o metales preciosos), documentos de identificación, negociables, títulos u otros valores y aparatos electrónicos (cámaras fotográficas o de video, computadoras, teléfonos móviles y otros), salvo que el pasajero haya declarado los mismos.
+
+c) Por daño o extravío del equipaje de mano pues el cuidado del mismo es de responsabilidad del pasajero.
+
+### Artículo 132. (DERECHOS DEL OPERADOR DEL SERVICIO)
+El operador de servicios de transporte y de los servicios complementarios o auxiliares al servicio de transporte, en cuanto corresponda gozarán de los siguientes derechos:
+
+a) Recibir el pago oportuno conforme a la tarifa y flete establecidos por el servicio prestado.
+
+b) Recibir por parte de la usuaria y el usuario un trato cordial y respetuoso.
+
+c) Recibir oportunamente el pago de la tarifa y el flete conforme a lo convenido y/o contratado.
+
+d) Recibir resarcimiento por daños ocasionados por parte de las usuarias o los usuarios infractores, mismos que deberán ser debidamente demostrados.
+
+e) Trato respetuoso y cordial de las autoridades competentes.
+
+f) Gozar de un debido proceso, que sea rápido y oportuno.
+
+g) Otros que se deriven de la aplicación de la Constitución Política del Estado y la presente Ley.
+
+### Artículo 133. (OBLIGACIONES DEL OPERADOR DEL SERVICIO)
+El operador del servicio de transporte, de los servicios complementarios o auxiliares al servicio de transporte, en cuanto corresponda, tendrá las siguientes obligaciones:
+
+a) Transportar a las personas en condiciones de seguridad al lugar convenido, dentro del término y por el medio previsto en el contrato, así como el equipaje en el estado en que lo recibió.
+
+b) Cumplir la hora de salida señalada en el pasaje, excepto por causas no atribuibles al operador (caso fortuito y/o fuerza mayor).
+
+c) Velar que las unidades de transporte se encuentren en óptimas condiciones para la prestación del servicio.
+
+d) Aplicar correctamente las tarifas aprobadas por la autoridad competente.
+
+e) Brindar los descuentos a la tarifa aprobada por la autoridad competente que por normativa corresponda.
+
+f) Brindar a los pasajeros la información necesaria y confiable en relación a las condiciones de la prestación del servicio antes y durante la ejecución del mismo.
+
+g) Atender en forma ágil y oportuna los reclamos presentados por las usuarias y los usuarios por deficiencias o irregularidades a tiempo de la prestación del servicio.
+
+h) Brindar a la usuaria o el usuario del servicio un trato respetuoso y digno.
+
+i) Cumplir con las normas de seguridad y medio ambiente relativas al servicio prestado.
+
+j) Cumplir con la normativa aplicable a cada modalidad de transporte.
+
+k) A difundir por los medios con los que se cuenten, los derechos y obligaciones de los pasajeros.
+
+l) Contar con adecuada señalización en todas las reparticiones, de las diferentes terminales de arribo y salida de pasajeros, empleando hasta tres idiomas, siendo el castellano y la lengua propia del lugar obligatorias, la tercera lengua estará sujeta a reglamento específico.
+
+m) Prestar el servicio de manera continua, en la prestación del servicio.
+
+# TÍTULO VI
+## MODALIDADES DEL TRANSPORTE
+
+# CAPÍTULO PRIMERO
+## TRANSPORTE AÉREO
+
+# SECCIÓN I
+## DISPOSICIONES GENERALES
+
+### Artículo 134. (MODALIDAD DE TRANSPORTE AÉREO)
+I. La modalidad de transporte aéreo constituye una serie de actividades destinadas a trasladar en aeronaves a pasajeros y carga de un aeropuerto o aeródromo a otro. Esta modalidad incluye infraestructura, equipamiento y servicios, considerando los siguientes elementos:
+
+a) La seguridad operacional en el sector aeronáutico.
+
+b) La seguridad jurídica y la equidad.
+
+c) El desarrollo y la ampliación de la cobertura de los servicios de transporte aéreo, consolidando la integración regional del país, así como la búsqueda y apertura de nuevos mercados internacionales.
+
+d) El acceso de una mayor población a los servicios de transporte aéreo.
+
+e) La elevación de la calidad de los servicios de transporte aéreo hacia estándares mundiales, mejorando su eficiencia.
+
+f) Una competencia justa y equitativa en cada uno de los servicios que se presten.
+
+g) Relaciones internacionales que beneficien al país, bajo criterios de reciprocidad efectiva y mercados equivalentes.
+
+h) Facilitar las operaciones de embarque y desembarque, mediante el mejoramiento, ampliación y equipamiento de los aeropuertos o aeródromos de uso público.
+
+II. El servicio público de transporte aéreo se prestará bajo las modalidades de servicio público de transporte aéreo regular y no regular.
+
+### Artículo 135. (POLÍTICAS DE TRANSPORTE AÉREO)
+El transporte aéreo se regirá bajo las siguientes políticas:
+
+a) El transporte aéreo se concibe como un sistema integral, seguro, eficiente y económico para las usuarias y los usuarios, que promoverá y facilitará el traslado e interconexión de la población a nivel nacional e internacional.
+
+b) Las empresas de servicio público de transporte aéreo y demás actividades aeronáuticas vinculadas, tendrán una finalidad económico-social y apoyarán activamente la producción nacional, la generación de bienes y servicios orientados a la satisfacción de las necesidades básicas y esenciales de las comunidades y su entorno, la generación y preservación de empleos, así como la transferencia, difusión y uso de los conocimientos y nuevas tecnologías.
+
+c) Las condiciones de acceso al mercado nacional e internacional de los transportistas o explotadores aéreos nacionales y extranjeros debe desarrollarse en un marco de igualdad en cuanto a la provisión de derechos y deberes para con los nacionales, velando para que los derechos no se instrumenten en condiciones que favorezcan a los transportistas o explotadores aéreos extranjeros en detrimento de los nacionales.
+
+d) Se impulsará la modernización de infraestructuras, equipamiento aeronáutico para lo que se contará con planes de inversión y sus evaluaciones que garanticen un adecuado mantenimiento, conservación, renovación, implementación y construcciones, en las que se incluyan medidas específicas para actualización tecnológica a fin de mejorar la seguridad operacional y protección del medio ambiente.
+
+e) Corresponderá a los administradores aeroportuarios, conforme a las disposiciones aplicables, asegurar que las terminales aeroportuarias cuenten con infraestructura, instalaciones, equipo, señalización, servicios y sistemas de organización adecuados y suficientes para que la operación se lleve a cabo sobre bases de seguridad, eficiencia y calidad. Además deben permitir otorgar una adecuada atención a las personas con capacidades diferentes, enfermas, adultos mayores, embarazadas, menores e infantes.
+
+II. En caso de accidente y cuando éste se produzca por inobservancia de los puntos citados precedentemente y en medio de la calzada, la responsabilidad del peatón será determinada en función a parámetros objetivos de carácter técnico, legal y constitucional.
+
+III. Los gobiernos autónomos municipales deben establecer una red de aceras y pasos peatonales que brinden seguridad vial a los peatones frente a los automotores, las mismas deberán estar debidamente equipadas, señalizadas y libres de obstáculos, garantizando la libre movilidad de los peatones.
+
+## Artículo 191. (PROTECCIÓN DEL MEDIO AMBIENTE EN ACTIVIDADES TERRESTRES).
+
+**I.** La autoridad competente del nivel central, promoverá la implementación del Sistema Nacional de Revisión Técnica Vehicular, a fin de precautelar la calidad del aire en el territorio nacional.
+
+**II.** A partir de la emisión de la presente Ley, solamente se permite la importación de vehículos automotores que cumplan con la Norma de Emisiones Atmosféricas EURO II o equivalentes y en un plazo de cinco (5) años se deberá llegar a la Norma EURO IV o equivalentes.
+
+**III.** Quinquenalmente la autoridad competente evaluará estas exigencias de acuerdo a la tecnología anticontaminante desarrollada por los fabricantes y la calidad de los combustibles que permita su aplicación.
+
+## SECCIÓN II  
+### INFRAESTRUCTURA VIAL  
+
+#### Artículo 192. (CLASIFICACIÓN DE CARRETERAS). Las carreteras se clasifican en:  
+a. **Carreteras de la Red Vial Fundamental.**  
+b. **Carreteras de la Red Departamental.**  
+c. **Carreteras de la Red Municipal.**  
+d. **Carreteras de la Red Vecinal y Comunales.**  
+
+#### Artículo 193. (CARRETERAS DE LA RED VIAL FUNDAMENTAL).  
+Queda bajo competencia del nivel central la Red Vial Fundamental que comprende carreteras que:  
+a. Vinculen entre sí las capitales de los departamentos.  
+b. Sean parte de la conexión con carreteras internacionales que vinculan al país con los países limítrofes.  
+c. Conecten entre sí dos o más carreteras de la Red Vial Fundamental.  
+
+#### Artículo 194. (CARRETERAS DE LA RED DEPARTAMENTAL).  
+Quedan bajo competencia de los gobiernos autónomos departamentales aquellas carreteras y/o caminos que:  
+a. Integren las distintas regiones de un departamento.  
+b. Se conecten directamente con la Red Vial Fundamental.  
+c. Permitan la conexión corta a través de caminos municipales.  
+d. Vinculen las capitales de provincia con la capital de departamento.  
+e. Conecten con sistemas de transporte multimodal.  
+f. Den acceso a polos de desarrollo departamentales.  
+
+#### Artículo 195. (CARRETERAS DE LA RED MUNICIPAL).  
+Quedan bajo competencia de los gobiernos autónomos municipales aquellas carreteras y/o caminos que:  
+a. No son parte de la Red Vial Fundamental ni Departamental y que están en la jurisdicción territorial de un municipio.  
+b. Son caminos alimentadores de la Red Departamental o Fundamental.  
+c. Vinculan poblaciones urbanas, rurales, comunidades o centros de producción, dentro de la jurisdicción de un municipio.  
+
+#### Artículo 196. (CARRETERAS DE LA RED VECINAL Y COMUNAL).  
+Quedan bajo competencia de la autonomía indígena originario campesina aquellas carreteras y/o caminos que:  
+a. No son parte de la Red Vial Fundamental ni Departamental y que están en la jurisdicción territorial de la autonomía indígena originario campesina.  
+b. Son caminos alimentadores de la Red Departamental o Fundamental.  
+c. Vinculan poblaciones rurales, comunidades o centros de producción.  
+
+#### Artículo 197. (DERECHO DE VÍA).  
+**I.** Consiste en la propiedad del Estado sobre las carreteras, su infraestructura y elementos funcionales de las mismas a efectos de su uso, defensa y explotación.  
+**II.** Es elemento funcional de una carretera, toda la zona afectada a la conservación de la misma o a la operación del servicio público vial de manera permanente o temporal, tales como las destinadas al descanso, estacionamiento, auxilio y atención médica de urgencia, pesaje, parada de autobuses y otros fines auxiliares o complementarios.  
+**III.** En esta zona, no podrán realizarse obras, ni se permitirán más usos que aquellos que sean compatibles con el uso y la seguridad vial u otros servicios básicos estratégicos, sin que su implementación afecte los niveles de seguridad vial.  
+**IV.** La autoridad competente del nivel central podrá utilizar o autorizar el uso de la zona de afectación, por razones de interés general o cuando se requiera mejorar el servicio en la carretera. A objeto de evitar ocupación ilegal de la zona de afectación de las carreteras, ejercerá control permanente del derecho de vía en las carreteras y en caso de ocupación o utilización ilegal procederá a la desocupación del área afectada de acuerdo al procedimiento aplicable.  
+**V.** El ancho de derecho de vía será definido por la autoridad competente del nivel central del Estado, considerando las necesidades y acuerdos internacionales.  
+
+#### Artículo 198. (ÁREAS DE LAS CARRETERAS).  
+Todas las carreteras, comprenden mínimamente las siguientes áreas:  
+a. **Arcén, calzada o faja de rodadura:** zona longitudinal de la carretera comprendida entre las bermas laterales de la plataforma.  
+b. **Berma:** consiste en la faja longitudinal de terreno en la carretera o autopista, comprendida entre el borde exterior del arcén y la cuneta, o entre el borde del arcén y el inicio de talud, ubicada a cada lado de la vía, de ancho variable según el tipo de carretera. Esta área se utilizará eventualmente para señalización, iluminación, balizamiento, comunicaciones e instalaciones de barrera de seguridad.  
+
+#### Artículo 199. (SEÑALIZACIÓN DE LA INFRAESTRUCTURA VIAL).  
+**I.** La autoridad competente del nivel central, establecerá los estándares de señalización horizontal y vertical, a ser aplicados en las carreteras de la Red Vial Fundamental, Redes Departamentales, Redes Municipales y Redes Vecinales y Comunales.  
+**II.** La señalización de la infraestructura vial será realizada conforme a la clasificación de carreteras de la presente Ley.  
+
+#### Artículo 200. (GESTIÓN DE LA RED VIAL FUNDAMENTAL).  
+La autoridad competente del nivel central encargada de la Red Vial Fundamental tendrá como función la integración nacional, mediante la planificación y la gestión de la Red Vial, las cuales comprenden actividades de planificación, administración, estudios y diseños, construcción, mantenimiento, conservación y operación de la Red Vial Fundamental y sus accesos, en el marco de la presente Ley, de la normativa específica, del Plan Nacional de Desarrollo – PND, del Plan Nacional Sectorial de Transportes – PLANAST y otras normativas, con el fin de contribuir al desarrollo del país con servicios de transporte terrestre eficientes, seguros y económicos.  
+
+## SECCIÓN III  
+### ADMINISTRACIÓN DE PEAJE, PESOS Y DIMENSIONES  
+
+#### Artículo 201. (ADMINISTRACIÓN DE PEAJE).  
+**I.** La administración de peaje en la Red Vial Fundamental estará a cargo de la autoridad competente del nivel central.  
+**II.** La autoridad competente, promoverá el establecimiento de un sistema automático de cobro de peajes, en base a detectores electrónicos.  
+
+#### Artículo 202. (TARIFAS DE PEAJE Y EXENCIONES).  
+Las tarifas de peaje serán propuestas, actualizadas y aprobadas por la autoridad competente del nivel central, toda usuaria o usuario de la Red Vial Fundamental está obligada u obligado al pago de la tarifa de peaje de acuerdo a tarifarios y puntos de cobro aprobados. Las tarifas y las exenciones al pago serán determinadas en normativa específica.  
+
+#### Artículo 203. (DESTINO DE LA RECAUDACIÓN DEL PEAJE).  
+**I.** Un porcentaje de los recursos generados del cobro de peaje será destinado para el funcionamiento y gastos de operación de la autoridad competente del nivel central administradora de peaje. Un segundo porcentaje será destinado a la cuenta nacional de carreteras.  
+**II.** La autoridad competente del nivel central deberá tomar las medidas que correspondan, a fin de asegurar la previsión y provisión de recursos para la conservación del patrimonio vial.  
+
+#### Artículo 204. (ESTACIONES DE COBRO DE PEAJE).  
+**I.** La estación de cobro de peaje es el lugar apropiado en ubicación y tamaño, que permite el desarrollo de las actividades operativas de la autoridad competente del nivel central.  
+**II.** El funcionamiento de las estaciones de peaje se desarrollará en la Red Vial Fundamental. La creación, eliminación, y reubicación de las estaciones de cobro de peaje serán propuestas y aprobadas por la autoridad competente del nivel central.  
+**III.** La infraestructura, tecnología y equipamiento de las estaciones de peaje deberá facilitar el desarrollo de las actividades de cobro de peaje y otros servicios definidos en normativa específica vigente.  
+
+#### Artículo 205. (ADMINISTRACIÓN DE COBRO DE PEAJES, PESAJES Y CONTROL DE PESOS Y DIMENSIONES).  
+**I.** La autoridad competente del nivel central encargada de administrar directamente el cobro de peajes, pesajes y control de pesos y dimensiones de la Red Vial Fundamental, tendrá atribuciones y competencias establecidas en la normativa específica.  
+**II.** La categorización vehicular, así como el establecimiento de pesos y dimensiones máximos de circulación, serán definidos, actualizados y aprobados por la autoridad competente del nivel central mediante normativa específica.  
+
+#### Artículo 206. (OBLIGATORIEDAD DEL CONTROL Y PERMISOS ESPECIALES).  
+**I.** Todo operador de transporte de carga y pasajeros está obligado a detenerse y sometarse al control de pesos y dimensiones en todas las estaciones y puestos de control en la Red Vial Fundamental.  
+**II.** El funcionario de las estaciones, puestos de control de pesos y dimensiones y puestos de cobro de peaje en la Red Vial Fundamental, tiene la obligación de verificar la boleta de control de peso y permisos especiales.  
+**III.** El control en vía pública del cumplimiento de pesos y dimensiones es responsabilidad de la Policía Boliviana.  
+**IV.** La emisión de permisos especiales para operadores que transporten carga que exceda los pesos y dimensiones permitidos, estará a cargo de la autoridad competente del nivel central. Los requisitos para la emisión de permisos especiales se determinarán mediante normativa específica.  
+
+#### Artículo 207. (MEDIDAS DE PRESERVACIÓN VIAL).  
+**I.** La unidad de transporte que no cuente con boleta de control de peso correspondiente en su ruta o permiso especial, no podrá circular en la Red Vial Fundamental y será pasible a sanciones de acuerdo a normativa específica.  
+**II.** Vehículos con exceso de carga, no podrán circular salvo que realicen el trámite de un permiso especial o readecúen el peso de la carga al límite máximo establecido, de acuerdo a normativa específica.  
+**III.** La autoridad competente del nivel central deberá tomar las medidas preventivas que correspondan, a fin de conservar el patrimonio vial.  
+
+#### Artículo 208. (ESTACIONES DE CONTROL DE PESOS Y DIMENSIONES).  
+**I.** Las estaciones de control de pesos y dimensiones son el lugar apropiado en ubicación y tamaño, que permite el desarrollo de las actividades operativas de la autoridad competente del nivel central.  
+**II.** El funcionamiento de las estaciones de control de pesos y dimensiones se desarrollará en la Red Vial Fundamental. La creación, ubicación y reubicación de las estaciones de control de pesos y dimensiones, fijos y móviles, serán propuestas y aprobadas por la autoridad competente del nivel central.  
+**III.** La infraestructura, tecnología y equipamiento de las estaciones deberán facilitar el desarrollo de las actividades de pesaje y dimensiones y otros servicios definidos en normativa específica vigente.  
+
+## SECCIÓN IV  
+### TERMINALES TERRESTRES DE PASAJEROS Y CARGA  
+
+#### Artículo 209. (TERMINAL TERRESTRE DE PASAJEROS Y CARGA).  
+La terminal terrestre de pasajeros y carga es el lugar apropiado en ubicación y tamaño, que permite albergar instalaciones destinadas a la atención de vehículos automotores, pasajeros y carga.  
+
+#### Artículo 210. (CLASIFICACIÓN DE SERVICIO PÚBLICO DE TERMINAL TERRESTRE).  
+Según el ámbito territorial, el servicio público de terminal terrestre se clasifica en:  
+a. **Servicio público de terminal terrestre de pasajeros y carga internacional e interdepartamental.**  
+b. **Servicio público de terminal terrestre de pasajeros y carga interprovincial.**  
+c. **Servicio público de terminal terrestre de pasajeros y carga intermunicipal y urbana.**  
+
+#### Artículo 211. (AUTORIZACIÓN DE FUNCIONAMIENTO).  
+La autorización de funcionamiento de las terminales terrestres de pasajeros y carga estará bajo regulación y fiscalización de la autoridad competente en el área de su jurisdicción.  
+
+#### Artículo 212. (REGULACIÓN Y FISCALIZACIÓN).  
+El servicio público de terminal terrestre de pasajeros y carga es objeto de regulación y fiscalización. En las categorías de transporte interdepartamental e internacional, la regulación y fiscalización estará bajo la tuición de la autoridad competente del nivel central; en la categoría de servicio público de terminal terrestre interprovincial e intermunicipal, la regulación y fiscalización estará bajo tuición de la autoridad competente del nivel departamental.  
+
+#### Artículo 213. (INVERSIÓN Y NORMAS TÉCNICAS).  
+El operador de terminal terrestre de pasajeros y carga está obligado a elaborar y cumplir un Plan Maestro, que delimite las condiciones técnicas de calidad, seguridad, circulación interna y otras que sean aplicables según las disposiciones vigentes, en forma permanente y bajo su responsabilidad. Corresponde a la autoridad competente del nivel central, elaborar los estándares técnicos y de calidad, para satisfacer las necesidades básicas de comodidad, salud, higiene, seguridad, funcionalidad y otras, en apoyo a los pasajeros y operadores, así como acceso preferencial a las personas con capacidades diferentes.  
+
+#### Artículo 214. (UBICACIÓN).  
+Para determinar la ubicación de la terminal terrestre de pasajeros y carga, se debe considerar el plan de ordenamiento territorial correspondiente a cada municipio y la articulación de éste con las vías de comunicación de la zona, mediante un estudio de impacto urbanístico y ambiental, conforme al régimen de estándares técnicos establecidos por la autoridad competente.  
+
+#### Artículo 215. (USO DE LOS AMBIENTES).  
+**I.** El uso de las casetas de las terminales terrestres deberá ser de uso prioritario para los operadores que cumplan con los requisitos para la prestación del servicio y cuenten con el parque automotor exigido y deberán proporcionar una adecuada accesibilidad a las usuarias y los usuarios.  
+**II.** La autoridad competente estará encargada de la fiscalización y control para el estricto cumplimiento de lo señalado.  
+
+## SECCIÓN V  
+### VEHÍCULOS DE TRANSPORTE TERRESTRE  
+
+#### Artículo 216. (UNIDADES DE TRANSPORTE PÚBLICO MOTORIZADO).  
+**I.** La autoridad competente, establecerá los estándares de calidad, seguridad, de operación, incentivando la incorporación de vehículos seguros, modernos y de capacidad acorde al servicio requerido.  
+**II.** El Estado, en todos sus niveles de gobierno, apoyará y coadyuvará las iniciativas de los operadores y otros, para el financiamiento que permita mejorar y renovar el parque automotor del servicio de transporte público terrestre.  
+**III.** El nivel central del Estado es responsable de promover el uso de medios de transporte motorizado con la mejor tecnología anticontaminación disponible. La autoridad competente a nivel central reglamentará la tecnología vehicular de acuerdo a las normas internacionales EURO y TIER, para la importación y fabricación de vehículos que ingresen al parque automotor circulante y presten servicios.  
+**IV.** Se evitará la importación y la incorporación en el transporte público de vehículos motorizados transformados o modificados en su diseño original de fábrica; además la puerta principal del vehículo debe encontrarse a la derecha, en cumplimiento de las normas de tránsito vigentes en el país.  
+**V.** Se prohíbe la instalación del cilindro de Gas Natural Vehicular – GNV dentro del vehículo (habitáculo).  
+**VI.** Los vehículos destinados al transporte público de pasajeros o carga, deberán cumplir con los parámetros técnicos establecidos por la autoridad competente. La trasgresión a esta disposición será sancionada conforme a lo establecido en la presente Ley.  
+
+#### Artículo 217. (UNIDADES DE TRANSPORTE PÚBLICO NO MOTORIZADO).  
+A efectos de la presente Ley, se consideran unidades de transporte público no motorizado vehículos de tracción animal, tricielos y cuadricielos, que prestan servicio de transporte de pasajeros o carga. Su autorización, control y circulación serán regulados de acuerdo a normativa específica.  
+
+## SECCIÓN VI  
+### SISTEMA NACIONAL DE REVISIÓN TÉCNICA VEHICULAR  
+
+#### Artículo 218. (SISTEMA NACIONAL DE REVISIÓN TÉCNICA VEHICULAR).  
+El Sistema Nacional de Revisión Técnica Vehicular, será administrado por una entidad de competencia nacional del nivel central del Estado, a ser creada exclusivamente para regular, reglamentar, supervisar y fiscalizar la operación del Sistema en todo el país, velando por su desarrollo y buen uso. Además, será responsable de la administración y distribución de los recursos recaudados y de la planificación de la innovación tecnológica del sistema.  
+
+#### Artículo 219. (PROPÓSITO DEL SISTEMA NACIONAL DE REVISIÓN TÉCNICA VEHICULAR).  
+El Sistema Nacional de Revisión Técnica Vehicular tiene el propósito de realizar la constatación de condiciones técnicas, mecánicas y ambientales de funcionamiento y seguridad para la circulación de todas las unidades de transporte automotor públicos y privados en todo el territorio nacional, con la finalidad de reducir la probabilidad de accidentes por aspectos técnico - mecánicos y disminuir al mínimo la contaminación ambiental.  
+
+#### Artículo 220. (REVISIÓN TÉCNICA VEHICULAR).  
+**I.** La entidad competente del nivel central del Estado, reglamentará mediante normativa específica las condiciones de operación de los centros de revisión técnica vehicular, para realizar la inspección técnica de vehículos bajo estándares uniformes y otorgará la autorización correspondiente con validez en el área geográfica asignada y por un tiempo determinado.  
+**II.** La revisión técnica vehicular tendrá un enfoque integral en aspectos técnico-mecánicos y ambientales de los vehículos, de acuerdo a normativa específica establecida por la entidad competente.  
+**III.** La entidad competente del nivel central del Estado establecerá los periodos de la revisión técnica vehicular.  
+
+#### Artículo 221. (CIRCULACIÓN).  
+Todo vehículo motorizado para transitar por las vías públicas del Estado Plurinacional de Bolivia, deberá portar y tener vigente el certificado de la revisión técnica vehicular otorgado por la autoridad competente.  
+
+#### Artículo 222. (CENTROS DE REVISIÓN TÉCNICA).  
+**I.** Los centros de revisión técnica vehicular, son establecimientos especializados y acreditados, los cuales deberán estar equipados con líneas de inspección para vehículos livianos, pesados y motocicletas, además de equipos computarizados para la inspección, de acuerdo a los estándares establecidos en normativa específica.  
+**II.** La cantidad de centros de revisión y sus respectivas líneas de inspección por ciudad, serán establecidas por la entidad competente del nivel central, las mismas que estarán conectadas en red y tiempo real con el centro informático de control nacional de revisión técnica vehicular.  
+
+#### Artículo 223. (CONTROL EN VÍA).  
+El control en vía pública del cumplimiento de la revisión técnica vehicular estará a cargo de la Policía Boliviana.  
+
+#### Artículo 224. (EVALUACIÓN DEL SISTEMA).  
+La entidad competente del nivel central, establecerá los mecanismos para medir y controlar el impacto de la aplicación del sistema de revisión técnica vehicular, tanto en aspectos de calidad del medio ambiente, como reducción de la siniestralidad.  
+
+## SECCIÓN VII  
+### RÉGIMEN TARIFARIO DEL SERVICIO DE TRANSPORTE AUTOMOTOR TERRESTRE  
+
+#### Artículo 225. (INTEGRALIDAD DE LA REGULACIÓN TARIFARIA).  
+La regulación tarifaria es un elemento de los servicios de transporte público automotor internacional, interdepartamental, interprovincial, intermunicipal y urbano que debe estar ligado a la planificación del servicio, régimen de autorizaciones, fiscalización del servicio y un régimen sancionatorio, para contar con un sistema de transporte integral – STI, tendiente a modernizar la infraestructura, la prestación de servicio, la educación vial y concientización ciudadana.  
+
+#### Artículo 226. (DISEÑO Y PLANIFICACIÓN DEL SERVICIO).  
+La planificación del servicio de transporte automotor internacional, interdepartamental, interprovincial, intermunicipal y urbano de pasajeros, estará enmarcada de manera enunciativa y no limitativa, según los siguientes lineamientos:  
+a. Planificar la infraestructura vial necesaria y adecuada que permita una prestación eficiente del servicio.  
+b. Diseñar planes de reordenamiento vial, acorde a las necesidades de la población.  
+c. Planificar el servicio en función al crecimiento poblacional, ordenamiento territorial, horarios y costumbres de la población.  
+d. Establecer rutas, horarios y frecuencias en función a las necesidades de accesibilidad, continuidad, demanda del servicio y reducción de tiempos de espera.  
+e. Establecer un límite máximo por ruta, en cuanto al número de vehículos que presten el servicio de transporte público automotor internacional, interdepartamental, interprovincial, intermunicipal y urbano, para evitar la congestión vial y lograr una prestación eficiente del servicio.  
+f. Establecer incentivos a los operadores del servicio de transporte público automotor internacional, interdepartamental, interprovincial, intermunicipal y urbano, para que sus vehículos utilicen combustibles limpios, de manera que contribuyan al medio ambiente.  
+g. Otras que sean necesarias.  
+
+#### Artículo 227. (PRINCIPIOS TARIFARIOS).  
+**I.** El régimen tarifario del servicio de transporte automotor internacional, interdepartamental, interprovincial, intermunicipal y urbano de pasajeros y carga, debe basarse en los siguientes principios:  
+a. Deberá estar basado en los costos de operación real, que demande la prestación eficiente del servicio de transporte considerando la situación socioeconómica del país.  
+b. Promoverá la eficiencia en la prestación de los servicios sin incluir aspectos anticompetitivos.  
+c. Atenderá los principios de solidaridad y compensación, de modo que se incluyan tarifas diferenciadas para grupos poblacionales como adultos mayores, beneméritos, universitarios, estudiantes, escolares y discapacitados.  
+**II.** No deberá contemplar subsidios de un determinado servicio de transporte para otro servicio.  
+
+#### Artículo 228. (PARÁMETROS PARA LA REGULACIÓN TARIFARIA).  
+**I.** La autoridad competente realizará un estudio de costos reales y de la eficiencia del servicio que fije una tarifa inicial, la cual servirá de base para determinar el régimen tarifario.  
+**II.** Las actualizaciones periódicas de las tarifas se realizarán en base a la tarifa vigente, la variación de precios de los insumos del servicio, el tipo de cambio y la eficiencia del servicio, conforme a reglamentación.  
+**III.** Conforme a reglamentación a definir por la autoridad competente, se establecerá un periodo regulatorio que incorpore los factores base de regulación tarifaria durante ese periodo.  
+**IV.** Se establecerá un periodo tarifario que será determinado por la autoridad competente, durante el cual el régimen tarifario permanecerá constante, conforme a reglamentación.  
+
+#### Artículo 229. (PARÁMETROS DE CALIDAD Y SEGURIDAD PARA LA FIJACIÓN DE TARIFAS DEL SERVICIO DE TRANSPORTE DE PASAJEROS).  
+El Gobierno del Estado Plurinacional, los gobiernos autónomos departamentales y gobiernos autónomos municipales establecerán, según sus competencias, estándares técnicos de calidad y seguridad como parte de un sistema integral tendiente a modernizar la infraestructura y la prestación del servicio de pasajeros. Los estándares señalados deberán considerar mínimamente los siguientes parámetros:  
+
+**I. Parámetros de Seguridad.**  
+1. **Respecto al Servicio:**  
+   a) Los horarios de trabajo de los conductores deben estar en función a la cantidad de vehículos que circulan en la ruta, la frecuencia óptima de servicio y el tiempo máximo de trabajo de un conductor considerando sus descansos periódicos y relevos.  
+   b) Los vehículos que prestan el Servicio de Transporte Público Automotor de pasajeros deberán cumplir las rutas, horarios y frecuencias establecidas en su autorización respectiva, sin sobrepasar el límite de velocidad, de acuerdo a lo dispuesto en la normativa específica.  
+2. **Respecto a las unidades vehiculares.**  
+   Cumplimiento de estándares y periodicidad establecidos por el Sistema Nacional de Revisión Técnica Vehicular, para las inspecciones técnico mecánicas a los vehículos que prestan el servicio de transporte público automotor internacional, interdepartamental, interprovincial, intermunicipal y urbano.  
+
+**II. Parámetros de Calidad.**  
+1. **Respecto al Servicio:**  
+   Establecer una frecuencia diurna y nocturna que debe ser cumplida por los vehículos que prestan el Servicio de Transporte Público Automotor en conformidad a la autorización emitida, que estará acorde a la demanda de la población.  
+2. **Respecto a las Unidades Vehiculares:**  
+   a) En las rutas asignadas al Servicio de Transporte Público Automotor Internacional, Interdepartamental, Interprovincial, Intermunicipal y Urbano, la autoridad competente, determinará la clase de vehículo que sea más adecuado para la prestación del servicio, tomando en cuenta las características de las zonas y las necesidades de los usuarios.  
+   b) Se establece la utilización exclusiva de vehículos diseñados expresamente para el transporte de pasajeros, de conformidad con las especificaciones que determine la autoridad competente.  
+   c) Las unidades que presten el servicio de transporte público automotor deberán tener las condiciones higiénicas y sanitarias aceptables.  
+
+#### Artículo 230. (APROBACIÓN DEL RÉGIMEN TARIFARIO).  
+**I.** El régimen tarifario para el servicio de transporte público automotor internacional, interdepartamental será aprobado por la autoridad competente del Gobierno del Estado Plurinacional, tomando en cuenta lo establecido en la presente Ley y sus normas específicas.  
+**II.** El régimen tarifario para el servicio de transporte público automotor interprovincial e intermunicipal será aprobado por los gobiernos autónomos departamentales, tomando en cuenta lo establecido en la presente Ley y sus normas específicas.  
+**III.** El régimen tarifario para el servicio de transporte público automotor urbano será aprobado por los gobiernos autónomos municipales, en el ámbito de su jurisdicción territorial, tomando en cuenta lo establecido en la presente Ley y sus normas específicas.  
+**IV.** Una vez aprobado el régimen tarifario, los prestadores del servicio deberán exhibir permanentemente el detalle del mismo, en lugares visibles a las usuarias y los usuarios.  
+
+#### Artículo 231. (FISCALIZACIÓN DEL SERVICIO).  
+I. La fiscalización del servicio de transporte automotor interdepartamental, interprovincial, intermunicipal y urbano, será realizada por la autoridad competente de acuerdo al área de jurisdicción, en coordinación con la Policía Boliviana y la sociedad civil organizada, a través de mecanismos, procedimientos, instrumentos y recursos humanos suficientes, enfocándose principalmente en:  
+a. Fiscalización al cumplimiento del régimen tarifario vigente, así como a los estándares de calidad, comodidad y seguridad, además del cumplimiento de la normativa específica vigente.  
+b. Fiscalización al cumplimiento de rutas, horarios y frecuencias establecidas a los operadores del servicio.  
+c. Fiscalización a los límites permitidos de emisión de gases contaminantes, contaminación acústica y otros, provenientes de la prestación del servicio de transporte.  
+d. Fiscalización a la cantidad del parque automotor autorizado.  
+e. Otros que sean necesarios.  
+
+#### Artículo 232. (RESOLUCIÓN DE CONFLICTOS).  
+Las autoridades competentes, según su jurisdicción, establecerán mecanismos, procedimientos e instrumentos para la resolución de conflictos derivados de la prestación del servicio de transporte público automotor internacional, interdepartamental, interprovincial, intermunicipal y urbano, según corresponda.  
+
+##SECCIÓN VIII**
+
+##RÉGIMEN SANCIONATORIO**
+
+**Artículo 233. (RÉGIMEN SANCIONATORIO).** El gobierno del Estado Plurinacional, los gobiernos autónomos departamentales y los gobiernos autónomos municipales, en el ámbito de sus competencias, deberán sancionar a los operadores que prestan el servicio de transporte público automotor urbano e intermunicipal bajo su jurisdicción y competencia, aplicando los procedimientos establecidos en la normativa específica vigente, por la comisión de las siguientes infracciones:
+
+a) Prestación ilegal del servicio.  
+b) Incumplimiento a los horarios, rutas y frecuencias autorizadas.  
+c) Incumplimiento al régimen tarifario aprobado.  
+d) Acciones u omisiones que pongan en riesgo la seguridad de las usuarias y los usuarios, peatones o terceros.  
+e) Incumplimiento de los estándares técnicos.  
+f) Conducción bajo efectos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica prohibida.  
+g) Circulación con las puertas abiertas, o con usuarias o usuarios en las puertas.  
+h) Abastecimiento de combustible a los vehículos, con pasajeros a bordo.  
+i) Otras infracciones que a juicio de la entidad competente, pongan en riesgo la seguridad de los pasajeros, de otros vehículos o de los transeúntes.
+
+**Artículo 234. (SANCIONES POR CONDUCCIÓN EN ESTADO DE EMBRIAQUEZ O BAJO INFLUENCIA DE ESTUPEFACIENTES).** Las sanciones para el operador, propietario de la unidad de transporte y conductor se establecerán en el marco del debido proceso y de acuerdo a la normativa específica vigente, considerando los siguientes aspectos:
+
+**I.** Conducción en estado de embriaguez o bajo la influencia de estupefacientes que no provoca accidente de tránsito:  
+1. Para el operador de transporte internacional e interdepartamental, en caso de que se compruebe responsabilidad, en el marco del debido proceso:  
+   a) La conducción en estado de embriaguez o bajo la influencia de estupefacientes será sancionada con suspensión de operaciones por un (1) día.  
+   b) En caso de reincidencia se sancionará al operador con una suspensión de operaciones de diez (10) días calendario.  
+   c) A la tercera vez, se sancionará con suspensión de operaciones por treinta (30) días calendario.  
+
+**II.** Para el propietario de la unidad de transporte internacional e interdepartamental, en caso de que se compruebe responsabilidad, en el marco del debido proceso:  
+1. Conducción en estado de embriaguez o bajo la influencia de estupefacientes será sancionada con suspensión de operaciones por treinta (30) días calendario.  
+2. En caso de reincidencia se sancionará al operador con una suspensión de operaciones de un (1) año calendario computable desde la infracción.  
+3. A la tercera vez, suspensión definitiva de operaciones:  
+   a) Para el operador, propietario y la unidad de transporte interprovincial, intermunicipal y urbano, los gobiernos departamentales y municipales, de acuerdo a su competencia y su jurisdicción, determinarán las sanciones en normativa específica.  
+   b) Para el conductor, revocatoria definitiva de su licencia de conducir.  
+
+**III.** Conducción en estado de embriaguez o bajo la influencia de estupefacientes que provoca accidente de tránsito:  
+1. Para el operador de transporte internacional e interdepartamental, en caso de que se compruebe responsabilidad, en el marco del debido proceso:  
+   a) Por primera vez, suspensión de operaciones por treinta (30) días calendario.  
+   b) Por segunda vez, revocatoria de la tarjeta de operación.  
+2. Para el propietario de la unidad de transporte internacional e interdepartamental, en caso de que se compruebe responsabilidad, en el marco del debido proceso:  
+   a) La conducción en estado de embriaguez o bajo la influencia de estupefacientes será sancionada con suspensión de operaciones de la unidad de transporte por un (1) año calendario.  
+   b) En caso de reincidencia se sancionará al operador con una suspensión definitiva de las operaciones del vehículo.  
+3. Para el operador, propietario y la unidad de transporte interprovincial, intermunicipal y urbano, los gobiernos departamentales y municipales, de acuerdo a su competencia y su jurisdicción, determinarán las sanciones en normativa específica.  
+4. Para el conductor, revocatoria definitiva de su licencia de conducir.  
+
+**IV.** Las autoridades competentes dentro de su jurisdicción, deberán hacer cumplir la normativa específica vigente, en lo que se refiere a la prohibición de la conducción en estado de embriaguez.
+
+**SECCIÓN IX**
+
+**SERVICIO PÚBLICO DE TRANSPORTE AUTOMOTOR TERRESTRE**
+
+**Artículo 235. (CLASIFICACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE AUTOMOTOR TERRESTRE).** Según el tipo de transporte, el servicio público de transporte automotor terrestre se clasifica en:  
+a) Servicio público de transporte automotor terrestre de pasajeros.  
+b) Servicio público de transporte automotor terrestre de carga.  
+
+**Artículo 236. (CUALIFICACIÓN DE CONDUCTORES).** La cualificación de los conductores de transporte automotor público terrestre, por parte de la autoridad competente, tiene la finalidad de garantizar la aptitud e idoneidad de los mismos para manejar vehículos destinados a tal fin y circular con el mínimo riesgo posible.  
+
+**Artículo 237. (AUTORIZACIÓN DEL SERVICIO TERRESTRE).** La autorización de la prestación del servicio terrestre de pasajeros y carga será responsabilidad de la autoridad competente en el área de su jurisdicción y competencia.  
+
+**Artículo 238. (NORMAS TÉCNICAS).**  
+
+**I.** Todos los operadores están obligados a cumplir requisitos y estándares de calidad, seguridad, circulación, vialidad y otros que sean aplicables según las disposiciones vigentes, en forma permanente y bajo su responsabilidad a fin de garantizar una prestación del servicio eficiente.  
+
+**II.** La calidad y seguridad del servicio deben garantizar la satisfacción de la usuaria y usuario en términos de cumplimiento de itinerarios, puntualidad, comodidad, atención e información al cliente, higiene, prevención de accidentes y otros aspectos técnicos establecidos de acuerdo a normativa específica para la implementación del Sistema Nacional de Revisión Técnica Vehicular.  
+
+**III.** El cumplimiento de las normas de circulación y vialidad, debe generar un ambiente de seguridad en las carreteras del territorio nacional, para que los operadores y las usuarias y usuarios puedan transitar con seguridad vial y prevención de accidentes, orientado a las condiciones de bienestar vial.  
+
+**IV.** En el servicio público de transporte automotor terrestre de pasajeros y carga, la autoridad competente deberá controlar al menos los siguientes aspectos: humano, vehicular y vías, por medio de acciones que contemplen las áreas, normativa, operativa y de control, educativa y equipamiento.  
+
+**V.** De manera prioritaria se deberá implementar en el servicio público de transporte automotor terrestre, el monitoreo mediante Sistemas de Posicionamiento Global – GPS u otro dispositivo electrónico de similares características y hojas de ruta electrónicas para el control efectivo del equipo de conducción y vehículos en terminales terrestres y trancas intermedias.  
+
+**VI.** Se establece la obligatoriedad de utilizar indicaciones de material reflectivo en toda unidad de transporte terrestre que preste servicio público, con la finalidad de alertar su presencia y dimensión en la vía. La ubicación y dimensión del material reflectivo se establecerá para cada tipo de vehículo de acuerdo a normativa específica.  
+
+**VII.** El operador está obligado a circular por la Red Vial Fundamental con las luces de su vehículo encendidas durante la noche y el día en zonas y condiciones climáticas que dificulten la visibilidad.  
+
+**VIII.** El uso de cinturones de seguridad en el transporte público se definirá considerando el tipo de servicio de transporte, las características de la unidad de transporte y otros aspectos a ser definidos en normativa específica. El uso de cinturón de seguridad es obligatorio para los conductores tanto del transporte público como privado a partir de la publicación de la presente Ley.  
+
+**IX.** El uso de cascos de seguridad en el caso de moto taxis será definido en reglamentación específica.  
+
+**Artículo 239. (CONTROL DE VELOCIDAD).** Ninguna persona conducirá un vehículo a una velocidad mayor o menor a la establecida por la autoridad competente, en su caso adecuará la velocidad a las condiciones y características del vehículo, estado del clima y situación de la vía, sin sobrepasar el límite permitido de velocidad.  
+
+**Artículo 240. (RÉGIMEN LABORAL).** Se aprobará normativa específica para definir un Régimen de Trabajadores del Transporte que permita garantizar los derechos de los trabajadores del transporte, definir cantidad de horas de trabajo, velar por el pago de las obligaciones por parte de los empleadores a pesar de suspensiones y condiciones de seguridad ocupacional.  
+
+**SECCIÓN X**
+
+**SERVICIO PÚBLICO DE TRANSPORTE AUTOMOTOR TERRESTRE DE PASAJEROS**
+
+**Artículo 241. (CLASIFICACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE AUTOMOTOR TERRESTRE DE PASAJEROS).** Según el ámbito territorial, el servicio público de transporte automotor terrestre de pasajeros se clasifica en:  
+a) Servicio Público de Transporte Automotor Terrestre Internacional de Pasajeros.  
+b) Servicio Público de Transporte Automotor Terrestre Interdepartamental de Pasajeros.  
+c) Servicio Público de Transporte Automotor Terrestre Interprovincial e Intermunicipal de Pasajeros.  
+d) Servicio Público de Transporte Automotor Terrestre Urbano de Pasajeros.  
+
+**Artículo 242. (REGULACIÓN Y FISCALIZACIÓN).**  
+
+**I.** El servicio público de transporte automotor terrestre de pasajeros, será objeto de regulación y fiscalización.  
+
+**II.** La regulación del servicio incorporará aspectos económicos así como la determinación de un régimen tarifario que refleje el costo de operación, la eficiencia en la prestación del servicio, utilidad razonable acorde a los costos incurridos, pero además que permita la inclusión social de segmentos poblacionales socialmente vulnerables.  
+
+**III.** La fiscalización, control y supervisión del servicio se enfocará al cumplimiento del régimen tarifario, de los estándares técnicos de calidad y seguridad, la reglamentación de la prestación del servicio y de la normativa específica.  
+
+**IV.** En el marco de las competencias exclusivas según el servicio las categorías de transporte interdepartamental e internacional, la regulación y fiscalización será ejercida por la autoridad competente del nivel central; en la categoría de servicio público de transporte automotor terrestre interprovincial e intermunicipal, la regulación y fiscalización será ejercida por la autoridad competente del nivel departamental; en la categoría de servicio público de transporte automotor terrestre urbano, la regulación y fiscalización será ejercida por la autoridad competente del nivel municipal.  
+
+**V.** Las autoridades competentes, deberán elaborar mecanismos, procedimientos e instrumentos que permitan realizar una adecuada regulación y fiscalización, en el ámbito de sus competencias y atribuciones.  
+
+**SECCIÓN XI**
+
+**SERVICIO PÚBLICO DE TRANSPORTE AUTOMOTOR TERRESTRE DE CARGA**
+
+**Artículo 243. (CLASIFICACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE AUTOMOTOR TERRESTRE DE CARGA).** Según el ámbito territorial, el servicio público de transporte automotor terrestre de carga se clasifica en:  
+a) Servicio Público de Transporte Automotor Terrestre Internacional de Carga.  
+b) Servicio Público de Transporte Automotor Terrestre Interdepartamental de Carga.  
+c) Servicio Público de Transporte Automotor Terrestre Interprovincial e Intermunicipal de Carga.  
+
+**Artículo 244. (AUTORIZACIÓN Y FISCALIZACIÓN).**  
+
+**I.** El servicio público de transporte automotor terrestre de carga, será objeto de autorización y fiscalización.  
+
+**II.** La autorización del servicio incorporará elementos técnicos y normativos, que promuevan la eficiencia del servicio y determinen la responsabilidad que debe tener tanto el transportista como la usuaria o usuario y destinatario.  
+
+**III.** La fiscalización, control y supervisión del servicio se enfocará al cumplimiento de los estándares técnicos de calidad y seguridad, la reglamentación de la prestación del servicio y de la normativa específica.  
+
+**IV.** En la categoría de servicio público de transporte automotor terrestre internacional e interdepartamental de carga, la autorización y fiscalización estará bajo la tuición de la autoridad competente del nivel central; en la categoría de servicio público de transporte automotor terrestre interprovincial e intermunicipal de carga, la regulación y fiscalización estará bajo tuición de la autoridad competente del nivel departamental.  
+
+**SECCIÓN XII**
+
+**SERVICIO PÚBLICO DE TRANSPORTE AUTOMOTOR TERRESTRE INTERNACIONAL DE PASAJEROS Y/O CARGA**
+
+**Artículo 245. (TRANSPORTE AUTOMOTOR TERRESTRE INTERNACIONAL DE PASAJEROS Y/O CARGA).** Es el servicio de transporte realizado por empresas y cooperativas autorizadas, en los términos de la presente Ley, para trasladar personas y/o carga, en forma regular u ocasional, entre dos o más países.  
+
+**Artículo 246. (AUTORIZACIÓN).**  
+
+**I.** La autorización para la prestación del Servicio Público de Transporte Automotor Terrestre Internacional de Pasajeros y/o Carga será otorgada por la autoridad competente del nivel central, considerando los acuerdos, convenios y tratados internacionales suscritos y ratificados por el Estado Plurinacional de Bolivia, además de las disposiciones contenidas en la presente Ley y su reglamento.  
+
+**II.** Para los operadores constituidos en empresas y cooperativas, el plazo de autorización del servicio será definido por la autoridad competente de acuerdo a normativa específica.  
+
+**Artículo 247. (PLANIFICACIÓN DEL SERVICIO).**  
+
+**I.** Las autoridades competentes del sector en el área de su competencia, deberán planificar el Servicio Público de Transporte Automotor Terrestre Internacional de Pasajeros y/o carga en función de los acuerdos, convenios y tratados internacionales suscritos y ratificados por el Estado Plurinacional de Bolivia, considerando condiciones eficientes de circulación, operación y seguridad del servicio, además de coordinar la planificación de la infraestructura, con las entidades territoriales autónomas, que permita el embarque y desembarque de pasajeros y carga, así como la interconexión con otros medios de transporte.  
+
+**II.** La autoridad competente hará conocer a los operadores constituidos en empresas y cooperativas, los acuerdos internacionales referentes a la materia.  
+
+**Artículo 248. (PRESTACIÓN DEL SERVICIO).**  
+
+**I.** La autoridad competente del nivel central definirá mediante la autorización respectiva, la prestación del servicio público de transporte automotor terrestre internacional de pasajeros y/o carga.  
+
+**II.** En el transporte de pasajeros, la otorgación de rutas, frecuencias y horarios, para la explotación del servicio autorizado, considerará principios de equidad y calidad, así como la demanda requerida.  
+
+**III.** La autoridad competente del nivel central del Estado, extenderá la libreta de tripulante internacional, en el marco de las normas y acuerdos internacionales.  
+
+**SECCIÓN XIII**
+
+**SERVICIO PÚBLICO DE TRANSPORTE AUTOMOTOR TERRESTRE INTERDEPARTAMENTAL DE PASAJEROS Y/O CARGA**
+
+**Artículo 249. (TRANSPORTE AUTOMOTOR TERRESTRE INTERDEPARTAMENTAL DE PASAJEROS Y/O CARGA).** Es el servicio de transporte de pasajeros y/o carga que tiene origen en un departamento y destino en otro, pudiendo en su trayecto atravesar más de un departamento pero sin salir del territorio nacional.  
+
+**Artículo 250. (AUTORIZACIÓN DE LA PRESTACIÓN DEL SERVICIO).**  
+
+**I.** La autorización para la prestación del servicio público de transporte automotor terrestre interdepartamental de pasajeros y/o carga, será otorgada por la autoridad competente del nivel central, considerando las disposiciones contenidas en la presente Ley y su normativa específica.  
+
+**II.** La otorgación de autorizaciones para el transporte de pasajeros estará en función de procedimientos para la asignación de rutas, frecuencias y horarios, considerando demanda de pasajeros, calidad, equidad, seguridad, eficiencia y saturación de vías.  
+
+**III.** Para los operadores constituidos en empresas y cooperativas el plazo de autorización del servicio será definido por la autoridad competente de acuerdo a normativa específica.  
+
+**Artículo 251. (PLANIFICACIÓN DEL SERVICIO NACIONAL).** La autoridad competente del nivel central deberá planificar el servicio público de transporte automotor terrestre interdepartamental de pasajeros y/o carga, en función a la demanda del servicio y actividades económicas y comerciales dentro del territorio nacional, considerando condiciones eficientes de circulación, operación y seguridad del servicio. Además de coordinar la planificación de la infraestructura con las entidades territoriales autónomas, que permitan un adecuado embarque y desembarque de pasajeros y carga.  
+
+**SECCIÓN XIV**
+
+**SERVICIO PÚBLICO DE TRANSPORTE AUTOMOTOR TERRESTRE INTERPROVINCIAL E INTERMUNICIPAL DE PASAJEROS Y/O CARGA**
+
+**Artículo 252. (TRANSPORTE AUTOMOTOR INTERPROVINCIAL DE PASAJEROS Y/O CARGA).** Se considera servicio de transporte terrestre interprovincial de pasajeros y/o carga el que se presta:  
+a) Desde una provincia con destino a otra provincia, dentro un mismo departamento.  
+b) De una provincia de un departamento limítrofe con otro departamento limítrofe y llega a la población más próxima de la provincia contigua, siempre y cuando no sobrepase los ciento cincuenta (150) kilómetros, respetando acuerdos de reciprocidad limítrofe entre ambos departamentos.  
+
+**Artículo 253. (TRANSPORTE AUTOMOTOR INTERMUNICIPAL DE PASAJEROS Y CARGA).** Se considera servicio de transporte terrestre intermunicipal de pasajeros y/o carga el que se presta desde un municipio y llega a otro municipio contiguo.  
+
+**Artículo 254. (AUTORIZACIÓN DEPARTAMENTAL).**  
+
+**I.** La autorización para la prestación del servicio público de transporte automotor terrestre interprovincial e intermunicipal de pasajeros y/o carga, será otorgada por la autoridad competente del nivel departamental, considerando las disposiciones contenidas en la presente Ley y su normativa específica.  
+
+**II.** La otorgación de autorizaciones para el transporte de pasajeros estará en función a procedimientos para la asignación de rutas, frecuencias y horarios considerando demanda de pasajeros, calidad, equidad, seguridad, eficiencia y saturación de las vías.  
+
+**Artículo 255. (PLANIFICACIÓN DEL SERVICIO DEPARTAMENTAL).** La autoridad competente del nivel departamental, deberá planificar el servicio público de transporte automotor terrestre interprovincial e intermunicipal de pasajeros y carga, en función al crecimiento de la demanda del servicio y actividades económicas y comerciales dentro del departamento, considerando condiciones eficientes de circulación, operación y seguridad.  
+
+**SECCIÓN XV**
+
+**SERVICIO PÚBLICO DE TRANSPORTE AUTOMOTOR URBANO DE PASAJEROS**
+
+**Artículo 256. (TRANSPORTE AUTOMOTOR URBANO DE PASAJEROS).** Es el servicio de transporte terrestre de pasajeros que tiene origen y destino dentro de un mismo municipio.  
+
+**Artículo 257. (AUTORIZACIÓN MUNICIPAL).**  
+
+**I.** La autorización para la prestación del servicio público de transporte automotor terrestre urbano municipal de pasajeros, será otorgada por la autoridad competente del nivel municipal, considerando las disposiciones contenidas en la presente Ley y su normativa específica.  
+
+**II.** La otorgación de autorizaciones se realizará considerando los siguientes parámetros:  
+a) Procedimientos para la asignación de rutas, frecuencias y horarios considerando demanda de pasajeros, calidad, equidad, seguridad, eficiencia y evitar la saturación de rutas.  
+b) Renovación y revocatoria de la autorización, sujeta a la evaluación del cumplimiento del servicio y normativa específica.  
+c) Régimen de estándares de calidad, comodidad y seguridad para el servicio.  
+d) Certificado de aprobación de Revisión Inspección Técnica Vehicular que garantice el óptimo funcionamiento del motorizado.  
+e) Otras establecidas en disposiciones legales vigentes.  
+
+**Artículo 258. (PLANIFICACIÓN DEL SERVICIO MUNICIPAL).**  
+
+**I.** La autoridad competente del nivel municipal deberá planificar el servicio público de transporte automotor terrestre urbano de pasajeros, en función al crecimiento de la demanda del servicio y actividades económicas y comerciales dentro del municipio, considerando condiciones eficientes de circulación, operación y seguridad.  
+
+**II.** Asimismo la planificación del servicio público de transporte automotor terrestre urbano de pasajeros, estará enmarcada de manera enunciativa y no limitativa, según los siguientes lineamientos:  
+a) Diseñar planes de reordenamiento vial, acorde a las necesidades de la población.  
+b) Planificar el servicio en función al crecimiento de la demanda y ordenamiento territorial, reduciendo tiempos de espera y de viaje.  
+c) Disminuir la congestión vial, a través del control de la cantidad de vehículos asignados por ruta y la correspondiente demanda de pasajeros.  
+d) Incentivar la minimización del impacto ambiental producida por los vehículos, así como la renovación del parque automotor.  
+e) Otras establecidas en disposiciones legales vigentes.  
+
+**Artículo 259. (UNIDADES DE TRANSPORTE).** La autoridad competente del nivel municipal, incentivará el transporte masivo y la incorporación de vehículos seguros, modernos, de capacidad acorde al servicio requerido y ambientalmente amigable.  
+
+**CAPÍTULO TERCERO**
+
+**TRANSPORTE FERROVIARIO**
+
+**SECCIÓN I**
+
+**DISPOSICIONES GENERALES**
+
+**Artículo 260. (POLÍTICAS Y ELEMENTOS TÉCNICOS QUE RIGEN EL SERVICIO PÚBLICO FERROVIARIO).** Las políticas y elementos técnicos que regirán el transporte ferroviario son las siguientes:  
+
+1. EI transporte ferroviario se concibe como un sistema moderno, integral, seguro, eficiente y económico para las usuarias y usuarios, que promoverá y facilitará el traslado e integración de la población y el transporte oportuno y suficiente de carga a nivel nacional e internacional.  
+2. Se consolidará una reforma del sector y desarrollo del nuevo modelo ferroviario, y se promoverá un corredor biocéánico que contribuya a la integración externa y vertebración interna contribuyendo a la accesibilidad al servicio de personas y carga en el conjunto del territorio nacional.  
+3. Se impulsará la participación del ferrocarril en el transporte adecuado y suficiente de carga y pasajeros en corta, media y larga distancia.  
+4. Las empresas y prestadores del servicio público de transporte ferroviario, tendrán una finalidad social y apoyarán activamente la producción nacional, la generación de bienes y servicios orientados a la satisfacción de las necesidades básicas y esenciales de las comunidades y su entorno, la generación y preservación de empleos, así como la investigación, transferencia, difusión y uso de los conocimientos y nuevas tecnologías.  
+5. Se implementará un sistema de vigilancia para el mantenimiento y mejora continua del nivel de seguridad del transporte ferroviario, a través de la definición de un sistema de mantenimiento integral y preventivo de la red ferroviaria, así como el establecimiento de planes de conservación y modernización de la red ferroviaria.  
+6. Se implementará la vigilancia para el mantenimiento, mejora continua y desarrollo de la calidad total del transporte ferroviario, a través de un enfoque sistémico basado en normas internacionales y nacionales.  
+7. A fin de lograr la modernización del servicio, se establecerán planes sectoriales ferroviarios y sus consecuentes evaluaciones, fijando horizontes temporales e intermedios para el desarrollo de esta modalidad de transporte.  
+8. Se promoverá la inserción del ferrocarril en medios urbanos, municipales y regionales que permitan un transporte masivo de pasajeros y carga.  
+9. Se fomentará la intermodalidad del transporte ferroviario con todas las demás modalidades de transporte a través de la planificación, construcción y operación de la infraestructura logística necesaria.  
+10. Se planificará y gestionará el servicio de transporte ferroviario de carga y pasajeros en función a volúmenes de transporte, distancias y tiempos, para calcular la capacidad de transporte, capacidad de tráfico, consumo energético, seguridad y calidad del servicio.  
+11. La planificación y establecimiento de redes ferroviarias, horarios y frecuencias estarán basados en el principio de accesibilidad, las necesidades de movilidad y demanda poblacional y de las actividades económicas y comerciales, aplicándose criterios de accesibilidad equitativa, reduciendo tiempos de espera, tiempos de viaje, asegurando la regularidad y procurando un mejor nivel de calidad del servicio.  
+12. Se priorizará la infraestructura necesaria y adecuada para permitir el servicio público ferroviario de pasajeros y carga, espera, embarque y desembarque de pasajeros, carguío, descarga y estiba de mercancías, interconexión entre líneas e intermodalidad.  
+13. Se incorporará material rodante seguro, moderno y de capacidad acorde al servicio a ser prestado.  
+14. El régimen tarifario de pasajeros deberá incluir tarifas que permitan integrar sistemas de transporte y alternativas comerciales en función al origen, franja horaria, modalidad de pago y tipo de usuario o usuario.  
+15. Se aplicará una regulación tarifaria que considere el poder adquisitivo de las usuarias y los usuarios, refleje el costo real de operación, la eficiencia en la prestación del servicio, utilidad razonable acorde a los costos incurridos, pero además que permita la inclusión social de segmentos poblacionales socialmente vulnerables.  
+16. La regulación tarifaria deberá considerar el cumplimiento de estándares de calidad y seguridad, variación en los costos operativos, eficiencia en la operación e incentivo a la inversión.  
+17. Se considerará el cambio gradual de la matriz energética, modernización y renovación del material rodante, de vías y obras civiles.  
+18. Los prestadores del servicio y empresas ferroviarias deberán velar por la protección del medio ambiente conforme a lo establecido en normativa específica vigente, limitando el impacto negativo que sobre el mismo produce el funcionamiento del material tractivo y remolcado, operación de talleres y maestranzas, estaciones de carga y clasificación y todas las actividades asociadas a la explotación ferroviaria.  
+19. Se incentivará la cultura de calidad de servicio de transporte ferroviario, haciéndola del conocimiento de las usuarias o usuarios, operadores y empresas, quienes coadyuvarán junto a las autoridades competentes, en la protección jurídica y la debida asistencia a la usuaria o usuario, garantizando que los mismos accedan a un servicio digno, confiable, accesible, seguro y continuo.  
+20. Adopción de mecanismos que permitan la protección eficiente de los bienes del Estado afectados al servicio, penalizando de manera adecuada las invasiones y avasallamientos a dichos bienes.  
+
+**Artículo 261. (ADMINISTRACIÓN DE LA INFRAESTRUCTURA FERROVIARIA).** El Órgano Ejecutivo del nivel central, establecerá una entidad que será la encargada de la planificación y gestión de la infraestructura de la Red Ferroviaria Fundamental, estableciendo sus atribuciones, funciones y marco organizacional.  
+
+**Artículo 262. (EMPRESA ESTATAL OPERADORA DE FERROCARRILES).** El Órgano Ejecutivo del nivel central establecerá una Empresa Estatal Operadora de Ferrocarriles encargada de la explotación del servicio público ferroviario por cuenta del Estado Plurinacional de Bolivia en la Red Fundamental Ferroviaria.  
+
+**Artículo 263. (CONSTRUCCIÓN Y EXPLOTACIÓN DE LÍNEAS FÉRREAS).**  
+
+**I.** Podrán construir y explotar líneas férreas en el territorio nacional el nivel central del Estado Plurinacional, los gobiernos autónomos departamentales y municipales en caso de líneas de la Red Ferroviaria Fundamental, líneas departamentales o municipales respectivamente y los particulares, estos últimos de acuerdo a convenios o contratos con la instancia correspondiente.  
+
+**II.** En el caso de construcción y explotación de líneas de la Red Departamental o Municipal, estas actividades deberán enmarcarse dentro de las políticas y planes establecidos en el Plan Nacional Sectorial de Transportes – PLANAST.  
+
+**Artículo 264. (DECLARATORIA DE RED).** La entidad administradora de la infraestructura ferroviaria, publicará la Declaratoria de Red, la cual deberá ser aprobada por la autoridad regulatoria competente y contendrá todas las especificaciones de cada una de las líneas de ferrocarril en la Red Ferroviaria Fundamental y las especificaciones de interoperabilidad con las redes departamentales y municipales, las cuales serán de cumplimiento obligatorio para todo aquel que pretenda prestar el servicio público ferroviario en estas líneas.
+
+**Artículo 265. (RED FERROVIARIA FUNDAMENTAL).** Se establece la Red Ferroviaria Fundamental como aquella cuyas líneas tengan solución de continuidad para poder atravesar más de un departamento o conectar el territorio nacional con líneas de países vecinos.
+
+**Artículo 266. (RED FERROVIARIA DEPARTAMENTAL).** Se consideran redes ferroviarias departamentales aquellas que no tengan solución de continuidad que permitan atravesar más allá de un departamento o que teniendo solución de continuidad a nivel central sólo estén destinadas a prestar servicio dentro del ámbito geográfico de un solo departamento.
+
+**Artículo 267. (RED FERROVIARIA MUNICIPAL).** Se consideran redes ferroviarias municipales aquellas que no tengan solución de continuidad que permitan atravesar más allá de un municipio que, teniendo solución de continuidad a nivel departamental o central, sólo estén destinadas a prestar servicio dentro del ámbito geográfico de un solo municipio.
+
+**Artículo 268. (CAMBIO DE CONDICIÓN DE UNA LÍNEA FERROVIARIA).**
+
+**I.** Una línea perteneciente a una red municipal de ferrocarriles, pasará a ser parte de la Red Departamental o Fundamental, cuando al menos un servicio que preste requiera tráfico continuo de un mismo convoy ferroviario incluida la tracción, desde o hacia una red departamental o la Red Fundamental respectivamente, de acuerdo a lo establecido en la presente Ley o la normativa específica.
+
+**II.** Una línea perteneciente a una red departamental de ferrocarriles, pasará a ser parte de la Red Fundamental, cuando al menos un servicio que preste requiera tráfico continuo de un mismo convoy ferroviario incluida la tracción, desde o hacia la Red Fundamental de acuerdo a lo establecido en la presente Ley o la normativa específica.
+
+## SECCION II
+## INFRAESTRUCTURA FERROVIARIA
+
+**Artículo 269. (BIENES DEL ESTADO).**
+
+**I.** La infraestructura ferroviaria y todos los bienes del Estado afectados al servicio público ferroviario, por pertenecer al patrimonio del Estado Plurinacional y estar destinados a la prestación de un servicio público, son inembargables, imprescriptibles y no susceptibles de apropiación por causal alguna, conforme a lo establecido en la Constitución Política del Estado.
+
+**II.** Es deber de toda persona natural o jurídica, pública o privada, respetar y proteger la infraestructura ferroviaria y todos los bienes afectados al servicio público ferroviario los cuales sólo podrán ser enajenados con autorización de la Asamblea Legislativa Plurinacional.
+
+**Artículo 270. (AVASALLAMIENTOS A LOS BIENES AFECTADOS AL SERVICIO PÚBLICO FERROVIARIO).** En virtud de lo establecido en el Artículo anterior, todo avasallamiento a los bienes afectados al servicio público ferroviario será consideradoun delito y estará sometido como tal, a lo establecido en las disposiciones penales correspondientes.
+
+**Artículo 271. (PASOS A NIVEL Y CRUCES CON LÍNEAS FÉRREAS).**
+
+**I.** Únicamente, con carácter excepcional y provisional por causas justificadas, la autoridad regulatoria competente podrá autorizar el establecimiento de nuevos pasos a nivel por el tiempo estrictamente necesario y en la forma que reglamentariamente se establezca. El incumplimiento de esta disposición será sancionado de acuerdo al régimen de faltas y sanciones específico sobre la materia.
+
+**II.** Todo paso a nivel no autorizado por la autoridad regulatoria competente se considerará clandestino y por tanto, un avasallamiento a los bienes de Estado quedando como tal, tipificado como delito y estará sometido a lo establecido en las disposiciones penales correspondientes.
+
+**Artículo 272. (DERECHO DE VÍA).**
+
+**I.** Toda vía férrea tendrá un derecho de vía a cada lado del eje de la vía, la cual será parte de los bienes del ferrocarril y por lo tanto, gozará de todos los privilegios y derechos que a estos bienes se apliquen de acuerdo a la presente Ley o sus reglamentos específicos. El ancho del derecho de vía será definido por normativa específica expresa.
+
+**II.** Se establece la prohibición de hacer construcciones particulares o públicas dentro del derecho de vía o construcciones que puedan perjudicar el tráfico o la solidez de la vía, solamente la administradora de infraestructura ferroviaria podrá realizar construcciones dentro de la vía para servicios o instalaciones requeridos en la prestación del servicio público ferroviario.
+
+**III.** El ancho a ambos lados del eje de la vía férrea que ocupará el derecho de vía, será determinado en normativa específica de acuerdo al tipo de línea férrea, volumen de tráfico, velocidad de circulación de trenes, valor estratégico de la vía y otros parámetros a ser establecidos en el reglamento.
+
+**Artículo 273. (PROYECTOS DE CONSTRUCCIÓN EN LA RED FUNDAMENTAL FERROVIARIA).** Los proyectos de construcción o mejoramiento de las líneas ferroviarias o de tramos de las mismas en la Red Fundamental Ferroviaria, serán realizados por la entidad encargada de administrar la infraestructura ferroviaria o por privados a través de convenio con ésta, se aprobarán y ejecutarán conforme disponga la correspondiente normativa específica. La entidad ejecutora de los referidos proyectos será la entidad administradora de infraestructura ferroviaria.
+
+**Artículo 274. (CONSTRUCCIÓN DE LÍNEAS FERROVIARIAS EN LA RED FUNDAMENTAL).**
+
+**I.** La construcción de líneas ferroviarias que amplíen la Red Fundamental Ferroviaria o la modifiquen será encarada por la entidad administradora de infraestructura ferroviaria o por particulares de acuerdo a un convenio que será suscrito con la primera y autorizado conforme a la normativa específica.
+
+**II.** La infraestructura construida será de propiedad del Estado Plurinacional salvo desvíos particulares que se construirán al interior de predios que detenten la propiedad privada del suelo.
+
+**Artículo 275. (CONDICIONES DE INTEROPERABILIDAD).** Las características del trazo de las vías de los ferrocarriles que se construyan, serán la más adecuada para la interoperabilidad con los existentes, o con los que estén en construcción tanto dentro de territorio nacional como en el extranjero.
+
+**Artículo 276. (CONSTRUCCIÓN DE INFRAESTRUCTURA FERROVIARIA EN REDES DEPARTAMENTALES O MUNICIPALES).**
+
+**I.** Los gobiernos autónomos departamentales y municipales serán los encargados de ejecutar estudios y realizar la construcción, mejoramiento de infraestructura ferroviaria de carácter departamental o municipal y municipio autónomo indígena originario campesino, cuando corresponda.
+
+**II.** La entidad administradora de infraestructura ferroviaria podrá ejecutar estudios y realizar la construcción, mejoramiento de infraestructura ferroviaria de carácter departamental o municipal, en cuyo caso, tendrá derecho a la administración exclusiva de estas infraestructuras por un tiempo que permita recuperar las inversiones ejecutadas de acuerdo a la tasa de retorno esperada, en función a normativa específica.
+
+**III.** Las obras ejecutadas por la entidad administradora de infraestructura ferroviaria y que tengan carácter departamental serán gestionadas por esta entidad y explotadas por la Empresa Estatal Operadora de Ferrocarriles u otra entidad designada por esta última de acuerdo a normativa específica.
+
+**IV.** Las obras a ejecutarse, ya sea sobre la red fundamental, redes departamentales o municipales, deberán cumplir con la normativa específica nacional que rija las condiciones que las mismas deben cumplir.
+
+**Artículo 277. (GESTIÓN DE LA INFRAESTRUCTURA).** La gestión de la infraestructura realizada por la entidad administradora de infraestructura ferroviaria y los gobiernos departamentales y municipales, estará sujeta a las normas de seguridad previstas en esta Ley y en su normativa específica. La autoridad regulatoria competente velará porque en todo momento, se garantice la seguridad de la circulación de los trenes por las líneas y la seguridad de los pasajeros y visitantes de las terminales ferroviarias.
+
+**Artículo 278. (CLASIFICACIÓN DE LAS VÍAS FÉRREAS).** Dentro de cada red ferroviaria, la autoridad competente, clasificará las vías a fin de fijar las velocidades de circulación y otros factores de acuerdo a criterios establecidos en estándares técnicos y que sean requeridos para garantizar la seguridad, fiabilidad y calidad en todos los aspectos del servicio.
+
+**Artículo 279. (EXCLUSIÓN DE UNA LÍNEA FERROVIARIA).** La autoridad regulatoria competente podrá recomendar al ministerio cabeza de sector la exclusión de una línea ferroviaria de la red ferroviaria correspondiente, siempre que hayan desaparecido los motivos de necesidad pública que justificaron su inclusión en aquella o que su operación sea manifestamente deficitaria. Los bienes pertenecientes a dicha infraestructura ferroviaria podrán consolidarse a favor del municipio o departamento correspondiente. El traspaso se promoverá a instancia del gobierno autónomo correspondiente o del Órgano Ejecutivo del nivel central y será resuelto por este último.
+
+**Artículo 280. (CÁNONES POR UTILIZACIÓN DE INFRAESTRUCTURA FERROVIARIA).** Se establece que en la Red Fundamental Ferroviaria, la entidad administradora de infraestructura ferroviaria cobrará cánones de utilización de infraestructura, de reserva de capacidad y de utilización de estaciones de acuerdo a normativa específica aprobada por la autoridad competente del nivel central.
+
+## SECCION III
+## PRESTACION DEL SERVICION PUBLICO FERROVIARIO
+
+**Artículo 281. (SERVICIO DE TRANSPORTE FERROVIARIO).** El transporte ferroviario, guiado o con alimentación exclusiva de energía, es un servicio de interés público y esencial para la comunidad, pudiendo ser de pasajeros y de carga. Dicho servicio se prestará por empresas ferroviarias públicas o privadas nacionales o internacionales, con arreglo a lo previsto en la presente Ley.
+
+**Artículo 282. (LICENCIAS).**
+
+**I.** La prestación del servicio público ferroviario en la Red Fundamental, Departamental o Municipal de Ferrocarriles no podrá realizarse sin obtener, previamente, la correspondiente licencia otorgada por la autoridad regulatoria competente del nivel central. La mencionada licencia es intransferible.
+
+**II.** Los operadores ferroviarios no podrán realizar actividades que no estén expresamente amparadas por la licencia, sin perjuicio de que soliciten, en su caso, su ampliación o la modificación de su contenido.
+
+**Artículo 283. (EMPRESAS FERROVIARIAS).** Son empresas ferroviarias aquellas entidades titulares de una licencia otorgada por la autoridad regulatoria competente del nivel central, cuya actividad es integral pudiendo contemplar la comercialización y servicios colaterales, siendo su rubro específico el transporte público ferroviario de pasajeros y/o carga, aportando necesariamente la tracción. Se consideran empresas ferroviarias también aquellas que aporten exclusivamente la tracción.
+
+**Artículo 284. (DERECHO DE PRESTAR EL SERVICIO PÚBLICO FERROVIARIO).**
+
+**I.** Dentro de la Red Fundamental, Departamental o Municipal de Ferrocarriles, cualquier persona natural o jurídica, pública o privada, puede prestar el servicio público ferroviario, siempre y cuando posea una licencia otorgada por la autoridad regulatoria competente del nivel central. Su actividad consiste en transportar pasajeros o carga por ferrocarril, con vagones propios o alquilados en los términos establecidos en la presente Ley y su normativa específica correspondiente.
+
+**II.** Las personas naturales o jurídicas, públicas o privadas, que no sean empresas ferroviarias no podrán aportar la tracción, debiendo ésta ser aportada necesariamente por una empresa ferroviaria.
+
+**Artículo 285. (CERTIFICADO DE SEGURIDAD).** Con carácter previo a la prestación del servicio ferroviario sobre una determinada línea de la Red Fundamental, Departamental o Municipal, las empresas ferroviarias deberán obtener el correspondiente certificado de seguridad de la autoridad regulatoria competente del nivel central. El contenido y régimen para la renovación y revisión del certificado de seguridad, será establecido en la normativa específica correspondiente.
+
+**Artículo 286. (CULTURA DE SEGURIDAD).**
+
+**I.** La autoridad competente del nivel central del Estado, tendrá la responsabilidad de llevar a cabo todas las actividades orientadas a desarrollar una cultura de la seguridad en los diferentes ámbitos del transporte ferroviario que incorporen a todos los actores involucrados en la prestación del servicio operadores, responsables de infraestructura y material rodante, usuarias o usuarios y la sociedad en su conjunto.
+
+**II.** La autoridad competente será responsable del establecimiento de normativa específica dirigida a la seguridad ferroviaria, evitando todo tipo de conflicto de interés, desarrollando e implementando sistemas de gestión de la seguridad que incorporen los conceptos de disrupción segura acordes a la realidad tecnológica de las redes ferroviarias bolivianas. Asimismo, llevará a cabo de manera continua evaluaciones de riesgo fijando los niveles razonablemente aceptables y diseñará las políticas de contingencia para cualquier eventualidad. En todos los casos la normativa específica deberá tender a lograr cero tolerancia de accidentes.
+
+**III.** En lo que se refiere al mantenimiento y renovación de infraestructura y material rodante se deberá desarrollar sistemas de mantenimiento y renovación que incorporen metodologías de administración y gestión modernos de mantenimiento preventivo, predictivo y orientado a la fiabilidad.
+
+**IV.** La seguridad ferroviaria será fiscalizada por la autoridad regulatoria competente del nivel central.
+
+**Artículo 287. (CULTURA DE CALIDAD).**
+
+**I.** La autoridad competente del nivel central, tendrá la responsabilidad de llevar a cabo todas las actividades orientadas a desarrollar una cultura de la calidad en los diferentes ámbitos del transporte ferroviario que incorporen a todos los actores involucrados en la prestación del servicio operadores, responsables de infraestructura y material rodante, usuarias o usuarios y la sociedad en su conjunto.
+
+**II.** La autoridad competente será responsable del establecimiento de normativa específica dirigida a la gestión de la calidad total, implementando sistemas de gestión de la calidad, sistemas de mantenimiento de la calidad y sistemas de mejora continua acordes a la realidad tecnológica de las redes ferroviarias bolivianas. Asimismo, llevará a cabo de manera continua auditorías de calidad fijando los niveles razonablemente aceptables.
+
+**III.** Los sistemas de calidad ferroviaria serán fiscalizados por la autoridad regulatoria competente del nivel central.
+
+**Artículo 288. (ACCESIBILIDAD DEL SERVICIO PÚBLICO FERROVIARIO).**
+
+**I.** El servicio público ferroviario deberá tener un carácter universal, siendo accesible a todos los miembros de la sociedad, especialmente a las personas con capacidades diferentes, niñas, niños y adultos mayores.
+
+**II.** La accesibilidad será promovida mediante una normativa específica destinada a logar que las instalaciones y vehículos cuenten con todos los dispositivos necesarios para otorgar las facilidades y medidas de seguridad que brinden las condiciones adecuadas a las personas con capacidades diferentes, niñas, niños y adultos mayores.
+
+**Artículo 289. (NORMAS GENERALES PARA LA PRESTACIÓN DEL SERVICIO PÚBLICO FERROVIARIO).** La prestación del servicio público ferroviario en la Red Fundamental Nacional, Redes Departamentales y Municipales, deberá cumplir con la normativa específica nacional general que rija las condiciones que la misma debe cumplir, pudiendo las Redes Departamentales y Municipales, en concordancia a la normativa nacional, desarrollar normativa adicional en temas puntuales para servicios específicos.
+
+## CAPITULO CUARTO TRANSPORTE ACUATICO
+## SECCION I
+## DISPOSICIONES GENERALES
+
+**Artículo 290. (FUNDAMENTOS DE POLÍTICAS DEL TRANSPORTE POR AGUA).** El nivel central del Estado adopta como fundamentos de políticas de transporte marítimo, fluvial y lacustre el conjunto de los siguientes principios, sin perjuicio de su actualización conforme al desarrollo que experimente el transporte nacional e internacional:
+
+**a)** El transporte por agua se rige por autoridad competente en su jurisdicción, con el fin de garantizar la seguridad a la navegación y protección a la vida humana y medio ambiente acuático, acorde a las normas nacionales e internacionales.
+
+**b)** El transporte acuático nacional e internacional se basa sobre los principios de libre navegación en ríos y lagos nacionales e internacionales, así como alta mar.
+
+**c)** El transporte por agua integra, desarrolla y coadyuva en la seguridad del Estado Plurinacional, departamental, municipal y originario campesino, para el desempeño del país y de la mancomunidad.
+
+**d)** El Estado Plurinacional de Bolivia ejerce soberanía completa y exclusiva sobre buques, embarcaciones, tripulantes, instituciones que prestan servicio de transporte acuático, infraestructura portuaria y vial y servicios en general.
+
+**e)** El Estado Plurinacional de Bolivia, por medio de las organizaciones sociales ejercerá el control social en todas las actividades del transporte por agua, nacional e internacional.
+
+**f)** La determinación de servicios de transporte fluvial estará a cargo del nivel central del Estado en todas las cuencas hidrográficas que vinculan el país.
+
+**g)** El Estado Plurinacional de Bolivia priorizará la Hidrovía Paraguay-Paraná (HPP) como alternativa de salida al mar y facilitadora del comercio exterior en la Cuenca del Plata y países del Atlántico.
+
+**h)** El Estado Plurinacional de Bolivia buscará permanentemente la salida soberana al mar y entre tanto, aprovechará en derecho el uso del mar en base a la Convención del Mar aprobado en Jamaica en 1982, para lo cual desarrollará la Marina Mercante Nacional.
+
+**Artículo 291. (ATRIBUCIONES DEL NIVEL CENTRAL DEL ESTADO).** Son atribuciones del nivel central del Estado, a través de la autoridad competente las siguientes:
+
+**a)** Cumplir y hacer cumplir las normas establecidas en cuanto a la seguridad del tráfico y transporte acuático, en el ámbito nacional e internacional.
+
+**b)** Planificar y ejecutar el mantenimiento, mejoramiento y construcción de acuerdo a la clasificación de las vías navegables e infraestructura portuaria.
+
+**c)** Administrar el estado de abanderamiento, seguridad portuaria (similar función al Estado rector del puerto en el transporte marítimo), seguridad en aguas internacionales (similar a las funciones del Estado Ribereño en el transporte marítimo), y otras propias de la entidad competente del nivel central.
+
+**d)** Reconocimiento, registro e inspección de buques, embarcaciones y artefactos navales.
+
+**e)** Otorgación de títulos, licencias, refrendos y certificaciones de las competencias de los recursos humanos para el ejercicio profesional en el rubro Naviero Mercante, Portuario y de la Industria Naval.
+
+**f)** Habilitación de recursos humanos extranjeros, para el ejercicio profesional en el rubro Naviero Mercante, Portuario y de la Industria Naval bajo bandera boliviana.
+
+**g)** Certificación de calidad de los servicios de transporte acuático, portuario e industria naval y el control correspondiente.
+
+**h)** Relevamiento hidrográfico y señalización de las vías navegables y provisión de los servicios de ayudas a la navegación en las aguas jurisdiccionales.
+
+**i)** Desarrollar y regular la actividad naviero mercante del Estado Plurinacional de Bolivia.
+
+**j)** Creación de capitanías de puerto.
+
+## SECCION II
+## INFRAESTRUCTURA
+
+**Artículo 292. (DESEMPEÑO INTERNACIONAL Y DESARROLLO PORTUARIO).** El nivel central del Estado deberá promover políticas de desarrollo portuario, medidas y acciones factibles en el aprovechamiento operativo del transporte acuático, de las zonas francas y puertos cedidos a través de convenios internacionales, con énfasis en puertos y vías internacionales, para facilitar el desarrollo del comercio exterior boliviano.
+
+**Artículo 293. (INFRAESTRUCTURA).** La autoridad competente para asegurar tanto un eficiente como un eficaz servicio del transporte público por agua, promoverá la seguridad y el desarrollo a través del mantenimiento, conservación y construcción de puertos y vías navegables en el Sistema Nacional e Internacional de Puertos.
+
+**Artículo 294. (PUERTOS).**
+
+**I.** La autoridad competente del nivel central deberá aprobar los planes, programas y proyectos portuarios, acorde a normas técnicas específicas.
+
+**II.** Podrán construir y administrar puertos en el territorio nacional, el nivel central del Estado Plurinacional, los gobiernos autónomos departamentales, los gobiernos autónomos municipales y autonomías indígena originario campesinas. En el caso de la administración de puertos fluviales y lacustres se deberá coordinar entre el nivel central del Estado y las entidades territoriales autónomas (competencias ejercidas de manera concurrente).
+
+**III.** Los puertos serán administrados por personas naturales o jurídicas que cumplan requisitos exigidos por la reglamentación específica de registros ante la autoridad competente, precautelando el desarrollo nacional.
+
+**IV.** La administración de los puertos en espacios territoriales de otro país corresponderá según los acuerdos y disposiciones que emita el país; sin embargo, la administración de los espacios asignados para el manejo de carga en los puertos, será realizado por la entidad competente de nuestro país, que en calidad de agente aduanero, cumplirá las funciones de regular y controlar el ingreso y salida de mercancías.
+
+**Artículo 295. (VÍAS NAVEGABLES).**
+
+**I.** La autoridad competente del nivel central deberá aprobar los planes, programas y proyectos de construcción, mantenimiento y mejoramiento de vías navegables, acorde a normas técnicas específicas.
+
+**II.** El nivel central del Estado Plurinacional, los gobiernos autónomos departamentales, los gobiernos autónomos municipales y el gobierno autónomo indígena originario campesino, podrán aprovechar las vías de navegación fluvial y lacustre en el territorio nacional acorde a sus necesidades y bajo el principio de sostenibilidad ambiental.
+
+## SECCION III
+## CLASIFICACION DE PUERTOS Y VIAS NAVEGABLES
+
+**Artículo 296. (CLASIFICACIÓN DE PUERTOS).**
+
+**I.** Los puertos se clasificarán en función al territorio de la administración política del Estado, al carácter comercial e industrial, en función al carácter turístico – deportivo y militar:
+
+**II.** En función a los niveles de la administración política del Estado:
+
+**1.** **Puertos Nacionales.** Son aquellos que reúnen las siguientes condiciones y serán administradas por el nivel central del Estado:
+
+**a)** Que realicen actividades comerciales internacionales.
+
+**b)** Que su zona de influencia comercial llegue a más de un departamento.
+
+**c)** Que sirvan a industrias o establecimientos de importancia estratégica para la economía nacional.
+
+**d)** Que el volumen anual y las características de sus actividades comerciales alcancen niveles suficientemente relevantes o respondan a necesidades esenciales de la actividad económica general del Estado.
+
+**e)** Que por sus especiales condiciones técnicas o geográficas constituyan elementos esenciales para la seguridad del tráfico acuático.
+
+**2.** **Puertos Departamentales.** Son aquellos puertos que no cumplen las condiciones de un puerto nacional, construidos con fines de interés departamental.
+
+**3.** **Puertos Municipales.** Son aquellos puertos que no cumplen las condiciones de un puerto nacional, construidos con fines de interés municipal.
+
+**4.** **Puertos Originarios Campesinos.** Son aquellos muelles que no cumplen las condiciones de un puerto nacional, construidos con fines de interés local.
+
+**III.** En función al carácter comercial e industrial, se clasifican en:
+
+**1.** **Puerto Público (Estatal).** Son aquellos cuya administración y operación están a cargo del Estado Plurinacional de Bolivia, en sus diferentes niveles, orientados a la prestación de servicio público.
+
+**2.** **Puerto Privado (Particular).** Son aquellos cuya construcción, administración y operación han sido emprendidos por personas naturales o jurídicas, mediante inversión privada nacional y/o extranjera.
+
+Los puertos de carácter comercial e industrial, a su vez se sub-clasifican en:
+
+**a)** **Puerto Mayor.** Se entiende por puerto mayor a la infraestructura, instalaciones, equipamiento y accesos de comunicación, que presta servicios a la carga en contenedores, a granel y pasajeros, con volúmenes mayores y que podrá realizar la transformación de productos industrialmente.
+
+**b)** **Puerto Menor.** Se entiende por puerto menor, aquella infraestructura construida en pequeña escala respecto al puerto mayor.
+
+**c)** **Muelle.** Obra portuaria para ofrecer un paramento vertical con calado suficiente para permitir que las embarcaciones atraquen de costado y puedan así efectuar operaciones de carga y descarga, embarque y otros.
+
+**d)** **Puertos – Muelle de Transbordo.** Son aquellos puertos o muelles en los cuales se efectúan actividades de transbordo y responde a necesidades de las actividades económicas locales, su accionar preponderantemente responde a la carencia de puentes.
+
+**e)** **Atracadero.** Sitio donde, sin peligro, pueden atracarse a tierra las embarcaciones menores, autorizado por la autoridad competente para la pesca e intercambio comercial doméstico y local.
+
+**f)** **Otros en función al desarrollo portuario.** La modificación en la categorización de los puertos y su uso, será autorizada por la autoridad competente del nivel central del Estado.
+
+**IV.** En función al carácter turístico – deportivo, son aquellos constituidos por instalaciones adecuadas para el atraque de lanchas, veleros y yates de recreo. Están sometidas al régimen de los puertos comerciales.
+
+**V.** **Puerto Militar.** Instalación de carácter estratégico con características para el apoyo logístico de las operaciones navales a una flotilla o Fuerza Naval y, en caso de ser necesario, será empleado en la prestación de servicio público.
+
+**Artículo 297. (CLASIFICACIÓN DE VÍAS NAVEGABLES).** Las vías navegables, se clasificarán de la siguiente manera:
+
+**a)** **Internacional.** Son espacios acuáticos comprendidos por ríos y lagos internacionales, limitados por la línea fronteriza internacional. También comprenden aquellas vías vinculadas a otros países y supeditadas a los principios del Derecho Internacional.
+
+**b)** **Nacional.** Cuando alcancen a más de un departamento y su planificación, diseño, construcción, conservación y administración de las mismas será de competencia del nivel central del Estado.
+
+**c)** **Departamental.** Vías fluviales y espacios acuáticos lacustres de alcance interprovincial e intermunicipal, cuya planificación, diseño, construcción, conservación y administración de las mismas será de competencia de los gobiernos departamentales, en coordinación y supervisión del nivel central del Estado.
+
+## SECCION IV
+## PRESTACION DE SERVICIOS
+
+**Artículo 298. (PRESTACIÓN DE SERVICIOS).** La autoridad competente en el ámbito de su jurisdicción, velará por la prestación de un servicio de transporte acuático eficiente y eficaz, mediante normas específicas que otorgan la licencia del servicio a las personas naturales o jurídicas, que oferten el transporte público acuático, brindando calidad y seguridad al mismo.
+
+**Artículo 299. (LICENCIAS DE SERVICIO).** La autoridad competente del nivel central otorgará licencias de servicio a todas las personas naturales o jurídicas que deseen prestar servicio de transporte acuático en los ámbitos nacional e internacional, así como, a las embarcaciones, tripulantes, astilleros, agencias navieras, puertos y otros conexos al servicio de esta modalidad de transporte, bajo normas específicas.
+
+**Artículo 300. (OPERADORES).** Todas las personas naturales o jurídicas de Bolivia que prestan servicio de transporte acuático en el ámbito nacional e internacional, deberán cumplir con los requisitos exigidos para operador del transporte acuático, de acuerdo a las normas específicas de registros determinadas por la autoridad competente, a fin de precautelar la seguridad de las usuarias y los usuarios y el medio ambiente acuático.
+
+**Artículo 301. (SEGURIDAD DEL SERVICIO).** La autoridad competente del nivel central deberá cumplir y hacer cumplir las normas establecidas en cuanto a la seguridad del tráfico y transporte acuático, en el ámbito nacional e internacional.
+
+## SECCION V
+## SEGURIDAD, CALIDAD Y EFICIENCIA EN LA PRESTACION DE SERVICIOS
+
+**Artículo 302. (REGISTROS).** Es el sistema de seguridad en la navegación nacional e internacional enmarcado en normas vigentes y de responsabilidad de la autoridad competente del nivel central del Estado. Se deberá dar cumplimiento a las siguientes disposiciones:
+
+**a)** Todas las personas naturales o jurídicas deberán registrarse ante la autoridad competente para el ejercicio comercial y especializado en transporte por agua.
+
+**b)** Registrar toda embarcación para realizar el transporte por agua.
+
+**c)** Registrar a todo el personal que funja como tripulante que contemple la matriculación y habilitación de pilotos o prácticos, licencias, refrendos y certificaciones de competencias.
+
+**d)** Registrar los astilleros para la construcción, reparación o mantenimiento de las embarcaciones u otro artefacto naval.
+
+**e)** Registrarse a agencias y líneas navieras para prestar servicios a los importadores y exportadores con cargas de ultramar.
+
+**f)** Registrar puertos que reúnan las condiciones de operación y seguridad en el ámbito nacional que contribuya al desarrollo de las usuarias y los usuarios.
+
+**g)** Registrar todos los artefactos navales que operen en aguas nacionales e internacionales con bandera boliviana.
+
+**h)** Refrendar licencias, titulaciones y certificados de competencias de los recursos humanos para el ejercicio profesional bajo bandera boliviana.
+
+**Artículo 303. (SEGUROS EN EL TRANSPORTE ACUÁTICO).**
+
+**I.** Es el sistema de seguridad en la navegación nacional e internacional, que protege a la embarcación y a terceras personas.
+
+===== Page 1 =====
+
+II. Todo operador que preste servicios públicos de transporte acuático deberá contar obligatoriamente con un seguro de a bordo, el mismo que debe cubrir el seguro de vida por cada uno de los pasajeros que utilicen este servicio y seguro de los bienes transportados.
+
+**Artículo 304. (SEGURIDAD A LA NAVEGACIÓN).** El nivel central del Estado mediante la autoridad competente, entre otras tendrá las siguientes atribuciones específicas:
+
+a. **a)Verificar los documentos que autoricen la navegación de la embarcación, así como de los tripulantes.**
+
+a. **b)Realizar el control y seguimiento de la embarcación durante el período de la navegación, entre origen (zarpe) y destino (atraque); así como, maniobras en los puertos de los remolcadores, artefactos navales en general y pilotaje.**
+
+a. **c)Hacer cumplir las normas para prevención de abordajes.**
+
+a. **d)Transmitir información sobre las ayudas a la navegación vigentes (publicaciones, derroteros, cartas náuticas, aviso a los navegantes, señalización, entre otros).**
+
+a. **e)Verificar el cumplimiento de la capacidad de transporte de pasajeros, así como todos los dispositivos de salvamento (chalecos salvavidas, guindolas, flotadores, balsas salvavidas, botes y otros).**
+
+a. **f)Verificar el cumplimiento de la capacidad de transporte y tipo de carga, así como los dispositivos para trincar la misma.**
+
+a. **g)Controlar el espacio acuático en su jurisdicción para preservar el medio ambiente acuático.**
+
+a. **h)Recolectar y difundir información hidrométrica y meteorológica para fines de asegurar el servicio a la navegación y alerta temprana.**
+
+i. **i)Efectuar operaciones de socorro, búsqueda y salvataje.**
+
+a. **j)Realizar el registro estadístico del movimiento de carga, pasajeros y operaciones portuarias.**
+
+===== Page 2 =====
+
+a. k)Otros requeridos por autoridades del nivel central, departamental o municipal, relacionados con la seguridad a la navegación.
+
+**Artículo 305. (SEGURIDAD DE LA INFRAESTRUCTURA PORTUARIA).** El nivel central del Estado mediante la autoridad competente, entre otras, tendrá las siguientes atribuciones específicas:
+
+a. **a)Planificar el sistema de seguridad para precautelar el área perimetral del puerto, contra amenazas y acciones que puedan dañar la integridad física de las instalaciones, que provenga por tierra o por agua.**
+
+a. **b)Coordinar con el Capitán de Puerto la interrelación de los sistemas de seguridad portuaria al interior y exterior del mismo.**
+
+**Artículo 306. (APOYO TÉCNICO AL DESARROLLO DE VÍAS NAVEGABLES).** El nivel central del Estado mediante la autoridad competente, tendrá entre otras, las siguientes atribuciones específicas:
+
+a. **a)Ejecutar levantamientos hidrográficos en espejos de agua patrimoniales.**
+
+a. **b)Identificar mediante la carta náutica los espacios acuáticos navegables y ribereños.**
+
+a. **c)Señalizar las vías acuáticas y provisión de los servicios de ayudas a la navegación en las aguas jurisdiccionales.**
+
+a. **d)Realizar el mantenimiento, conservación y/o mejoramiento de la señalización náutica a las ayudas a la navegación.**
+
+a. **e)Contribuir al desarrollo y activación del sistema nacional de alerta temprana.**
+
+a. f)Otros que requieran autoridades del nivel central y/o niveles subnacionales, relacionados con el desarrollo de vías navegables.
+
+**Artículo 307. (CALIDAD DEL SERVICIO PÚBLICO DEL TRANSPORTE DE PASAJEROS Y CARGA Y DE LOS SERVICIOS PORTUARIOS).** El nivel central del Estado mediante la autoridad competente en su jurisdicción, tendrá las siguientes atribuciones:
+
+a. **a)Garantizar la libre competencia del servicio público de transporte acuático, evitando los actos que impidan, restrinjan o distorsionen en cuanto a precio, tarifa y calidad.**
+
+a. **b)Fomentar y promover el desarrollo tecnológico del servicio público de transporte acuático.**
+
+a. **c)Realizar estudios de precio y calidad en el mercado a fin de regular las tarifas referenciales.**
+
+a. **d)Exigir al operador máxima comodidad y cumplimiento de los términos contractuales en favor de las usuarias y los usuarios del servicio de transporte, proporcional a la tarifa.**
+
+a. **e)Notificar, previa resolución, a los operadores del transporte acuático y servicios portuarios que infrinjan normas referenciales de precio o de tarifa y calidad.**
+
+a. **f)Accionar las sanciones correspondientes, en caso de incumplimiento probado de las normas referenciales de precio o de tarifa y calidad.**
+
+a. **g)Garantizar y facilitar la protección de la usuaria o del usuario en la navegación y en los puertos, para este fin se establecerá una oficina dependiente de la autoridad competente.**
+
+**Artículo 308. (EFICIENCIA EN LA NAVEGACIÓN).** Para efectos de la presente norma, la eficiencia en la navegación es el resultado de la óptima operativización de la seguridad y calidad de la navegación y servicios portuarios, brindada en el mercado nacional e internacional, materializado en el medio de transporte.
+
+**SECCIÓN VI**
+
+**DESARROLLO PORTUARIO Y VÍAS NAVEGABLES**
+
+**Artículo 309. (DESARROLLO PORTUARIO Y VÍAS NAVEGABLES).** El nivel central del Estado mediante la autoridad competente en su jurisdicción, tendrá las siguientes atribuciones específicas:
+
+===== Page 3 =====
+
+a. **a)Planificar el desarrollo portuario y vías navegables habilitadas, tendientes a lograr los estándares internacionales de la construcción de vías y puertos para el servicio público.**
+
+a. **b)Determinar el estado de las vías identificando los pasos críticos que limitan o restringen la navegación y las condiciones de operación portuaria, para el desarrollo de trabajos de mantenimiento.**
+
+a. **c)Establecer los pasos críticos que limitan o restringen la navegación y las condiciones de operación portuaria, para el mejoramiento conforme a las exigencias del medio de transporte.**
+
+a. **d)Identificar las necesidades de construcción y ampliación de las vías y puertos, en función del comercio y la industria local.**
+
+a. **e)Registrar, autorizar y certificar la habilitación operativa de los puertos.**
+
+**DISPOSICIONES ADICIONALES**
+
+**PRIMERA.** Las infracciones contra la presente Ley y la normativa sectorial, serán establecidas y sancionadas por normativa específica, emitida por autoridad competente en el marco de su jurisdicción.
+
+**SEGUNDA.** Las disposiciones legales sectoriales serán aplicables en todo lo que no sea contrario a lo dispuesto en la presente Ley, en tanto no se cuente con las normas sectoriales pertinentes para cada modalidad de transporte y las normas específicas de cada entidad territorial autónoma.
+
+**TERCERA.** El Estado garantizará un ingreso para la Policía Boliviana que sea al menos igual a la recaudación en el último año por concepto de revisión técnica y registro de vehículos.
+
+**DISPOSICIONES TRANSITORIAS**
+
+**PRIMERA.**
+
+===== Page 4 =====
+
+**I.** El ordenamiento normativo del nivel central del Estado, será en todo caso, supletorio al de las entidades territoriales autónomas. A falta de una norma autonómica se aplicará la norma del nivel central del Estado.
+
+**II.** Las competencias exclusivas deben ser asumidas obligatoriamente por las entidades territoriales autónomas, aplicando, a falta de norma específica del nivel central del Estado, lo dispuesto en la Constitución Política del Estado.
+
+**SEGUNDA.**
+
+**I.** La presente Ley determina el ordenamiento normativo general del sector transporte, la misma que deberá ser sustentada por normativas específicas para cada modalidad de transporte a ser promulgadas en el lapso de dos años, su formulación estará bajo la responsabilidad de la autoridad competente del nivel central del Estado. En tanto se emitan las disposiciones específicas señaladas, se cumplirá la presente Ley en todo cuanto sea aplicable.
+
+**II.** Los operadores que hubieran suscrito contratos y que cuenten con autorizaciones para la prestación del servicio público de transporte, que se encuentren vigentes a la fecha de promulgación de la presente Ley, deberán obligatoriamente adecuar dichos contrato al nuevo marco normativo. El proceso de adecuación incentivará la ejecución de inversiones que sean necesarias hasta su culminación y reconocerá las efectuadas.
+
+**TERCERA.**
+
+**I.** El nivel central del Estado mediante normativa específica y en base a un análisis de la organización, funciones, responsabilidades y cumplimiento de objetivos de las entidades pertinentes, propondrá una nueva estructura organizacional del Órgano Ejecutivo en lo que se refiere al sector transporte, que esté acorde a la presente Ley y sus normativas específicas y dispondrá la designación de atribuciones y funciones a las entidades del Estado existentes o por conformarse, que asuman las responsabilidades enunciadas en la presente Ley y su normativa específica, como de responsabilidad de la autoridad competente del nivel central del Estado.
+
+**II.** Las entidades del Estado que estén ejerciendo funciones descritas en la presente Ley que se encuentren designadas como autoridad o entidad competente del nivel central del Estado, continuarán desempeñando sus funciones en tanto no se promulgue la normativa específica de designación de autoridades competentes.
+
+===== Page 5 =====
+
+**CUARTA.**
+
+**I.** La Empresa Nacional de Ferrocarriles – ENFE, bajo la supervisión de la autoridad nacional competente, deberá realizar una inventariación de sus activos incluida la chatarra y los bienes desvinculados de los contratos de licencia de los operadores ferroviarios Empresa Ferroviaria Andina – FCA S.A. y Ferroviaria Oriental – FO S.A. ya sea que hayan sido efectivamente devueltos o no.
+
+**II.** Los recursos para dicha inventariación deberán ser erogados por la autoridad competente del nivel central.
+
+**III.** Una vez inventariados los bienes, de acuerdo al análisis respectivo se dispondrán en favor de la administradora de la infraestructura ferroviaria los bienes que sean útiles para su funcionamiento y el saldo será adjudicado de acuerdo a normativa específica.
+
+**IV.** Una vez realizada la inventariación, disposición y adjudicación de todos los bienes de la Empresa Nacional de Ferrocarriles – ENFE RESIDUAL, la autoridad competente procederá a la liquidación de dicha empresa mediante normativa específica.
+
+**QUINTA.** En tanto no se implemente el Sistema Nacional de Inspección Técnica Vehicular, las inspecciones técnicas de las unidades de transporte público, se realizarán de acuerdo a normativa específica, que aseguren óptimas condiciones técnicas de las unidades de transporte.
+
+**SEXTA.** En tanto no se promulgue la normativa específica referida a sanciones por estado de embriaguez y/o bajo la influencia de estupefacientes para el servicio de transporte público interprovincial, se aplicará lo establecido en el Decreto Supremo No. 420 de fecha 03 de febrero de 2010 y el Decreto Supremo No. 659 del 06 de octubre de 2010.
+
+**DISPOSICIONES ABROGATORIAS Y DEROGATORIAS**
+
+**ÚNICA.** Se abrogan y derogan todas las disposiciones contrarias a la presente Ley.
+
+Remítase al Órgano Ejecutivo, para fines constitucionales.
+
+Es dada en la Sala de Sesiones de la Asamblea Legislativa Plurinacional, a los cinco días del mes de agosto de dos mil once años.
+
+===== Page 6 =====
+
+Fdo. René O. Martínez Callahuanca, Flora Aguilar Fernández, Zonia Guardia Melgar, Carmen García M., Esteban Ramírez Torrico, Ángel David Cortés Villegas.
+
+Por tanto, la promulgo para que se tenga y cumpla como Ley del Estado Plurinacional de Bolivia.
+
+Palacio de Gobierno de la ciudad de La Paz, a los dieciséis días del mes agosto de dos mil once años.
+
+**FDO. EVO MORALES AYMA, David Choquehuanca Céspedes, Carlos Romero Bonifaz, Sacha Sergio Llorentty Solíz, María Cecilia Chacón Rendón, E. Viviana Caro Hinojosa, Luís Alberto Arce Catacora, Daniel Santalla Torrez, Julieta Mabel Monje Villa, Claudia Stacy Peña Claros.**
+
+# LEY N° 2902 LEY DE 29 DE OCTUBRE DE 2004
+
+Category: LeyPublished on Thursday, 26 July 2012 22:17Super User Hits: 7543
+
+## LEY N° 2902 LEY DE 29 DE OCTUBRE DE 2004
+
+AERONÁUTICA CIVIL DE LA REPUBLICA DE BOLIVIA TITULO PRELIMINAR DISPOSICIONES GENERALES CAPITULO I MARCO JURÍDICO, JURISDICCIÓN Y COMPETENCIA
+
+ARTÍCULO 1°. La Aeronáutica Civil en la República de Bolivia se rige por la Constitución Política del Estado, por los Tratados e Instrumentos Internacionales suscritos, adheridos y ratificados por Bolivia, la presente Ley, sus Reglamentos y Anexos, la Reglamentación Aeronáutica Boliviana, la Ley del Sistema de Regulación Sectorial y demás normas complementarias; constituyendo de prioridad nacional su desarrollo. La República de Bolivia ejerce soberanía completa y exclusiva sobre el espacio aéreo que cubre su territorio, de acuerdo con los principios del Derecho Internacional y con los Tratados vigentes. Las Políticas de Estado en materia aeronáutica, serán dictadas por el Poder Ejecutivo a través de sus organismos pertinentes, cuando sean necesarias o convenientes y de conformidad a la presente Ley.
+
+ARTÍCULO 2°. Si se presentase una situación no prevista en esta Ley, se resolverá por los principios generales del Derecho Aeronáutico, por los usos y costumbres de la actividad aérea y, si todavía la solución proporcionada fuese considerada dudosa, por las leyes análogas o por los principios generales del derecho común y por los principios del Derecho Administrativo que rigen la materia, teniendo en consideración las circunstancias del caso. Las normas del Libro Primero del Código Penal Boliviano, se aplicarán a los delitos previstos en esta Ley en cuanto sean compatibles.
+
+ARTÍCULO 3°. Las actividades aeronáuticas civiles y comerciales, serán ejercidas prioritariamente por el sector privado y deberán sujetarse a los recaudos fijados en la presente Ley y su Reglamento. De igual manera el Estado podrá realizar actividades aeronáuticas civiles y comerciales, previa autorización y cumplimiento de los requisitos establecidos.
+
+ARTÍCULO 4°. El conocimiento y decisión de las causas inherentes sobre aeronáutica civil y los delitos que se relacionen con la misma, son de jurisdicción y competencia de los tribunales ordinarios de la Nación.
+
+ARTÍCULO 5°. Se rigen por las Leyes de la República y serán juzgados por sus tribunales:
+
+a) Los hechos ocurridos, los actos realizados y los delitos cometidos a bordo de una aeronave privada boliviana, sobre territorio boliviano, sobre alta mar o en el espacio aéreo que no dependa de la soberanía de ningún Estado;
+
+b) Los hechos ocurridos, los actos realizados y los delitos cometidos a bordo de una aeronave privada boliviana sobre territorio extranjero, excepto en aquellos casos en que se comprometa la seguridad del Estado subyacente, o se cause daños a las personas o bienes en la superficie.
+
+Se rigen, asimismo, por las Leyes de la República y serán juzgados por sus tribunales, los hechos ocurridos, los actos realizados y los delitos cometidos a bordo de una aeronave extranjera, sobre territorio boliviano, en los siguientes casos:
+
+a) Cuando comprometan la seguridad del Estado boliviano.
+
+b) Cuando causen daño a las personas o bienes de terceros en territorio boliviano.
+
+c) Cuando la aeronave hubiere realizado en el territorio nacional el primer aterrizaje posterior al hecho, acto o delito.
+
+d) Cuando infrinjan Leyes o Reglamentos de circulación aérea.
+
+ARTÍCULO 6°. Los hechos ocurridos, los actos realizados y los delitos cometidos a bordo de una aeronave pública extranjera, sobre territorio boliviano, estarán regidos por la Ley del Pabellón y serán juzgados por sus tribunales, excepto lo estipulado en el Artículo anterior.
+
+ARTÍCULO 7°. La autoridad aeronáutica tendrá acceso, sin ninguna restricción, a cualquier aeronave civil que opere dentro del territorio boliviano con el propósito de asegurar que la misma se encuentra en condiciones aeronavegables y que está siendo operada de acuerdo con lo estipulado por esta Ley, sus Reglamentos y los Anexos aplicables de la Organización de Aviación Civil Internacional (OACI).
+
+ARTÍCULO 8°. La autoridad aeronáutica tendrá acceso, sin ninguna restricción, en cualquier parte del mundo, a cualquier aeronave matriculada en la República de Bolivia, con el propósito de asegurar que la misma se encuentra en condición aeronavegable y que está siendo operada de acuerdo con lo estipulado por esta Ley, sus Reglamentos y los Anexos aplicables de la Organización de Aviación Civil Internacional (OACI). La autoridad aeronáutica tendrá acceso, sin ninguna restricción, a todo lugar en el que se lleven a cabo actividades de aviación civil. Así como el derecho a inspeccionar todo documento, equipo e instalación a fin de garantizar la debida aplicación por lo determinado por esta Ley y sus Reglamentos.
+
+===== Page 10 =====
+
+CAPITULO II CONCEPTOS Y DEFINICIONES
+
+ARTÍCULO 9°. A los fines y efectos de la presente Ley, se aplicarán y entenderán los siguientes conceptos:
+
+a) Abordaje Aéreo. Toda colisión entre dos o más aeronaves en movimiento o en vuelo, o daños producidos entre aeronaves en movimiento.
+
+b) Aeródromo. Toda área definida de tierra o de agua, que incluya edificaciones, instalaciones y equipos, destinadas total o parcialmente al despegue, aterrizaje y movimiento de aeronaves habilitadas y certificadas por la autoridad aeronáutica.
+
+c) Aeropuerto. Es el conjunto de instalaciones, terminales y servicios auxiliares en general asentados dentro de un Aeródromo, donde se realizan y controlan las operaciones aeronáuticas de superficie y de circulación aérea.
+
+d) Aeronave. Toda máquina que pueda sustentarse en la atmósfera utilizando reacciones del aire que no sean las reacciones del mismo contra la superficie de la tierra.
+
+e) Aeronáutica Civil. Conjunto de actividades y servicios vinculados con el empleo de aeronaves privadas y públicas, excluidas las militares. Sin embargo, se aplicarán también a estas últimas las normas sobre circulación aérea, responsabilidad, búsqueda, asistencia y salvamento, tomando en consideración las circunstancias de cada caso.
+
+f) Autoridad Aeronáutica Civil. Máxima autoridad técnica operativa del sector aeronáutico civil nacional, ejercida dentro un organismo autárquico, conforme a las atribuciones y obligaciones fijadas por Ley y normas reglamentarias. La autoridad aeronáutica tiene a su cargo la aplicación de la presente Ley y sus Reglamentos, así como de reglamentar, fiscalizar, inspeccionar y controlar las actividades aéreas e investigar los incidentes y accidentes aeronáuticos.
+
+g) Autoridad de Regulación Sectorial. Es el Órgano, encargado de aplicar las normas establecidas por la presente Ley, la Ley del Sistema de Regulación Sectorial y sus Decretos Reglamentarios.
+
+h) Contrato de Fletamento. Es aquel por el cual una parte llamada fletante pone a disposición de otra llamada fletador, mediante un precio, el uso de la capacidad total o parcial de una aeronave, para uno o más viajes o durante un plazo determinado, con objeto de realizar una actividad aeronáutica específica, manteniendo el fletante, el control sobre la tripulación y la conducción técnica de la aeronave.
+
+i) Contrato de Locación de Aeronaves. Es aquél mediante el cual una parte llamada locador se obliga a transferir a otra llamada locatario, el derecho de uso y goce de una aeronave determinada, con tripulación o sin ella durante un cierto tiempo, por uno o más vuelos o por una distancia a recorrer, para ser utilizada en una actividad específicamente aeronáutica obligándose la otra parte a pagar un precio.
+
+j) Contrato de Intercambio de Aeronaves. Es aquél mediante el cual dos o más explotadores se conceden recíprocamente el derecho a utilizar sus respectivas aeronaves, con o sin tripulación.
+
+k) Controlador de Transito Aéreo. Es el funcionario técnico y especializado, de la entidad encargada de prestar los servicios de control de tránsito aéreo dentro de los límites del territorio nacional y poseedor de licencia aeronáutica vigente, con las respectivas habilitaciones expedidas y convalidadas por la Autoridad Aeronáutica.
+
+l) Entidad Pública Administradora de Aeropuertos. Es la Administración de Aeropuertos y Servicios Auxiliares a la Navegación Aérea - AASANA, encargada, por Ley No 412, de 16 de octubre de 1968, de administrar los aeropuertos públicos del país, así como de proporcionar los servicios auxiliares a la navegación aérea; tiene a su cargo el control del tráfico aéreo y protección al vuelo a nivel nacional.
+
+m) Explotador de Aeronave. Persona que la opera legítimamente por cuenta propia, aun sin fines de lucro.
+
+n) Infraestructura Aeronáutica. Conjunto de edificaciones, instalaciones y servicios establecidos en la superficie y destinados a proveer los medios necesarios a la seguridad aérea y facilitar un adecuado movimiento del tráfico aéreo.
+
+o) Jefe y Encargado de Aeródromo. Funcionario responsable de la dirección, control, coordinación y régimen interno de todo aeródromo público, designado por la Entidad Administradora del Aeródromo conforme a la reglamentación que determinará los requisitos necesarios para desempeñarse en el cargo, así como las facultades y obligaciones del mismo y del resto del personal aeronáutico que se desempeñe en los aeródromos públicos. En los aeródromos privados habrá un responsable, pudiendo dicha función estar a cargo del propietario o tenedor del campo u otra persona designada por este. El nombre, domicilio, y fecha de designación del responsable serán comunicados a la autoridad aeronáutica.
+
+p) Personal Aeronáutico. Todo titular de licencia otorgada por la autoridad aeronáutica civil.
+
+q) Servicios a la Navegación Aérea y Protección al Vuelo. Son los que garantizan su seguridad y regularidad, tales como el control de tránsito aéreo, las radiocomunicaciones aeronáuticas y radio-ayudas a la navegación aérea, los informes meteorológicos, satelitales y los servicios de ayudas visuales.
+
+r) Superficie Limitadora de Obstáculos. Planos imaginarios oblicuos y horizontales que se extienden sobre cada aeródromo y sus inmediaciones, tendientes a limitar la altura de los obstáculos a la circulación aérea, de acuerdo a normas nacionales e internacionales.
+
+s) Sistemas Computarizados de Reservas. Son aquellos que ofrecen información sobre horarios, itinerarios, disponibilidad de asientos o de capacidad de carga, tarifas y servicios vinculados al transporte aéreo.
+
+t) Transporte Aéreo. Toda serie de actos destinados a trasladar en aeronaves a personas o cosas, de un aeródromo a otro.
+
+u) Trabajo Aéreo. Toda operación especializada de aeronaves de aviación comercial en sus distintas actividades, con exclusión de los Servicios de Transporte Aéreo.
+
+
+
+
+
