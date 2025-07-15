@@ -1,6 +1,6 @@
-# "2012 Año de la No Violencia Contra la Niñez y Adolescencia en el Estado Plurinacional de Bolivia"
+# Reglamento de facturacion cobranza corte RM351
 
-## RESOLUCIÓN MINISTERIAL Nº  
+## RESOLUCIÓN MINISTERIAL Nº 351 
 La Paz, 21 DIC. 2012  
 
 ### CONSIDERANDO:  
